@@ -3,11 +3,11 @@ I selectively reproduced some of the results in [Recurrent Convolutional Neural 
 
 I designed, tested, and modified RCNN block for classification task on MNIST and CIFAR10 respectively. The normalization method used in the paper is LRU(local response unit). My main focus is on trying different normalization methods to further improve performance. The methods I used include LRN, BN(batch normalization), LN(layer normalization).
 
-It turns out that a lot of details, such as setting of dropout layers, effect network performance, and Batch Normalization beats all other methods I tried and successfully improve test accurary rate.
+It turns out that a lot of details, such as setting of dropout layers, affect network performance, and Batch Normalization beats all other methods I tried and successfully improve test accurary rate.
 
 ## RCNN for CIFAR10
 
-One important technique when using BN instead of LRN is that for each iteration, we need to use a different BN layer (notice that there are 2 parameters in each BN layer, namely \gamma and \beta, see [pytorch docs](https://pytorch.org/docs/stable/nn.html?highlight=batchnorm#torch.nn.BatchNorm1d)), otherwise the performance would become poor (more than 7~8% drop in test accuracy), which coincides with the experience that BN in RNN doesn't work well. Also, using a BN with 2 parameters for each iteration makes the network not a strict RNN, although that doesn't seem to cost much when unfolding time is not large.
+One important technique when using BN instead of LRN is that for each iteration, we need to use a different BN layer (notice that there are 2 parameters in each BN layer, namely $\gamma$ and $\beta$, see [pytorch docs](https://pytorch.org/docs/stable/nn.html?highlight=batchnorm#torch.nn.BatchNorm1d)), otherwise the performance would become poor (more than 7~8% drop in test accuracy), which coincides with the experience that BN in RNN doesn't work well. Also, using a BN with 2 parameters for each iteration makes the network not a strict RNN, although that doesn't seem to cost much when unfolding time is not large.
 
 The following are experiment results of RCNN using BN.
 | Network  | No. of Parameters | Testing Error (%) |
@@ -16,7 +16,7 @@ The following are experiment results of RCNN using BN.
 | RCNN_BN-128 |      1.19 M       |       6.50        |
 | RCNN_BN-160 |      1.86 M       |       6.65        |
 
-[comment]:![train_curve_96](./Data/RCNN-CIFAR10/RCNN-BN-D/96.jpg)
+[comment]:![train_curve_96](./Data/RCNN-CIFAR10/RCNN-BN-D/96.png)
 <div align="center">
     <img src="./Data/RCNN-CIFAR10/RCNN-BN-D/96.jpg" width=500>
     <br>
