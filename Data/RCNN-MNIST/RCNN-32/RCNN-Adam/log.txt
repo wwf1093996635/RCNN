@@ -1,0 +1,1836 @@
+epoch=1
+epoch: 1, No: 1280 loss: 2.146 acc: 0.252
+epoch: 1, No: 2560 loss: 1.701 acc: 0.498
+epoch: 1, No: 3840 loss: 1.366 acc: 0.694
+epoch: 1, No: 5120 loss: 1.022 acc: 0.853
+epoch: 1, No: 6400 loss: 0.727 acc: 0.916
+epoch: 1, No: 7680 loss: 0.503 acc: 0.934
+epoch: 1, No: 8960 loss: 0.375 acc: 0.941
+epoch: 1, No: 10240 loss: 0.289 acc: 0.954
+epoch: 1, No: 11520 loss: 0.235 acc: 0.964
+epoch: 1, No: 12800 loss: 0.221 acc: 0.952
+epoch: 1, No: 14080 loss: 0.160 acc: 0.970
+epoch: 1, No: 15360 loss: 0.144 acc: 0.973
+epoch: 1, No: 16640 loss: 0.151 acc: 0.966
+epoch: 1, No: 17920 loss: 0.125 acc: 0.973
+epoch: 1, No: 19200 loss: 0.140 acc: 0.969
+epoch: 1, No: 20480 loss: 0.112 acc: 0.974
+epoch: 1, No: 21760 loss: 0.113 acc: 0.973
+epoch: 1, No: 23040 loss: 0.096 acc: 0.981
+epoch: 1, No: 24320 loss: 0.117 acc: 0.970
+epoch: 1, No: 25600 loss: 0.118 acc: 0.966
+epoch: 1, No: 26880 loss: 0.108 acc: 0.970
+epoch: 1, No: 28160 loss: 0.104 acc: 0.972
+epoch: 1, No: 29440 loss: 0.113 acc: 0.973
+epoch: 1, No: 30720 loss: 0.092 acc: 0.977
+epoch: 1, No: 32000 loss: 0.087 acc: 0.980
+epoch: 1, No: 33280 loss: 0.082 acc: 0.980
+epoch: 1, No: 34560 loss: 0.068 acc: 0.988
+epoch: 1, No: 35840 loss: 0.064 acc: 0.984
+epoch: 1, No: 37120 loss: 0.075 acc: 0.980
+epoch: 1, No: 38400 loss: 0.076 acc: 0.980
+epoch: 1, No: 39680 loss: 0.068 acc: 0.983
+epoch: 1, No: 40960 loss: 0.068 acc: 0.984
+epoch: 1, No: 42240 loss: 0.043 acc: 0.989
+epoch: 1, No: 43520 loss: 0.054 acc: 0.984
+epoch: 1, No: 44800 loss: 0.080 acc: 0.980
+epoch: 1, No: 46080 loss: 0.054 acc: 0.987
+epoch: 1, No: 47360 loss: 0.053 acc: 0.987
+epoch: 1, No: 48640 loss: 0.053 acc: 0.985
+epoch: 1, No: 49920 loss: 0.084 acc: 0.976
+epoch: 1, No: 51200 loss: 0.070 acc: 0.980
+epoch: 1, No: 52480 loss: 0.061 acc: 0.981
+epoch: 1, No: 53760 loss: 0.063 acc: 0.983
+epoch: 1, No: 55040 loss: 0.061 acc: 0.983
+epoch: 1, No: 56320 loss: 0.053 acc: 0.984
+epoch: 1, No: 57600 loss: 0.055 acc: 0.987
+epoch: 1, No: 58880 loss: 0.055 acc: 0.984
+
+validating
+epoch: 2, i: 1280 acc: 0.881
+epoch: 2, i: 2560 acc: 0.981
+epoch: 2, i: 3840 acc: 0.980
+epoch: 2, i: 5120 acc: 0.984
+epoch: 2, i: 6400 acc: 0.980
+epoch: 2, i: 7680 acc: 0.983
+epoch: 2, i: 8960 acc: 0.980
+epoch: 2, i: 10240 acc: 0.897
+val_loss:0.077960 val_acc:5.327828
+
+start training
+epoch=1
+epoch: 2, No: 1280 loss: 0.060 acc: 0.981
+epoch: 2, No: 2560 loss: 0.066 acc: 0.984
+epoch: 2, No: 3840 loss: 0.083 acc: 0.978
+epoch: 2, No: 5120 loss: 0.057 acc: 0.982
+epoch: 2, No: 6400 loss: 0.049 acc: 0.984
+epoch: 2, No: 7680 loss: 0.053 acc: 0.984
+epoch: 2, No: 8960 loss: 0.050 acc: 0.989
+epoch: 2, No: 10240 loss: 0.050 acc: 0.987
+epoch: 2, No: 11520 loss: 0.070 acc: 0.981
+epoch: 2, No: 12800 loss: 0.066 acc: 0.984
+epoch: 2, No: 14080 loss: 0.044 acc: 0.988
+epoch: 2, No: 15360 loss: 0.064 acc: 0.984
+epoch: 2, No: 16640 loss: 0.059 acc: 0.984
+epoch: 2, No: 17920 loss: 0.040 acc: 0.991
+epoch: 2, No: 19200 loss: 0.037 acc: 0.988
+epoch: 2, No: 20480 loss: 0.043 acc: 0.986
+epoch: 2, No: 21760 loss: 0.041 acc: 0.988
+epoch: 2, No: 23040 loss: 0.055 acc: 0.984
+epoch: 2, No: 24320 loss: 0.041 acc: 0.985
+epoch: 2, No: 25600 loss: 0.037 acc: 0.989
+epoch: 2, No: 26880 loss: 0.038 acc: 0.991
+epoch: 2, No: 28160 loss: 0.036 acc: 0.988
+epoch: 2, No: 29440 loss: 0.061 acc: 0.984
+epoch: 2, No: 30720 loss: 0.038 acc: 0.989
+epoch: 2, No: 32000 loss: 0.048 acc: 0.987
+epoch: 2, No: 33280 loss: 0.053 acc: 0.986
+epoch: 2, No: 34560 loss: 0.064 acc: 0.981
+epoch: 2, No: 35840 loss: 0.046 acc: 0.987
+epoch: 2, No: 37120 loss: 0.053 acc: 0.984
+epoch: 2, No: 38400 loss: 0.046 acc: 0.984
+epoch: 2, No: 39680 loss: 0.061 acc: 0.979
+epoch: 2, No: 40960 loss: 0.039 acc: 0.988
+epoch: 2, No: 42240 loss: 0.041 acc: 0.988
+epoch: 2, No: 43520 loss: 0.046 acc: 0.987
+epoch: 2, No: 44800 loss: 0.050 acc: 0.984
+epoch: 2, No: 46080 loss: 0.049 acc: 0.985
+epoch: 2, No: 47360 loss: 0.077 acc: 0.983
+epoch: 2, No: 48640 loss: 0.055 acc: 0.982
+epoch: 2, No: 49920 loss: 0.048 acc: 0.984
+epoch: 2, No: 51200 loss: 0.048 acc: 0.983
+epoch: 2, No: 52480 loss: 0.037 acc: 0.991
+epoch: 2, No: 53760 loss: 0.035 acc: 0.989
+epoch: 2, No: 55040 loss: 0.029 acc: 0.991
+epoch: 2, No: 56320 loss: 0.039 acc: 0.991
+epoch: 2, No: 57600 loss: 0.043 acc: 0.983
+epoch: 2, No: 58880 loss: 0.052 acc: 0.985
+Module Saved
+validating
+epoch: 2, i: 1280 acc: 0.884
+epoch: 2, i: 2560 acc: 0.988
+epoch: 2, i: 3840 acc: 0.989
+epoch: 2, i: 5120 acc: 0.984
+epoch: 2, i: 6400 acc: 0.987
+epoch: 2, i: 7680 acc: 0.984
+epoch: 2, i: 8960 acc: 0.991
+epoch: 2, i: 10240 acc: 0.902
+val_loss:0.052352 val_acc:5.358188
+epoch=2
+epoch: 3, No: 1280 loss: 0.049 acc: 0.985
+epoch: 3, No: 2560 loss: 0.042 acc: 0.991
+epoch: 3, No: 3840 loss: 0.022 acc: 0.995
+epoch: 3, No: 5120 loss: 0.020 acc: 0.995
+epoch: 3, No: 6400 loss: 0.020 acc: 0.994
+epoch: 3, No: 7680 loss: 0.040 acc: 0.987
+epoch: 3, No: 8960 loss: 0.038 acc: 0.988
+epoch: 3, No: 10240 loss: 0.034 acc: 0.991
+epoch: 3, No: 11520 loss: 0.046 acc: 0.983
+epoch: 3, No: 12800 loss: 0.034 acc: 0.987
+epoch: 3, No: 14080 loss: 0.048 acc: 0.988
+epoch: 3, No: 15360 loss: 0.027 acc: 0.991
+epoch: 3, No: 16640 loss: 0.040 acc: 0.988
+epoch: 3, No: 17920 loss: 0.039 acc: 0.987
+epoch: 3, No: 19200 loss: 0.030 acc: 0.992
+epoch: 3, No: 20480 loss: 0.044 acc: 0.987
+epoch: 3, No: 21760 loss: 0.046 acc: 0.987
+epoch: 3, No: 23040 loss: 0.042 acc: 0.984
+epoch: 3, No: 24320 loss: 0.044 acc: 0.986
+epoch: 3, No: 25600 loss: 0.035 acc: 0.988
+epoch: 3, No: 26880 loss: 0.032 acc: 0.989
+epoch: 3, No: 28160 loss: 0.023 acc: 0.995
+epoch: 3, No: 29440 loss: 0.028 acc: 0.992
+epoch: 3, No: 30720 loss: 0.031 acc: 0.992
+epoch: 3, No: 32000 loss: 0.054 acc: 0.984
+epoch: 3, No: 33280 loss: 0.042 acc: 0.986
+epoch: 3, No: 34560 loss: 0.034 acc: 0.991
+epoch: 3, No: 35840 loss: 0.036 acc: 0.989
+epoch: 3, No: 37120 loss: 0.033 acc: 0.990
+epoch: 3, No: 38400 loss: 0.041 acc: 0.987
+epoch: 3, No: 39680 loss: 0.030 acc: 0.990
+epoch: 3, No: 40960 loss: 0.045 acc: 0.988
+epoch: 3, No: 42240 loss: 0.051 acc: 0.980
+epoch: 3, No: 43520 loss: 0.049 acc: 0.987
+epoch: 3, No: 44800 loss: 0.039 acc: 0.984
+epoch: 3, No: 46080 loss: 0.040 acc: 0.988
+epoch: 3, No: 47360 loss: 0.021 acc: 0.996
+epoch: 3, No: 48640 loss: 0.028 acc: 0.989
+epoch: 3, No: 49920 loss: 0.039 acc: 0.991
+epoch: 3, No: 51200 loss: 0.053 acc: 0.984
+epoch: 3, No: 52480 loss: 0.030 acc: 0.994
+epoch: 3, No: 53760 loss: 0.025 acc: 0.991
+epoch: 3, No: 55040 loss: 0.039 acc: 0.989
+epoch: 3, No: 56320 loss: 0.036 acc: 0.991
+epoch: 3, No: 57600 loss: 0.031 acc: 0.990
+epoch: 3, No: 58880 loss: 0.028 acc: 0.991
+Module Saved
+validating
+epoch: 3, i: 1280 acc: 0.892
+epoch: 3, i: 2560 acc: 0.997
+epoch: 3, i: 3840 acc: 0.994
+epoch: 3, i: 5120 acc: 0.991
+epoch: 3, i: 6400 acc: 0.994
+epoch: 3, i: 7680 acc: 0.991
+epoch: 3, i: 8960 acc: 0.990
+epoch: 3, i: 10240 acc: 0.901
+val_loss:0.033174 val_acc:5.388449
+epoch=3
+epoch: 4, No: 1280 loss: 0.020 acc: 0.995
+epoch: 4, No: 2560 loss: 0.026 acc: 0.991
+epoch: 4, No: 3840 loss: 0.026 acc: 0.992
+epoch: 4, No: 5120 loss: 0.035 acc: 0.989
+epoch: 4, No: 6400 loss: 0.026 acc: 0.993
+epoch: 4, No: 7680 loss: 0.028 acc: 0.995
+epoch: 4, No: 8960 loss: 0.013 acc: 0.997
+epoch: 4, No: 10240 loss: 0.036 acc: 0.991
+epoch: 4, No: 11520 loss: 0.023 acc: 0.995
+epoch: 4, No: 12800 loss: 0.038 acc: 0.988
+epoch: 4, No: 14080 loss: 0.026 acc: 0.987
+epoch: 4, No: 15360 loss: 0.027 acc: 0.994
+epoch: 4, No: 16640 loss: 0.026 acc: 0.994
+epoch: 4, No: 17920 loss: 0.018 acc: 0.998
+epoch: 4, No: 19200 loss: 0.027 acc: 0.990
+epoch: 4, No: 20480 loss: 0.024 acc: 0.993
+epoch: 4, No: 21760 loss: 0.037 acc: 0.988
+epoch: 4, No: 23040 loss: 0.028 acc: 0.993
+epoch: 4, No: 24320 loss: 0.015 acc: 0.995
+epoch: 4, No: 25600 loss: 0.023 acc: 0.994
+epoch: 4, No: 26880 loss: 0.031 acc: 0.991
+epoch: 4, No: 28160 loss: 0.024 acc: 0.990
+epoch: 4, No: 29440 loss: 0.026 acc: 0.990
+epoch: 4, No: 30720 loss: 0.032 acc: 0.988
+epoch: 4, No: 32000 loss: 0.035 acc: 0.990
+epoch: 4, No: 33280 loss: 0.034 acc: 0.990
+epoch: 4, No: 34560 loss: 0.037 acc: 0.989
+epoch: 4, No: 35840 loss: 0.042 acc: 0.989
+epoch: 4, No: 37120 loss: 0.040 acc: 0.987
+epoch: 4, No: 38400 loss: 0.044 acc: 0.987
+epoch: 4, No: 39680 loss: 0.033 acc: 0.989
+epoch: 4, No: 40960 loss: 0.033 acc: 0.989
+epoch: 4, No: 42240 loss: 0.029 acc: 0.993
+epoch: 4, No: 43520 loss: 0.036 acc: 0.986
+epoch: 4, No: 44800 loss: 0.030 acc: 0.991
+epoch: 4, No: 46080 loss: 0.029 acc: 0.991
+epoch: 4, No: 47360 loss: 0.022 acc: 0.993
+epoch: 4, No: 48640 loss: 0.028 acc: 0.991
+epoch: 4, No: 49920 loss: 0.027 acc: 0.991
+epoch: 4, No: 51200 loss: 0.035 acc: 0.985
+epoch: 4, No: 52480 loss: 0.019 acc: 0.994
+epoch: 4, No: 53760 loss: 0.031 acc: 0.992
+epoch: 4, No: 55040 loss: 0.027 acc: 0.991
+epoch: 4, No: 56320 loss: 0.028 acc: 0.992
+epoch: 4, No: 57600 loss: 0.023 acc: 0.990
+epoch: 4, No: 58880 loss: 0.026 acc: 0.990
+Module Saved
+validating
+epoch: 4, i: 1280 acc: 0.887
+epoch: 4, i: 2560 acc: 0.992
+epoch: 4, i: 3840 acc: 0.993
+epoch: 4, i: 5120 acc: 0.988
+epoch: 4, i: 6400 acc: 0.993
+epoch: 4, i: 7680 acc: 0.994
+epoch: 4, i: 8960 acc: 0.988
+epoch: 4, i: 10240 acc: 0.905
+val_loss:0.031610 val_acc:5.379747
+epoch=4
+epoch: 5, No: 1280 loss: 0.027 acc: 0.992
+epoch: 5, No: 2560 loss: 0.021 acc: 0.995
+epoch: 5, No: 3840 loss: 0.017 acc: 0.995
+epoch: 5, No: 5120 loss: 0.026 acc: 0.993
+epoch: 5, No: 6400 loss: 0.015 acc: 0.996
+epoch: 5, No: 7680 loss: 0.017 acc: 0.995
+epoch: 5, No: 8960 loss: 0.020 acc: 0.995
+epoch: 5, No: 10240 loss: 0.022 acc: 0.992
+epoch: 5, No: 11520 loss: 0.015 acc: 0.995
+epoch: 5, No: 12800 loss: 0.023 acc: 0.991
+epoch: 5, No: 14080 loss: 0.019 acc: 0.992
+epoch: 5, No: 15360 loss: 0.025 acc: 0.994
+epoch: 5, No: 16640 loss: 0.024 acc: 0.994
+epoch: 5, No: 17920 loss: 0.020 acc: 0.997
+epoch: 5, No: 19200 loss: 0.034 acc: 0.988
+epoch: 5, No: 20480 loss: 0.019 acc: 0.995
+epoch: 5, No: 21760 loss: 0.037 acc: 0.988
+epoch: 5, No: 23040 loss: 0.032 acc: 0.991
+epoch: 5, No: 24320 loss: 0.023 acc: 0.994
+epoch: 5, No: 25600 loss: 0.015 acc: 0.995
+epoch: 5, No: 26880 loss: 0.014 acc: 0.996
+epoch: 5, No: 28160 loss: 0.018 acc: 0.995
+epoch: 5, No: 29440 loss: 0.028 acc: 0.991
+epoch: 5, No: 30720 loss: 0.016 acc: 0.995
+epoch: 5, No: 32000 loss: 0.035 acc: 0.992
+epoch: 5, No: 33280 loss: 0.026 acc: 0.993
+epoch: 5, No: 34560 loss: 0.022 acc: 0.994
+epoch: 5, No: 35840 loss: 0.025 acc: 0.991
+epoch: 5, No: 37120 loss: 0.022 acc: 0.991
+epoch: 5, No: 38400 loss: 0.029 acc: 0.991
+epoch: 5, No: 39680 loss: 0.024 acc: 0.991
+epoch: 5, No: 40960 loss: 0.027 acc: 0.995
+epoch: 5, No: 42240 loss: 0.013 acc: 0.996
+epoch: 5, No: 43520 loss: 0.016 acc: 0.995
+epoch: 5, No: 44800 loss: 0.020 acc: 0.994
+epoch: 5, No: 46080 loss: 0.019 acc: 0.994
+epoch: 5, No: 47360 loss: 0.016 acc: 0.995
+epoch: 5, No: 48640 loss: 0.033 acc: 0.988
+epoch: 5, No: 49920 loss: 0.027 acc: 0.993
+epoch: 5, No: 51200 loss: 0.029 acc: 0.991
+epoch: 5, No: 52480 loss: 0.026 acc: 0.991
+epoch: 5, No: 53760 loss: 0.029 acc: 0.991
+epoch: 5, No: 55040 loss: 0.025 acc: 0.993
+epoch: 5, No: 56320 loss: 0.027 acc: 0.993
+epoch: 5, No: 57600 loss: 0.033 acc: 0.989
+epoch: 5, No: 58880 loss: 0.024 acc: 0.992
+Module Saved
+validating
+epoch: 5, i: 1280 acc: 0.891
+epoch: 5, i: 2560 acc: 0.978
+epoch: 5, i: 3840 acc: 0.988
+epoch: 5, i: 5120 acc: 0.987
+epoch: 5, i: 6400 acc: 0.991
+epoch: 5, i: 7680 acc: 0.982
+epoch: 5, i: 8960 acc: 0.991
+epoch: 5, i: 10240 acc: 0.902
+val_loss:0.045742 val_acc:5.354331
+epoch=5
+epoch: 6, No: 1280 loss: 0.014 acc: 0.996
+epoch: 6, No: 2560 loss: 0.026 acc: 0.995
+epoch: 6, No: 3840 loss: 0.028 acc: 0.994
+epoch: 6, No: 5120 loss: 0.027 acc: 0.993
+epoch: 6, No: 6400 loss: 0.015 acc: 0.996
+epoch: 6, No: 7680 loss: 0.023 acc: 0.992
+epoch: 6, No: 8960 loss: 0.021 acc: 0.995
+epoch: 6, No: 10240 loss: 0.007 acc: 0.998
+epoch: 6, No: 11520 loss: 0.015 acc: 0.995
+epoch: 6, No: 12800 loss: 0.010 acc: 0.998
+epoch: 6, No: 14080 loss: 0.009 acc: 0.997
+epoch: 6, No: 15360 loss: 0.017 acc: 0.995
+epoch: 6, No: 16640 loss: 0.025 acc: 0.989
+epoch: 6, No: 17920 loss: 0.016 acc: 0.995
+epoch: 6, No: 19200 loss: 0.014 acc: 0.997
+epoch: 6, No: 20480 loss: 0.020 acc: 0.994
+epoch: 6, No: 21760 loss: 0.027 acc: 0.991
+epoch: 6, No: 23040 loss: 0.023 acc: 0.992
+epoch: 6, No: 24320 loss: 0.026 acc: 0.994
+epoch: 6, No: 25600 loss: 0.026 acc: 0.992
+epoch: 6, No: 26880 loss: 0.013 acc: 0.997
+epoch: 6, No: 28160 loss: 0.012 acc: 0.998
+epoch: 6, No: 29440 loss: 0.009 acc: 0.998
+epoch: 6, No: 30720 loss: 0.015 acc: 0.995
+epoch: 6, No: 32000 loss: 0.026 acc: 0.992
+epoch: 6, No: 33280 loss: 0.014 acc: 0.996
+epoch: 6, No: 34560 loss: 0.019 acc: 0.995
+epoch: 6, No: 35840 loss: 0.017 acc: 0.995
+epoch: 6, No: 37120 loss: 0.019 acc: 0.995
+epoch: 6, No: 38400 loss: 0.015 acc: 0.994
+epoch: 6, No: 39680 loss: 0.028 acc: 0.991
+epoch: 6, No: 40960 loss: 0.018 acc: 0.993
+epoch: 6, No: 42240 loss: 0.022 acc: 0.995
+epoch: 6, No: 43520 loss: 0.014 acc: 0.996
+epoch: 6, No: 44800 loss: 0.025 acc: 0.994
+epoch: 6, No: 46080 loss: 0.015 acc: 0.995
+epoch: 6, No: 47360 loss: 0.018 acc: 0.995
+epoch: 6, No: 48640 loss: 0.009 acc: 0.998
+epoch: 6, No: 49920 loss: 0.019 acc: 0.995
+epoch: 6, No: 51200 loss: 0.032 acc: 0.991
+epoch: 6, No: 52480 loss: 0.021 acc: 0.993
+epoch: 6, No: 53760 loss: 0.018 acc: 0.994
+epoch: 6, No: 55040 loss: 0.019 acc: 0.995
+epoch: 6, No: 56320 loss: 0.023 acc: 0.993
+epoch: 6, No: 57600 loss: 0.015 acc: 0.996
+epoch: 6, No: 58880 loss: 0.023 acc: 0.993
+Module Saved
+validating
+epoch: 6, i: 1280 acc: 0.891
+epoch: 6, i: 2560 acc: 0.985
+epoch: 6, i: 3840 acc: 0.991
+epoch: 6, i: 5120 acc: 0.986
+epoch: 6, i: 6400 acc: 0.986
+epoch: 6, i: 7680 acc: 0.988
+epoch: 6, i: 8960 acc: 0.984
+epoch: 6, i: 10240 acc: 0.902
+val_loss:0.044360 val_acc:5.359573
+epoch=6
+epoch: 7, No: 1280 loss: 0.015 acc: 0.995
+epoch: 7, No: 2560 loss: 0.012 acc: 0.996
+epoch: 7, No: 3840 loss: 0.010 acc: 0.998
+epoch: 7, No: 5120 loss: 0.015 acc: 0.995
+epoch: 7, No: 6400 loss: 0.016 acc: 0.992
+epoch: 7, No: 7680 loss: 0.010 acc: 0.997
+epoch: 7, No: 8960 loss: 0.015 acc: 0.995
+epoch: 7, No: 10240 loss: 0.014 acc: 0.995
+epoch: 7, No: 11520 loss: 0.021 acc: 0.996
+epoch: 7, No: 12800 loss: 0.017 acc: 0.995
+epoch: 7, No: 14080 loss: 0.013 acc: 0.995
+epoch: 7, No: 15360 loss: 0.010 acc: 0.996
+epoch: 7, No: 16640 loss: 0.021 acc: 0.996
+epoch: 7, No: 17920 loss: 0.013 acc: 0.995
+epoch: 7, No: 19200 loss: 0.009 acc: 0.998
+epoch: 7, No: 20480 loss: 0.014 acc: 0.995
+epoch: 7, No: 21760 loss: 0.014 acc: 0.996
+epoch: 7, No: 23040 loss: 0.014 acc: 0.994
+epoch: 7, No: 24320 loss: 0.020 acc: 0.994
+epoch: 7, No: 25600 loss: 0.013 acc: 0.995
+epoch: 7, No: 26880 loss: 0.017 acc: 0.995
+epoch: 7, No: 28160 loss: 0.021 acc: 0.994
+epoch: 7, No: 29440 loss: 0.019 acc: 0.995
+epoch: 7, No: 30720 loss: 0.024 acc: 0.995
+epoch: 7, No: 32000 loss: 0.014 acc: 0.996
+epoch: 7, No: 33280 loss: 0.039 acc: 0.988
+epoch: 7, No: 34560 loss: 0.022 acc: 0.991
+epoch: 7, No: 35840 loss: 0.023 acc: 0.991
+epoch: 7, No: 37120 loss: 0.017 acc: 0.995
+epoch: 7, No: 38400 loss: 0.023 acc: 0.991
+epoch: 7, No: 39680 loss: 0.017 acc: 0.992
+epoch: 7, No: 40960 loss: 0.011 acc: 0.997
+epoch: 7, No: 42240 loss: 0.016 acc: 0.997
+epoch: 7, No: 43520 loss: 0.012 acc: 0.996
+epoch: 7, No: 44800 loss: 0.009 acc: 0.998
+epoch: 7, No: 46080 loss: 0.011 acc: 0.996
+epoch: 7, No: 47360 loss: 0.019 acc: 0.995
+epoch: 7, No: 48640 loss: 0.017 acc: 0.995
+epoch: 7, No: 49920 loss: 0.017 acc: 0.995
+epoch: 7, No: 51200 loss: 0.019 acc: 0.995
+epoch: 7, No: 52480 loss: 0.021 acc: 0.990
+epoch: 7, No: 53760 loss: 0.008 acc: 0.998
+epoch: 7, No: 55040 loss: 0.020 acc: 0.995
+epoch: 7, No: 56320 loss: 0.023 acc: 0.994
+epoch: 7, No: 57600 loss: 0.025 acc: 0.992
+epoch: 7, No: 58880 loss: 0.027 acc: 0.992
+Module Saved
+validating
+epoch: 7, i: 1280 acc: 0.891
+epoch: 7, i: 2560 acc: 0.992
+epoch: 7, i: 3840 acc: 0.991
+epoch: 7, i: 5120 acc: 0.992
+epoch: 7, i: 6400 acc: 0.991
+epoch: 7, i: 7680 acc: 0.985
+epoch: 7, i: 8960 acc: 0.991
+epoch: 7, i: 10240 acc: 0.905
+val_loss:0.033055 val_acc:5.377769
+epoch=7
+epoch: 8, No: 1280 loss: 0.009 acc: 0.998
+epoch: 8, No: 2560 loss: 0.012 acc: 0.994
+epoch: 8, No: 3840 loss: 0.010 acc: 0.996
+epoch: 8, No: 5120 loss: 0.011 acc: 0.998
+epoch: 8, No: 6400 loss: 0.009 acc: 0.996
+epoch: 8, No: 7680 loss: 0.010 acc: 0.996
+epoch: 8, No: 8960 loss: 0.011 acc: 0.997
+epoch: 8, No: 10240 loss: 0.010 acc: 0.996
+epoch: 8, No: 11520 loss: 0.013 acc: 0.996
+epoch: 8, No: 12800 loss: 0.010 acc: 0.996
+epoch: 8, No: 14080 loss: 0.012 acc: 0.997
+epoch: 8, No: 15360 loss: 0.009 acc: 0.997
+epoch: 8, No: 16640 loss: 0.016 acc: 0.995
+epoch: 8, No: 17920 loss: 0.018 acc: 0.994
+epoch: 8, No: 19200 loss: 0.014 acc: 0.994
+epoch: 8, No: 20480 loss: 0.010 acc: 0.998
+epoch: 8, No: 21760 loss: 0.019 acc: 0.994
+epoch: 8, No: 23040 loss: 0.008 acc: 0.998
+epoch: 8, No: 24320 loss: 0.012 acc: 0.996
+epoch: 8, No: 25600 loss: 0.009 acc: 0.998
+epoch: 8, No: 26880 loss: 0.007 acc: 0.998
+epoch: 8, No: 28160 loss: 0.017 acc: 0.994
+epoch: 8, No: 29440 loss: 0.011 acc: 0.997
+epoch: 8, No: 30720 loss: 0.015 acc: 0.995
+epoch: 8, No: 32000 loss: 0.023 acc: 0.992
+epoch: 8, No: 33280 loss: 0.011 acc: 0.997
+epoch: 8, No: 34560 loss: 0.017 acc: 0.992
+epoch: 8, No: 35840 loss: 0.018 acc: 0.995
+epoch: 8, No: 37120 loss: 0.014 acc: 0.993
+epoch: 8, No: 38400 loss: 0.023 acc: 0.995
+epoch: 8, No: 39680 loss: 0.016 acc: 0.993
+epoch: 8, No: 40960 loss: 0.017 acc: 0.995
+epoch: 8, No: 42240 loss: 0.009 acc: 0.998
+epoch: 8, No: 43520 loss: 0.010 acc: 0.997
+epoch: 8, No: 44800 loss: 0.011 acc: 0.995
+epoch: 8, No: 46080 loss: 0.015 acc: 0.994
+epoch: 8, No: 47360 loss: 0.022 acc: 0.995
+epoch: 8, No: 48640 loss: 0.024 acc: 0.995
+epoch: 8, No: 49920 loss: 0.018 acc: 0.995
+epoch: 8, No: 51200 loss: 0.015 acc: 0.996
+epoch: 8, No: 52480 loss: 0.014 acc: 0.996
+epoch: 8, No: 53760 loss: 0.011 acc: 0.996
+epoch: 8, No: 55040 loss: 0.017 acc: 0.994
+epoch: 8, No: 56320 loss: 0.015 acc: 0.997
+epoch: 8, No: 57600 loss: 0.014 acc: 0.996
+epoch: 8, No: 58880 loss: 0.013 acc: 0.996
+Module Saved
+validating
+epoch: 8, i: 1280 acc: 0.893
+epoch: 8, i: 2560 acc: 0.990
+epoch: 8, i: 3840 acc: 0.993
+epoch: 8, i: 5120 acc: 0.996
+epoch: 8, i: 6400 acc: 0.994
+epoch: 8, i: 7680 acc: 0.995
+epoch: 8, i: 8960 acc: 0.992
+epoch: 8, i: 10240 acc: 0.907
+val_loss:0.026441 val_acc:5.395669
+epoch=8
+epoch: 9, No: 1280 loss: 0.014 acc: 0.995
+epoch: 9, No: 2560 loss: 0.017 acc: 0.995
+epoch: 9, No: 3840 loss: 0.008 acc: 0.997
+epoch: 9, No: 5120 loss: 0.008 acc: 0.997
+epoch: 9, No: 6400 loss: 0.017 acc: 0.996
+epoch: 9, No: 7680 loss: 0.011 acc: 0.995
+epoch: 9, No: 8960 loss: 0.016 acc: 0.996
+epoch: 9, No: 10240 loss: 0.008 acc: 0.998
+epoch: 9, No: 11520 loss: 0.007 acc: 0.997
+epoch: 9, No: 12800 loss: 0.012 acc: 0.995
+epoch: 9, No: 14080 loss: 0.011 acc: 0.998
+epoch: 9, No: 15360 loss: 0.014 acc: 0.995
+epoch: 9, No: 16640 loss: 0.007 acc: 0.998
+epoch: 9, No: 17920 loss: 0.013 acc: 0.996
+epoch: 9, No: 19200 loss: 0.013 acc: 0.997
+epoch: 9, No: 20480 loss: 0.008 acc: 0.998
+epoch: 9, No: 21760 loss: 0.008 acc: 0.997
+epoch: 9, No: 23040 loss: 0.010 acc: 0.997
+epoch: 9, No: 24320 loss: 0.009 acc: 0.996
+epoch: 9, No: 25600 loss: 0.004 acc: 0.999
+epoch: 9, No: 26880 loss: 0.013 acc: 0.994
+epoch: 9, No: 28160 loss: 0.012 acc: 0.995
+epoch: 9, No: 29440 loss: 0.017 acc: 0.995
+epoch: 9, No: 30720 loss: 0.014 acc: 0.996
+epoch: 9, No: 32000 loss: 0.017 acc: 0.994
+epoch: 9, No: 33280 loss: 0.012 acc: 0.995
+epoch: 9, No: 34560 loss: 0.010 acc: 0.997
+epoch: 9, No: 35840 loss: 0.013 acc: 0.995
+epoch: 9, No: 37120 loss: 0.017 acc: 0.994
+epoch: 9, No: 38400 loss: 0.019 acc: 0.994
+epoch: 9, No: 39680 loss: 0.026 acc: 0.994
+epoch: 9, No: 40960 loss: 0.014 acc: 0.997
+epoch: 9, No: 42240 loss: 0.011 acc: 0.997
+epoch: 9, No: 43520 loss: 0.016 acc: 0.995
+epoch: 9, No: 44800 loss: 0.013 acc: 0.995
+epoch: 9, No: 46080 loss: 0.007 acc: 0.998
+epoch: 9, No: 47360 loss: 0.009 acc: 0.996
+epoch: 9, No: 48640 loss: 0.019 acc: 0.995
+epoch: 9, No: 49920 loss: 0.015 acc: 0.996
+epoch: 9, No: 51200 loss: 0.009 acc: 0.998
+epoch: 9, No: 52480 loss: 0.008 acc: 0.998
+epoch: 9, No: 53760 loss: 0.009 acc: 0.996
+epoch: 9, No: 55040 loss: 0.014 acc: 0.994
+epoch: 9, No: 56320 loss: 0.008 acc: 0.997
+epoch: 9, No: 57600 loss: 0.019 acc: 0.993
+epoch: 9, No: 58880 loss: 0.013 acc: 0.996
+Module Saved
+validating
+epoch: 9, i: 1280 acc: 0.892
+epoch: 9, i: 2560 acc: 0.993
+epoch: 9, i: 3840 acc: 0.993
+epoch: 9, i: 5120 acc: 0.990
+epoch: 9, i: 6400 acc: 0.990
+epoch: 9, i: 7680 acc: 0.988
+epoch: 9, i: 8960 acc: 0.992
+epoch: 9, i: 10240 acc: 0.909
+val_loss:0.029840 val_acc:5.385384
+validating
+epoch: 11, i: 1280 acc_run: 0.897
+epoch: 11, i: 2560 acc_run: 0.991
+epoch: 11, i: 3840 acc_run: 0.991
+epoch: 11, i: 5120 acc_run: 0.995
+epoch: 11, i: 6400 acc_run: 0.994
+epoch: 11, i: 7680 acc_run: 0.990
+epoch: 11, i: 8960 acc_run: 0.990
+epoch: 11, i: 10240 acc_run: 0.901
+val_loss:0.030349 val_acc:0.980716
+start training
+epoch=11
+epoch: 11, No: 2560 loss: 0.011 acc: 0.997
+epoch: 11, No: 5120 loss: 0.010 acc: 0.998
+epoch: 11, No: 7680 loss: 0.009 acc: 0.998
+epoch: 11, No: 10240 loss: 0.008 acc: 0.997
+epoch: 11, No: 12800 loss: 0.011 acc: 0.996
+epoch: 11, No: 15360 loss: 0.016 acc: 0.994
+epoch: 11, No: 17920 loss: 0.009 acc: 0.996
+epoch: 11, No: 20480 loss: 0.014 acc: 0.995
+epoch: 11, No: 23040 loss: 0.017 acc: 0.994
+epoch: 11, No: 25600 loss: 0.010 acc: 0.996
+epoch: 11, No: 28160 loss: 0.014 acc: 0.995
+epoch: 11, No: 30720 loss: 0.012 acc: 0.995
+epoch: 11, No: 33280 loss: 0.013 acc: 0.996
+epoch: 11, No: 35840 loss: 0.021 acc: 0.994
+epoch: 11, No: 38400 loss: 0.012 acc: 0.995
+epoch: 11, No: 40960 loss: 0.015 acc: 0.996
+epoch: 11, No: 43520 loss: 0.021 acc: 0.994
+epoch: 11, No: 46080 loss: 0.009 acc: 0.997
+epoch: 11, No: 48640 loss: 0.014 acc: 0.995
+epoch: 11, No: 51200 loss: 0.008 acc: 0.998
+epoch: 11, No: 53760 loss: 0.010 acc: 0.997
+epoch: 11, No: 56320 loss: 0.010 acc: 0.997
+epoch: 11, No: 58880 loss: 0.016 acc: 0.995
+Module Saved
+validating
+epoch: 11, i: 1280 acc_run: 0.887
+epoch: 11, i: 2560 acc_run: 0.987
+epoch: 11, i: 3840 acc_run: 0.991
+epoch: 11, i: 5120 acc_run: 0.994
+epoch: 11, i: 6400 acc_run: 0.988
+epoch: 11, i: 7680 acc_run: 0.989
+epoch: 11, i: 8960 acc_run: 0.990
+epoch: 11, i: 10240 acc_run: 0.904
+val_loss:0.032575 val_acc:0.978244
+epoch=12
+epoch: 12, No: 2560 loss: 0.013 acc: 0.998
+epoch: 12, No: 5120 loss: 0.009 acc: 0.997
+epoch: 12, No: 7680 loss: 0.005 acc: 0.998
+epoch: 12, No: 10240 loss: 0.004 acc: 0.999
+epoch: 12, No: 12800 loss: 0.009 acc: 0.998
+epoch: 12, No: 15360 loss: 0.004 acc: 0.999
+epoch: 12, No: 17920 loss: 0.007 acc: 0.998
+epoch: 12, No: 20480 loss: 0.011 acc: 0.996
+epoch: 12, No: 23040 loss: 0.009 acc: 0.996
+epoch: 12, No: 25600 loss: 0.014 acc: 0.995
+epoch: 12, No: 28160 loss: 0.015 acc: 0.996
+epoch: 12, No: 30720 loss: 0.015 acc: 0.995
+epoch: 12, No: 33280 loss: 0.016 acc: 0.995
+epoch: 12, No: 35840 loss: 0.008 acc: 0.998
+epoch: 12, No: 38400 loss: 0.011 acc: 0.996
+epoch: 12, No: 40960 loss: 0.011 acc: 0.996
+epoch: 12, No: 43520 loss: 0.014 acc: 0.996
+epoch: 12, No: 46080 loss: 0.012 acc: 0.996
+epoch: 12, No: 48640 loss: 0.009 acc: 0.996
+epoch: 12, No: 51200 loss: 0.010 acc: 0.997
+epoch: 12, No: 53760 loss: 0.008 acc: 0.998
+epoch: 12, No: 56320 loss: 0.005 acc: 0.998
+epoch: 12, No: 58880 loss: 0.006 acc: 0.998
+Module Saved
+validating
+epoch: 12, i: 1280 acc_run: 0.890
+epoch: 12, i: 2560 acc_run: 0.989
+epoch: 12, i: 3840 acc_run: 0.992
+epoch: 12, i: 5120 acc_run: 0.991
+epoch: 12, i: 6400 acc_run: 0.991
+epoch: 12, i: 7680 acc_run: 0.993
+epoch: 12, i: 8960 acc_run: 0.989
+epoch: 12, i: 10240 acc_run: 0.905
+val_loss:0.029503 val_acc:0.979826
+epoch=13
+epoch: 13, No: 2560 loss: 0.010 acc: 0.996
+epoch: 13, No: 5120 loss: 0.009 acc: 0.997
+epoch: 13, No: 7680 loss: 0.013 acc: 0.995
+epoch: 13, No: 10240 loss: 0.013 acc: 0.997
+epoch: 13, No: 12800 loss: 0.006 acc: 0.998
+epoch: 13, No: 15360 loss: 0.014 acc: 0.995
+epoch: 13, No: 17920 loss: 0.012 acc: 0.998
+epoch: 13, No: 20480 loss: 0.009 acc: 0.997
+epoch: 13, No: 23040 loss: 0.012 acc: 0.996
+epoch: 13, No: 25600 loss: 0.010 acc: 0.998
+epoch: 13, No: 28160 loss: 0.010 acc: 0.996
+epoch: 13, No: 30720 loss: 0.007 acc: 0.998
+epoch: 13, No: 33280 loss: 0.008 acc: 0.997
+epoch: 13, No: 35840 loss: 0.014 acc: 0.996
+epoch: 13, No: 38400 loss: 0.009 acc: 0.998
+epoch: 13, No: 40960 loss: 0.012 acc: 0.995
+epoch: 13, No: 43520 loss: 0.010 acc: 0.996
+epoch: 13, No: 46080 loss: 0.013 acc: 0.996
+epoch: 13, No: 48640 loss: 0.009 acc: 0.997
+epoch: 13, No: 51200 loss: 0.019 acc: 0.995
+epoch: 13, No: 53760 loss: 0.013 acc: 0.996
+epoch: 13, No: 56320 loss: 0.008 acc: 0.998
+epoch: 13, No: 58880 loss: 0.010 acc: 0.996
+Module Saved
+validating
+epoch: 13, i: 1280 acc_run: 0.890
+epoch: 13, i: 2560 acc_run: 0.984
+epoch: 13, i: 3840 acc_run: 0.991
+epoch: 13, i: 5120 acc_run: 0.992
+epoch: 13, i: 6400 acc_run: 0.988
+epoch: 13, i: 7680 acc_run: 0.991
+epoch: 13, i: 8960 acc_run: 0.992
+epoch: 13, i: 10240 acc_run: 0.908
+val_loss:0.031913 val_acc:0.979331
+epoch=14
+epoch: 14, No: 2560 loss: 0.014 acc: 0.996
+epoch: 14, No: 5120 loss: 0.006 acc: 0.999
+epoch: 14, No: 7680 loss: 0.006 acc: 0.999
+epoch: 14, No: 10240 loss: 0.004 acc: 0.999
+epoch: 14, No: 12800 loss: 0.010 acc: 0.996
+epoch: 14, No: 15360 loss: 0.007 acc: 0.996
+epoch: 14, No: 17920 loss: 0.005 acc: 0.998
+epoch: 14, No: 20480 loss: 0.005 acc: 0.998
+epoch: 14, No: 23040 loss: 0.005 acc: 0.998
+epoch: 14, No: 25600 loss: 0.006 acc: 0.998
+epoch: 14, No: 28160 loss: 0.006 acc: 0.998
+epoch: 14, No: 30720 loss: 0.004 acc: 0.999
+epoch: 14, No: 33280 loss: 0.005 acc: 0.999
+epoch: 14, No: 35840 loss: 0.006 acc: 0.998
+epoch: 14, No: 38400 loss: 0.010 acc: 0.996
+epoch: 14, No: 40960 loss: 0.007 acc: 0.998
+epoch: 14, No: 43520 loss: 0.004 acc: 0.999
+epoch: 14, No: 46080 loss: 0.010 acc: 0.997
+epoch: 14, No: 48640 loss: 0.008 acc: 0.998
+epoch: 14, No: 51200 loss: 0.011 acc: 0.996
+epoch: 14, No: 53760 loss: 0.013 acc: 0.996
+epoch: 14, No: 56320 loss: 0.009 acc: 0.996
+epoch: 14, No: 58880 loss: 0.008 acc: 0.997
+Module Saved
+validating
+epoch: 14, i: 1280 acc_run: 0.892
+epoch: 14, i: 2560 acc_run: 0.994
+epoch: 14, i: 3840 acc_run: 0.983
+epoch: 14, i: 5120 acc_run: 0.991
+epoch: 14, i: 6400 acc_run: 0.995
+epoch: 14, i: 7680 acc_run: 0.991
+epoch: 14, i: 8960 acc_run: 0.991
+epoch: 14, i: 10240 acc_run: 0.904
+val_loss:0.034607 val_acc:0.979925
+epoch=15
+epoch: 15, No: 2560 loss: 0.010 acc: 0.997
+epoch: 15, No: 5120 loss: 0.005 acc: 0.999
+epoch: 15, No: 7680 loss: 0.005 acc: 0.998
+epoch: 15, No: 10240 loss: 0.010 acc: 0.997
+epoch: 15, No: 12800 loss: 0.008 acc: 0.997
+epoch: 15, No: 15360 loss: 0.009 acc: 0.996
+epoch: 15, No: 17920 loss: 0.010 acc: 0.997
+epoch: 15, No: 20480 loss: 0.006 acc: 0.999
+epoch: 15, No: 23040 loss: 0.004 acc: 0.999
+epoch: 15, No: 25600 loss: 0.005 acc: 0.998
+epoch: 15, No: 28160 loss: 0.006 acc: 0.998
+epoch: 15, No: 30720 loss: 0.012 acc: 0.996
+epoch: 15, No: 33280 loss: 0.007 acc: 0.996
+epoch: 15, No: 35840 loss: 0.009 acc: 0.996
+epoch: 15, No: 38400 loss: 0.009 acc: 0.997
+epoch: 15, No: 40960 loss: 0.008 acc: 0.997
+epoch: 15, No: 43520 loss: 0.012 acc: 0.996
+epoch: 15, No: 46080 loss: 0.008 acc: 0.998
+epoch: 15, No: 48640 loss: 0.007 acc: 0.998
+epoch: 15, No: 51200 loss: 0.005 acc: 0.998
+epoch: 15, No: 53760 loss: 0.007 acc: 0.997
+epoch: 15, No: 56320 loss: 0.011 acc: 0.997
+epoch: 15, No: 58880 loss: 0.027 acc: 0.992
+Module Saved
+validating
+epoch: 15, i: 1280 acc_run: 0.895
+epoch: 15, i: 2560 acc_run: 0.987
+epoch: 15, i: 3840 acc_run: 0.994
+epoch: 15, i: 5120 acc_run: 0.991
+epoch: 15, i: 6400 acc_run: 0.994
+epoch: 15, i: 7680 acc_run: 0.991
+epoch: 15, i: 8960 acc_run: 0.993
+epoch: 15, i: 10240 acc_run: 0.904
+val_loss:0.026346 val_acc:0.980815
+epoch=16
+epoch: 16, No: 2560 loss: 0.012 acc: 0.996
+epoch: 16, No: 5120 loss: 0.004 acc: 0.999
+epoch: 16, No: 7680 loss: 0.008 acc: 0.996
+epoch: 16, No: 10240 loss: 0.005 acc: 0.998
+epoch: 16, No: 12800 loss: 0.005 acc: 0.998
+epoch: 16, No: 15360 loss: 0.008 acc: 0.998
+epoch: 16, No: 17920 loss: 0.005 acc: 0.998
+epoch: 16, No: 20480 loss: 0.004 acc: 0.999
+epoch: 16, No: 23040 loss: 0.006 acc: 0.998
+epoch: 16, No: 25600 loss: 0.008 acc: 0.998
+epoch: 16, No: 28160 loss: 0.012 acc: 0.996
+epoch: 16, No: 30720 loss: 0.011 acc: 0.995
+epoch: 16, No: 33280 loss: 0.005 acc: 0.999
+epoch: 16, No: 35840 loss: 0.004 acc: 0.998
+epoch: 16, No: 38400 loss: 0.005 acc: 0.998
+epoch: 16, No: 40960 loss: 0.005 acc: 0.999
+epoch: 16, No: 43520 loss: 0.007 acc: 0.997
+epoch: 16, No: 46080 loss: 0.010 acc: 0.997
+epoch: 16, No: 48640 loss: 0.007 acc: 0.998
+epoch: 16, No: 51200 loss: 0.004 acc: 0.998
+epoch: 16, No: 53760 loss: 0.005 acc: 0.998
+epoch: 16, No: 56320 loss: 0.004 acc: 0.998
+epoch: 16, No: 58880 loss: 0.008 acc: 0.997
+Module Saved
+validating
+epoch: 16, i: 1280 acc_run: 0.895
+epoch: 16, i: 2560 acc_run: 0.990
+epoch: 16, i: 3840 acc_run: 0.995
+epoch: 16, i: 5120 acc_run: 0.994
+epoch: 16, i: 6400 acc_run: 0.995
+epoch: 16, i: 7680 acc_run: 0.995
+epoch: 16, i: 8960 acc_run: 0.995
+epoch: 16, i: 10240 acc_run: 0.902
+val_loss:0.022093 val_acc:0.982397
+epoch=17
+epoch: 17, No: 2560 loss: 0.012 acc: 0.995
+epoch: 17, No: 5120 loss: 0.008 acc: 0.997
+epoch: 17, No: 7680 loss: 0.007 acc: 0.998
+epoch: 17, No: 10240 loss: 0.005 acc: 0.998
+epoch: 17, No: 12800 loss: 0.009 acc: 0.997
+epoch: 17, No: 15360 loss: 0.003 acc: 0.999
+epoch: 17, No: 17920 loss: 0.002 acc: 1.000
+epoch: 17, No: 20480 loss: 0.007 acc: 0.998
+epoch: 17, No: 23040 loss: 0.004 acc: 0.998
+epoch: 17, No: 25600 loss: 0.007 acc: 0.997
+epoch: 17, No: 28160 loss: 0.005 acc: 0.999
+epoch: 17, No: 30720 loss: 0.007 acc: 0.998
+epoch: 17, No: 33280 loss: 0.003 acc: 0.999
+epoch: 17, No: 35840 loss: 0.005 acc: 0.998
+epoch: 17, No: 38400 loss: 0.011 acc: 0.997
+epoch: 17, No: 40960 loss: 0.006 acc: 0.999
+epoch: 17, No: 43520 loss: 0.004 acc: 0.999
+epoch: 17, No: 46080 loss: 0.011 acc: 0.996
+epoch: 17, No: 48640 loss: 0.006 acc: 0.998
+epoch: 17, No: 51200 loss: 0.009 acc: 0.997
+epoch: 17, No: 53760 loss: 0.008 acc: 0.998
+epoch: 17, No: 56320 loss: 0.010 acc: 0.996
+epoch: 17, No: 58880 loss: 0.015 acc: 0.995
+Module Saved
+validating
+epoch: 17, i: 1280 acc_run: 0.888
+epoch: 17, i: 2560 acc_run: 0.991
+epoch: 17, i: 3840 acc_run: 0.993
+epoch: 17, i: 5120 acc_run: 0.987
+epoch: 17, i: 6400 acc_run: 0.988
+epoch: 17, i: 7680 acc_run: 0.985
+epoch: 17, i: 8960 acc_run: 0.984
+epoch: 17, i: 10240 acc_run: 0.905
+val_loss:0.038004 val_acc:0.977354
+epoch=18
+epoch: 18, No: 2560 loss: 0.006 acc: 0.998
+epoch: 18, No: 5120 loss: 0.011 acc: 0.996
+epoch: 18, No: 7680 loss: 0.003 acc: 0.999
+epoch: 18, No: 10240 loss: 0.005 acc: 0.998
+epoch: 18, No: 12800 loss: 0.009 acc: 0.997
+epoch: 18, No: 15360 loss: 0.007 acc: 0.998
+epoch: 18, No: 17920 loss: 0.004 acc: 0.999
+epoch: 18, No: 20480 loss: 0.006 acc: 0.999
+epoch: 18, No: 23040 loss: 0.006 acc: 0.998
+epoch: 18, No: 25600 loss: 0.003 acc: 0.999
+epoch: 18, No: 28160 loss: 0.003 acc: 0.999
+epoch: 18, No: 30720 loss: 0.006 acc: 0.998
+epoch: 18, No: 33280 loss: 0.006 acc: 0.998
+epoch: 18, No: 35840 loss: 0.006 acc: 0.998
+epoch: 18, No: 38400 loss: 0.007 acc: 0.998
+epoch: 18, No: 40960 loss: 0.008 acc: 0.996
+epoch: 18, No: 43520 loss: 0.004 acc: 0.999
+epoch: 18, No: 46080 loss: 0.004 acc: 0.999
+epoch: 18, No: 48640 loss: 0.003 acc: 0.999
+epoch: 18, No: 51200 loss: 0.002 acc: 0.999
+epoch: 18, No: 53760 loss: 0.003 acc: 0.999
+epoch: 18, No: 56320 loss: 0.003 acc: 0.999
+epoch: 18, No: 58880 loss: 0.003 acc: 0.999
+Module Saved
+validating
+epoch: 18, i: 1280 acc_run: 0.894
+epoch: 18, i: 2560 acc_run: 0.993
+epoch: 18, i: 3840 acc_run: 0.996
+epoch: 18, i: 5120 acc_run: 0.991
+epoch: 18, i: 6400 acc_run: 0.995
+epoch: 18, i: 7680 acc_run: 0.991
+epoch: 18, i: 8960 acc_run: 0.994
+epoch: 18, i: 10240 acc_run: 0.905
+val_loss:0.023638 val_acc:0.982199
+epoch=19
+epoch: 19, No: 2560 loss: 0.004 acc: 0.999
+epoch: 19, No: 5120 loss: 0.004 acc: 0.998
+epoch: 19, No: 7680 loss: 0.005 acc: 0.998
+epoch: 19, No: 10240 loss: 0.003 acc: 1.000
+epoch: 19, No: 12800 loss: 0.006 acc: 0.998
+epoch: 19, No: 15360 loss: 0.006 acc: 0.998
+epoch: 19, No: 17920 loss: 0.006 acc: 0.998
+epoch: 19, No: 20480 loss: 0.003 acc: 1.000
+epoch: 19, No: 23040 loss: 0.003 acc: 0.999
+epoch: 19, No: 25600 loss: 0.002 acc: 1.000
+epoch: 19, No: 28160 loss: 0.003 acc: 1.000
+epoch: 19, No: 30720 loss: 0.005 acc: 0.998
+epoch: 19, No: 33280 loss: 0.007 acc: 0.997
+epoch: 19, No: 35840 loss: 0.005 acc: 0.999
+epoch: 19, No: 38400 loss: 0.002 acc: 1.000
+epoch: 19, No: 40960 loss: 0.010 acc: 0.998
+epoch: 19, No: 43520 loss: 0.007 acc: 0.997
+epoch: 19, No: 46080 loss: 0.006 acc: 0.998
+epoch: 19, No: 48640 loss: 0.007 acc: 0.997
+epoch: 19, No: 51200 loss: 0.004 acc: 0.998
+epoch: 19, No: 53760 loss: 0.005 acc: 0.998
+epoch: 19, No: 56320 loss: 0.006 acc: 0.998
+epoch: 19, No: 58880 loss: 0.014 acc: 0.996
+Module Saved
+validating
+epoch: 19, i: 1280 acc_run: 0.894
+epoch: 19, i: 2560 acc_run: 0.994
+epoch: 19, i: 3840 acc_run: 0.996
+epoch: 19, i: 5120 acc_run: 0.996
+epoch: 19, i: 6400 acc_run: 0.989
+epoch: 19, i: 7680 acc_run: 0.985
+epoch: 19, i: 8960 acc_run: 0.989
+epoch: 19, i: 10240 acc_run: 0.902
+val_loss:0.028413 val_acc:0.980320
+epoch=20
+epoch: 20, No: 2560 loss: 0.003 acc: 0.999
+epoch: 20, No: 5120 loss: 0.004 acc: 0.998
+epoch: 20, No: 7680 loss: 0.003 acc: 1.000
+epoch: 20, No: 10240 loss: 0.001 acc: 1.000
+epoch: 20, No: 12800 loss: 0.005 acc: 0.998
+epoch: 20, No: 15360 loss: 0.005 acc: 0.998
+epoch: 20, No: 17920 loss: 0.007 acc: 0.998
+epoch: 20, No: 20480 loss: 0.005 acc: 0.998
+epoch: 20, No: 23040 loss: 0.010 acc: 0.998
+epoch: 20, No: 25600 loss: 0.008 acc: 0.997
+epoch: 20, No: 28160 loss: 0.010 acc: 0.995
+epoch: 20, No: 30720 loss: 0.015 acc: 0.995
+epoch: 20, No: 33280 loss: 0.008 acc: 0.997
+epoch: 20, No: 35840 loss: 0.010 acc: 0.996
+epoch: 20, No: 38400 loss: 0.014 acc: 0.995
+epoch: 20, No: 40960 loss: 0.005 acc: 0.999
+epoch: 20, No: 43520 loss: 0.002 acc: 1.000
+epoch: 20, No: 46080 loss: 0.009 acc: 0.997
+epoch: 20, No: 48640 loss: 0.006 acc: 0.998
+epoch: 20, No: 51200 loss: 0.006 acc: 0.999
+epoch: 20, No: 53760 loss: 0.006 acc: 0.998
+epoch: 20, No: 56320 loss: 0.008 acc: 0.998
+epoch: 20, No: 58880 loss: 0.008 acc: 0.998
+Module Saved
+validating
+epoch: 20, i: 1280 acc_run: 0.897
+epoch: 20, i: 2560 acc_run: 0.991
+epoch: 20, i: 3840 acc_run: 0.990
+epoch: 20, i: 5120 acc_run: 0.995
+epoch: 20, i: 6400 acc_run: 0.991
+epoch: 20, i: 7680 acc_run: 0.993
+epoch: 20, i: 8960 acc_run: 0.994
+epoch: 20, i: 10240 acc_run: 0.907
+val_loss:0.027995 val_acc:0.982100
+epoch=21
+epoch: 21, No: 2560 loss: 0.002 acc: 0.999
+epoch: 21, No: 5120 loss: 0.006 acc: 0.998
+epoch: 21, No: 7680 loss: 0.004 acc: 0.998
+epoch: 21, No: 10240 loss: 0.003 acc: 0.999
+epoch: 21, No: 12800 loss: 0.004 acc: 0.999
+epoch: 21, No: 15360 loss: 0.004 acc: 0.998
+epoch: 21, No: 17920 loss: 0.005 acc: 0.998
+epoch: 21, No: 20480 loss: 0.002 acc: 1.000
+epoch: 21, No: 23040 loss: 0.004 acc: 0.999
+epoch: 21, No: 25600 loss: 0.004 acc: 0.998
+epoch: 21, No: 28160 loss: 0.004 acc: 0.999
+epoch: 21, No: 30720 loss: 0.005 acc: 0.998
+epoch: 21, No: 33280 loss: 0.011 acc: 0.996
+epoch: 21, No: 35840 loss: 0.007 acc: 0.996
+epoch: 21, No: 38400 loss: 0.006 acc: 0.999
+epoch: 21, No: 40960 loss: 0.010 acc: 0.996
+epoch: 21, No: 43520 loss: 0.015 acc: 0.996
+epoch: 21, No: 46080 loss: 0.005 acc: 0.998
+epoch: 21, No: 48640 loss: 0.007 acc: 0.997
+epoch: 21, No: 51200 loss: 0.002 acc: 1.000
+epoch: 21, No: 53760 loss: 0.002 acc: 1.000
+epoch: 21, No: 56320 loss: 0.005 acc: 0.998
+epoch: 21, No: 58880 loss: 0.006 acc: 0.998
+Module Saved
+validating
+epoch: 21, i: 1280 acc_run: 0.891
+epoch: 21, i: 2560 acc_run: 0.994
+epoch: 21, i: 3840 acc_run: 0.991
+epoch: 21, i: 5120 acc_run: 0.992
+epoch: 21, i: 6400 acc_run: 0.998
+epoch: 21, i: 7680 acc_run: 0.989
+epoch: 21, i: 8960 acc_run: 0.991
+epoch: 21, i: 10240 acc_run: 0.905
+val_loss:0.025847 val_acc:0.981309
+epoch=22
+epoch: 22, No: 2560 loss: 0.004 acc: 0.998
+epoch: 22, No: 5120 loss: 0.006 acc: 0.997
+epoch: 22, No: 7680 loss: 0.008 acc: 0.997
+epoch: 22, No: 10240 loss: 0.012 acc: 0.997
+epoch: 22, No: 12800 loss: 0.018 acc: 0.995
+epoch: 22, No: 15360 loss: 0.007 acc: 0.999
+epoch: 22, No: 17920 loss: 0.006 acc: 0.998
+epoch: 22, No: 20480 loss: 0.003 acc: 1.000
+epoch: 22, No: 23040 loss: 0.003 acc: 0.999
+epoch: 22, No: 25600 loss: 0.002 acc: 1.000
+epoch: 22, No: 28160 loss: 0.003 acc: 0.999
+epoch: 22, No: 30720 loss: 0.004 acc: 0.998
+epoch: 22, No: 33280 loss: 0.004 acc: 0.999
+epoch: 22, No: 35840 loss: 0.005 acc: 0.998
+epoch: 22, No: 38400 loss: 0.007 acc: 0.997
+epoch: 22, No: 40960 loss: 0.003 acc: 0.999
+epoch: 22, No: 43520 loss: 0.003 acc: 0.999
+epoch: 22, No: 46080 loss: 0.004 acc: 0.999
+epoch: 22, No: 48640 loss: 0.003 acc: 0.999
+epoch: 22, No: 51200 loss: 0.005 acc: 0.998
+epoch: 22, No: 53760 loss: 0.010 acc: 0.996
+epoch: 22, No: 56320 loss: 0.007 acc: 0.997
+epoch: 22, No: 58880 loss: 0.006 acc: 0.999
+Module Saved
+validating
+epoch: 22, i: 1280 acc_run: 0.891
+epoch: 22, i: 2560 acc_run: 0.998
+epoch: 22, i: 3840 acc_run: 0.990
+epoch: 22, i: 5120 acc_run: 0.993
+epoch: 22, i: 6400 acc_run: 0.990
+epoch: 22, i: 7680 acc_run: 0.998
+epoch: 22, i: 8960 acc_run: 0.990
+epoch: 22, i: 10240 acc_run: 0.906
+val_loss:0.023596 val_acc:0.981705
+Epoch    12: reducing learning rate of group 0 to 5.0000e-04.
+epoch=23
+epoch: 23, No: 2560 loss: 0.005 acc: 0.999
+epoch: 23, No: 5120 loss: 0.004 acc: 0.999
+epoch: 23, No: 7680 loss: 0.004 acc: 0.999
+epoch: 23, No: 10240 loss: 0.002 acc: 0.999
+epoch: 23, No: 12800 loss: 0.001 acc: 1.000
+epoch: 23, No: 15360 loss: 0.001 acc: 1.000
+epoch: 23, No: 17920 loss: 0.005 acc: 0.998
+epoch: 23, No: 20480 loss: 0.001 acc: 0.999
+epoch: 23, No: 23040 loss: 0.002 acc: 0.999
+epoch: 23, No: 25600 loss: 0.002 acc: 0.999
+epoch: 23, No: 28160 loss: 0.001 acc: 1.000
+epoch: 23, No: 30720 loss: 0.000 acc: 1.000
+epoch: 23, No: 33280 loss: 0.001 acc: 1.000
+epoch: 23, No: 35840 loss: 0.001 acc: 1.000
+epoch: 23, No: 38400 loss: 0.001 acc: 1.000
+epoch: 23, No: 40960 loss: 0.000 acc: 1.000
+epoch: 23, No: 43520 loss: 0.001 acc: 1.000
+epoch: 23, No: 46080 loss: 0.001 acc: 1.000
+epoch: 23, No: 48640 loss: 0.001 acc: 1.000
+epoch: 23, No: 51200 loss: 0.001 acc: 1.000
+epoch: 23, No: 53760 loss: 0.001 acc: 1.000
+epoch: 23, No: 56320 loss: 0.000 acc: 1.000
+epoch: 23, No: 58880 loss: 0.000 acc: 1.000
+Module Saved
+validating
+epoch: 23, i: 1280 acc_run: 0.894
+epoch: 23, i: 2560 acc_run: 0.991
+epoch: 23, i: 3840 acc_run: 0.995
+epoch: 23, i: 5120 acc_run: 0.992
+epoch: 23, i: 6400 acc_run: 0.995
+epoch: 23, i: 7680 acc_run: 0.992
+epoch: 23, i: 8960 acc_run: 0.998
+epoch: 23, i: 10240 acc_run: 0.909
+val_loss:0.019957 val_acc:0.983287
+epoch=24
+epoch: 24, No: 2560 loss: 0.000 acc: 1.000
+epoch: 24, No: 5120 loss: 0.000 acc: 1.000
+epoch: 24, No: 7680 loss: 0.000 acc: 1.000
+epoch: 24, No: 10240 loss: 0.000 acc: 1.000
+epoch: 24, No: 12800 loss: 0.001 acc: 1.000
+epoch: 24, No: 15360 loss: 0.000 acc: 1.000
+epoch: 24, No: 17920 loss: 0.001 acc: 1.000
+epoch: 24, No: 20480 loss: 0.000 acc: 1.000
+epoch: 24, No: 23040 loss: 0.001 acc: 1.000
+epoch: 24, No: 25600 loss: 0.000 acc: 1.000
+epoch: 24, No: 28160 loss: 0.000 acc: 1.000
+epoch: 24, No: 30720 loss: 0.000 acc: 1.000
+epoch: 24, No: 33280 loss: 0.000 acc: 1.000
+epoch: 24, No: 35840 loss: 0.000 acc: 1.000
+epoch: 24, No: 38400 loss: 0.000 acc: 1.000
+epoch: 24, No: 40960 loss: 0.000 acc: 1.000
+epoch: 24, No: 43520 loss: 0.000 acc: 1.000
+epoch: 24, No: 46080 loss: 0.000 acc: 1.000
+epoch: 24, No: 48640 loss: 0.000 acc: 1.000
+epoch: 24, No: 51200 loss: 0.000 acc: 1.000
+epoch: 24, No: 53760 loss: 0.000 acc: 1.000
+epoch: 24, No: 56320 loss: 0.000 acc: 1.000
+epoch: 24, No: 58880 loss: 0.001 acc: 1.000
+Module Saved
+validating
+epoch: 24, i: 1280 acc_run: 0.895
+epoch: 24, i: 2560 acc_run: 0.995
+epoch: 24, i: 3840 acc_run: 0.991
+epoch: 24, i: 5120 acc_run: 0.995
+epoch: 24, i: 6400 acc_run: 0.995
+epoch: 24, i: 7680 acc_run: 0.995
+epoch: 24, i: 8960 acc_run: 0.995
+epoch: 24, i: 10240 acc_run: 0.907
+val_loss:0.021261 val_acc:0.983089
+epoch=25
+epoch: 25, No: 2560 loss: 0.001 acc: 1.000
+epoch: 25, No: 5120 loss: 0.001 acc: 1.000
+epoch: 25, No: 7680 loss: 0.000 acc: 1.000
+epoch: 25, No: 10240 loss: 0.000 acc: 1.000
+epoch: 25, No: 12800 loss: 0.000 acc: 1.000
+epoch: 25, No: 15360 loss: 0.000 acc: 1.000
+epoch: 25, No: 17920 loss: 0.000 acc: 1.000
+epoch: 25, No: 20480 loss: 0.001 acc: 1.000
+epoch: 25, No: 23040 loss: 0.000 acc: 1.000
+epoch: 25, No: 25600 loss: 0.000 acc: 1.000
+epoch: 25, No: 28160 loss: 0.000 acc: 1.000
+epoch: 25, No: 30720 loss: 0.000 acc: 1.000
+epoch: 25, No: 33280 loss: 0.000 acc: 1.000
+epoch: 25, No: 35840 loss: 0.000 acc: 1.000
+epoch: 25, No: 38400 loss: 0.000 acc: 1.000
+epoch: 25, No: 40960 loss: 0.000 acc: 1.000
+epoch: 25, No: 43520 loss: 0.000 acc: 1.000
+epoch: 25, No: 46080 loss: 0.000 acc: 1.000
+epoch: 25, No: 48640 loss: 0.000 acc: 1.000
+epoch: 25, No: 51200 loss: 0.000 acc: 1.000
+epoch: 25, No: 53760 loss: 0.000 acc: 1.000
+epoch: 25, No: 56320 loss: 0.000 acc: 1.000
+epoch: 25, No: 58880 loss: 0.000 acc: 1.000
+Module Saved
+validating
+epoch: 25, i: 1280 acc_run: 0.897
+epoch: 25, i: 2560 acc_run: 0.998
+epoch: 25, i: 3840 acc_run: 0.990
+epoch: 25, i: 5120 acc_run: 0.998
+epoch: 25, i: 6400 acc_run: 0.997
+epoch: 25, i: 7680 acc_run: 0.995
+epoch: 25, i: 8960 acc_run: 0.991
+epoch: 25, i: 10240 acc_run: 0.906
+val_loss:0.019082 val_acc:0.983683
+epoch=26
+epoch: 26, No: 2560 loss: 0.000 acc: 1.000
+epoch: 26, No: 5120 loss: 0.000 acc: 1.000
+epoch: 26, No: 7680 loss: 0.000 acc: 1.000
+epoch: 26, No: 10240 loss: 0.000 acc: 1.000
+epoch: 26, No: 12800 loss: 0.000 acc: 1.000
+epoch: 26, No: 15360 loss: 0.000 acc: 1.000
+epoch: 26, No: 17920 loss: 0.000 acc: 1.000
+epoch: 26, No: 20480 loss: 0.000 acc: 1.000
+epoch: 26, No: 23040 loss: 0.000 acc: 1.000
+epoch: 26, No: 25600 loss: 0.000 acc: 1.000
+epoch: 26, No: 28160 loss: 0.000 acc: 1.000
+epoch: 26, No: 30720 loss: 0.000 acc: 1.000
+epoch: 26, No: 33280 loss: 0.000 acc: 1.000
+epoch: 26, No: 35840 loss: 0.000 acc: 1.000
+epoch: 26, No: 38400 loss: 0.000 acc: 1.000
+epoch: 26, No: 40960 loss: 0.000 acc: 1.000
+epoch: 26, No: 43520 loss: 0.000 acc: 1.000
+epoch: 26, No: 46080 loss: 0.000 acc: 1.000
+epoch: 26, No: 48640 loss: 0.000 acc: 1.000
+epoch: 26, No: 51200 loss: 0.000 acc: 1.000
+epoch: 26, No: 53760 loss: 0.000 acc: 1.000
+epoch: 26, No: 56320 loss: 0.000 acc: 1.000
+epoch: 26, No: 58880 loss: 0.001 acc: 1.000
+Module Saved
+validating
+epoch: 26, i: 1280 acc_run: 0.897
+epoch: 26, i: 2560 acc_run: 0.995
+epoch: 26, i: 3840 acc_run: 0.993
+epoch: 26, i: 5120 acc_run: 0.993
+epoch: 26, i: 6400 acc_run: 0.991
+epoch: 26, i: 7680 acc_run: 0.996
+epoch: 26, i: 8960 acc_run: 0.997
+epoch: 26, i: 10240 acc_run: 0.908
+val_loss:0.021362 val_acc:0.983485
+epoch=27
+epoch: 27, No: 2560 loss: 0.003 acc: 1.000
+epoch: 27, No: 5120 loss: 0.000 acc: 1.000
+epoch: 27, No: 7680 loss: 0.000 acc: 1.000
+epoch: 27, No: 10240 loss: 0.000 acc: 1.000
+epoch: 27, No: 12800 loss: 0.001 acc: 1.000
+epoch: 27, No: 15360 loss: 0.000 acc: 1.000
+epoch: 27, No: 17920 loss: 0.000 acc: 1.000
+epoch: 27, No: 20480 loss: 0.000 acc: 1.000
+epoch: 27, No: 23040 loss: 0.000 acc: 1.000
+epoch: 27, No: 25600 loss: 0.000 acc: 1.000
+epoch: 27, No: 28160 loss: 0.000 acc: 1.000
+epoch: 27, No: 30720 loss: 0.000 acc: 1.000
+epoch: 27, No: 33280 loss: 0.000 acc: 1.000
+epoch: 27, No: 35840 loss: 0.000 acc: 1.000
+epoch: 27, No: 38400 loss: 0.000 acc: 1.000
+epoch: 27, No: 40960 loss: 0.000 acc: 1.000
+epoch: 27, No: 43520 loss: 0.000 acc: 1.000
+epoch: 27, No: 46080 loss: 0.000 acc: 1.000
+epoch: 27, No: 48640 loss: 0.000 acc: 1.000
+epoch: 27, No: 51200 loss: 0.000 acc: 1.000
+epoch: 27, No: 53760 loss: 0.000 acc: 1.000
+epoch: 27, No: 56320 loss: 0.000 acc: 1.000
+epoch: 27, No: 58880 loss: 0.000 acc: 1.000
+Module Saved
+validating
+epoch: 27, i: 1280 acc_run: 0.896
+epoch: 27, i: 2560 acc_run: 0.992
+epoch: 27, i: 3840 acc_run: 0.994
+epoch: 27, i: 5120 acc_run: 0.996
+epoch: 27, i: 6400 acc_run: 0.991
+epoch: 27, i: 7680 acc_run: 0.996
+epoch: 27, i: 8960 acc_run: 0.998
+epoch: 27, i: 10240 acc_run: 0.907
+val_loss:0.022854 val_acc:0.983584
+epoch=28
+epoch: 28, No: 2560 loss: 0.000 acc: 1.000
+epoch: 28, No: 5120 loss: 0.000 acc: 1.000
+epoch: 28, No: 7680 loss: 0.000 acc: 1.000
+epoch: 28, No: 10240 loss: 0.000 acc: 1.000
+epoch: 28, No: 12800 loss: 0.000 acc: 1.000
+epoch: 28, No: 15360 loss: 0.000 acc: 1.000
+epoch: 28, No: 17920 loss: 0.000 acc: 1.000
+epoch: 28, No: 20480 loss: 0.000 acc: 1.000
+epoch: 28, No: 23040 loss: 0.000 acc: 1.000
+epoch: 28, No: 25600 loss: 0.000 acc: 1.000
+epoch: 28, No: 28160 loss: 0.000 acc: 1.000
+epoch: 28, No: 30720 loss: 0.000 acc: 1.000
+epoch: 28, No: 33280 loss: 0.000 acc: 1.000
+epoch: 28, No: 35840 loss: 0.000 acc: 1.000
+epoch: 28, No: 38400 loss: 0.000 acc: 1.000
+epoch: 28, No: 40960 loss: 0.000 acc: 1.000
+epoch: 28, No: 43520 loss: 0.000 acc: 1.000
+epoch: 28, No: 46080 loss: 0.000 acc: 1.000
+epoch: 28, No: 48640 loss: 0.000 acc: 1.000
+epoch: 28, No: 51200 loss: 0.000 acc: 1.000
+epoch: 28, No: 53760 loss: 0.000 acc: 1.000
+epoch: 28, No: 56320 loss: 0.000 acc: 1.000
+epoch: 28, No: 58880 loss: 0.000 acc: 1.000
+Module Saved
+validating
+epoch: 28, i: 1280 acc_run: 0.896
+epoch: 28, i: 2560 acc_run: 0.996
+epoch: 28, i: 3840 acc_run: 0.998
+epoch: 28, i: 5120 acc_run: 0.995
+epoch: 28, i: 6400 acc_run: 0.995
+epoch: 28, i: 7680 acc_run: 0.993
+epoch: 28, i: 8960 acc_run: 0.993
+epoch: 28, i: 10240 acc_run: 0.905
+val_loss:0.020931 val_acc:0.983584
+epoch=29
+epoch: 29, No: 2560 loss: 0.000 acc: 1.000
+epoch: 29, No: 5120 loss: 0.000 acc: 1.000
+epoch: 29, No: 7680 loss: 0.000 acc: 1.000
+epoch: 29, No: 10240 loss: 0.000 acc: 1.000
+epoch: 29, No: 12800 loss: 0.000 acc: 1.000
+epoch: 29, No: 15360 loss: 0.000 acc: 1.000
+epoch: 29, No: 17920 loss: 0.000 acc: 1.000
+epoch: 29, No: 20480 loss: 0.000 acc: 1.000
+epoch: 29, No: 23040 loss: 0.000 acc: 1.000
+epoch: 29, No: 25600 loss: 0.000 acc: 1.000
+epoch: 29, No: 28160 loss: 0.000 acc: 1.000
+epoch: 29, No: 30720 loss: 0.000 acc: 1.000
+epoch: 29, No: 33280 loss: 0.000 acc: 1.000
+epoch: 29, No: 35840 loss: 0.000 acc: 1.000
+epoch: 29, No: 38400 loss: 0.000 acc: 1.000
+epoch: 29, No: 40960 loss: 0.000 acc: 1.000
+epoch: 29, No: 43520 loss: 0.000 acc: 1.000
+epoch: 29, No: 46080 loss: 0.000 acc: 1.000
+epoch: 29, No: 48640 loss: 0.000 acc: 1.000
+epoch: 29, No: 51200 loss: 0.000 acc: 1.000
+epoch: 29, No: 53760 loss: 0.000 acc: 1.000
+epoch: 29, No: 56320 loss: 0.000 acc: 1.000
+epoch: 29, No: 58880 loss: 0.000 acc: 1.000
+Module Saved
+validating
+epoch: 29, i: 1280 acc_run: 0.897
+epoch: 29, i: 2560 acc_run: 0.997
+epoch: 29, i: 3840 acc_run: 0.998
+epoch: 29, i: 5120 acc_run: 0.992
+epoch: 29, i: 6400 acc_run: 0.995
+epoch: 29, i: 7680 acc_run: 0.991
+epoch: 29, i: 8960 acc_run: 0.995
+epoch: 29, i: 10240 acc_run: 0.909
+val_loss:0.020213 val_acc:0.983979
+epoch=30
+epoch: 30, No: 2560 loss: 0.000 acc: 1.000
+epoch: 30, No: 5120 loss: 0.000 acc: 1.000
+epoch: 30, No: 7680 loss: 0.000 acc: 1.000
+epoch: 30, No: 10240 loss: 0.000 acc: 1.000
+epoch: 30, No: 12800 loss: 0.000 acc: 1.000
+epoch: 30, No: 15360 loss: 0.000 acc: 1.000
+epoch: 30, No: 17920 loss: 0.000 acc: 1.000
+epoch: 30, No: 20480 loss: 0.000 acc: 1.000
+epoch: 30, No: 23040 loss: 0.000 acc: 1.000
+epoch: 30, No: 25600 loss: 0.000 acc: 1.000
+epoch: 30, No: 28160 loss: 0.000 acc: 1.000
+epoch: 30, No: 30720 loss: 0.000 acc: 1.000
+epoch: 30, No: 33280 loss: 0.000 acc: 1.000
+epoch: 30, No: 35840 loss: 0.000 acc: 1.000
+epoch: 30, No: 38400 loss: 0.000 acc: 1.000
+epoch: 30, No: 40960 loss: 0.000 acc: 1.000
+epoch: 30, No: 43520 loss: 0.000 acc: 1.000
+epoch: 30, No: 46080 loss: 0.000 acc: 1.000
+epoch: 30, No: 48640 loss: 0.000 acc: 1.000
+epoch: 30, No: 51200 loss: 0.000 acc: 1.000
+epoch: 30, No: 53760 loss: 0.000 acc: 1.000
+epoch: 30, No: 56320 loss: 0.000 acc: 1.000
+epoch: 30, No: 58880 loss: 0.000 acc: 1.000
+Module Saved
+validating
+epoch: 30, i: 1280 acc_run: 0.895
+epoch: 30, i: 2560 acc_run: 0.993
+epoch: 30, i: 3840 acc_run: 0.993
+epoch: 30, i: 5120 acc_run: 0.993
+epoch: 30, i: 6400 acc_run: 0.996
+epoch: 30, i: 7680 acc_run: 0.994
+epoch: 30, i: 8960 acc_run: 0.998
+epoch: 30, i: 10240 acc_run: 0.909
+val_loss:0.021269 val_acc:0.983485
+epoch=31
+epoch: 31, No: 6400 loss: 0.000 acc: 1.000
+epoch: 31, No: 12800 loss: 0.000 acc: 1.000
+epoch: 31, No: 19200 loss: 0.000 acc: 1.000
+epoch: 31, No: 25600 loss: 0.000 acc: 1.000
+epoch: 31, No: 32000 loss: 0.000 acc: 1.000
+epoch: 31, No: 38400 loss: 0.000 acc: 1.000
+epoch: 31, No: 44800 loss: 0.000 acc: 1.000
+epoch: 31, No: 51200 loss: 0.000 acc: 1.000
+epoch: 31, No: 57600 loss: 0.000 acc: 1.000
+Module Saved
+validating
+epoch: 31, i: 1280 acc_run: 0.894
+epoch: 31, i: 2560 acc_run: 0.995
+epoch: 31, i: 3840 acc_run: 0.994
+epoch: 31, i: 5120 acc_run: 0.995
+epoch: 31, i: 6400 acc_run: 0.995
+epoch: 31, i: 7680 acc_run: 0.993
+epoch: 31, i: 8960 acc_run: 0.995
+epoch: 31, i: 10240 acc_run: 0.909
+val_loss:0.021702 val_acc:0.983287
+Epoch    21: reducing learning rate of group 0 to 2.5000e-04.
+epoch=32
+epoch: 32, No: 6400 loss: 0.000 acc: 1.000
+epoch: 32, No: 12800 loss: 0.000 acc: 1.000
+epoch: 32, No: 19200 loss: 0.000 acc: 1.000
+epoch: 32, No: 25600 loss: 0.000 acc: 1.000
+epoch: 32, No: 32000 loss: 0.000 acc: 1.000
+epoch: 32, No: 38400 loss: 0.000 acc: 1.000
+epoch: 32, No: 44800 loss: 0.000 acc: 1.000
+epoch: 32, No: 51200 loss: 0.000 acc: 1.000
+epoch: 32, No: 57600 loss: 0.000 acc: 1.000
+Module Saved
+validating
+epoch: 32, i: 1280 acc_run: 0.895
+epoch: 32, i: 2560 acc_run: 0.995
+epoch: 32, i: 3840 acc_run: 0.997
+epoch: 32, i: 5120 acc_run: 0.991
+epoch: 32, i: 6400 acc_run: 0.997
+epoch: 32, i: 7680 acc_run: 0.991
+epoch: 32, i: 8960 acc_run: 0.995
+epoch: 32, i: 10240 acc_run: 0.906
+val_loss:0.021773 val_acc:0.983188
+epoch=33
+epoch: 33, No: 6400 loss: 0.000 acc: 1.000
+epoch: 33, No: 12800 loss: 0.000 acc: 1.000
+epoch: 33, No: 19200 loss: 0.000 acc: 1.000
+epoch: 33, No: 25600 loss: 0.000 acc: 1.000
+epoch: 33, No: 32000 loss: 0.000 acc: 1.000
+epoch: 33, No: 38400 loss: 0.000 acc: 1.000
+epoch: 33, No: 44800 loss: 0.000 acc: 1.000
+epoch: 33, No: 51200 loss: 0.000 acc: 1.000
+epoch: 33, No: 57600 loss: 0.000 acc: 1.000
+Module Saved
+validating
+epoch: 33, i: 1280 acc_run: 0.894
+epoch: 33, i: 2560 acc_run: 0.993
+epoch: 33, i: 3840 acc_run: 0.991
+epoch: 33, i: 5120 acc_run: 0.998
+epoch: 33, i: 6400 acc_run: 0.995
+epoch: 33, i: 7680 acc_run: 0.994
+epoch: 33, i: 8960 acc_run: 0.998
+epoch: 33, i: 10240 acc_run: 0.905
+val_loss:0.021491 val_acc:0.983386
+epoch=34
+epoch: 34, No: 6400 loss: 0.000 acc: 1.000
+epoch: 34, No: 12800 loss: 0.000 acc: 1.000
+epoch: 34, No: 19200 loss: 0.000 acc: 1.000
+epoch: 34, No: 25600 loss: 0.000 acc: 1.000
+epoch: 34, No: 32000 loss: 0.000 acc: 1.000
+epoch: 34, No: 38400 loss: 0.000 acc: 1.000
+epoch: 34, No: 44800 loss: 0.000 acc: 1.000
+epoch: 34, No: 51200 loss: 0.000 acc: 1.000
+epoch: 34, No: 57600 loss: 0.000 acc: 1.000
+Module Saved
+validating
+epoch: 34, i: 1280 acc_run: 0.895
+epoch: 34, i: 2560 acc_run: 0.996
+epoch: 34, i: 3840 acc_run: 0.995
+epoch: 34, i: 5120 acc_run: 0.995
+epoch: 34, i: 6400 acc_run: 0.994
+epoch: 34, i: 7680 acc_run: 0.994
+epoch: 34, i: 8960 acc_run: 0.994
+epoch: 34, i: 10240 acc_run: 0.906
+val_loss:0.022307 val_acc:0.983386
+epoch=35
+epoch: 35, No: 6400 loss: 0.000 acc: 1.000
+epoch: 35, No: 12800 loss: 0.000 acc: 1.000
+epoch: 35, No: 19200 loss: 0.000 acc: 1.000
+epoch: 35, No: 25600 loss: 0.000 acc: 1.000
+epoch: 35, No: 32000 loss: 0.001 acc: 1.000
+epoch: 35, No: 38400 loss: 0.003 acc: 0.999
+epoch: 35, No: 44800 loss: 0.004 acc: 0.998
+epoch: 35, No: 51200 loss: 0.001 acc: 1.000
+epoch: 35, No: 57600 loss: 0.004 acc: 0.998
+Module Saved
+validating
+epoch: 35, i: 1280 acc_run: 0.896
+epoch: 35, i: 2560 acc_run: 0.989
+epoch: 35, i: 3840 acc_run: 0.991
+epoch: 35, i: 5120 acc_run: 0.993
+epoch: 35, i: 6400 acc_run: 0.995
+epoch: 35, i: 7680 acc_run: 0.995
+epoch: 35, i: 8960 acc_run: 0.996
+epoch: 35, i: 10240 acc_run: 0.909
+val_loss:0.022814 val_acc:0.982892
+epoch=36
+epoch: 36, No: 6400 loss: 0.001 acc: 1.000
+epoch: 36, No: 12800 loss: 0.001 acc: 1.000
+epoch: 36, No: 19200 loss: 0.001 acc: 1.000
+epoch: 36, No: 25600 loss: 0.000 acc: 1.000
+epoch: 36, No: 32000 loss: 0.001 acc: 1.000
+epoch: 36, No: 38400 loss: 0.000 acc: 1.000
+epoch: 36, No: 44800 loss: 0.000 acc: 1.000
+epoch: 36, No: 51200 loss: 0.000 acc: 1.000
+epoch: 36, No: 57600 loss: 0.000 acc: 1.000
+Module Saved
+validating
+epoch: 36, i: 1280 acc_run: 0.896
+epoch: 36, i: 2560 acc_run: 0.994
+epoch: 36, i: 3840 acc_run: 0.997
+epoch: 36, i: 5120 acc_run: 0.995
+epoch: 36, i: 6400 acc_run: 0.991
+epoch: 36, i: 7680 acc_run: 0.989
+epoch: 36, i: 8960 acc_run: 0.991
+epoch: 36, i: 10240 acc_run: 0.907
+val_loss:0.024260 val_acc:0.982298
+epoch=37
+epoch: 37, No: 6400 loss: 0.000 acc: 1.000
+epoch: 37, No: 12800 loss: 0.000 acc: 1.000
+epoch: 37, No: 19200 loss: 0.000 acc: 1.000
+epoch: 37, No: 25600 loss: 0.000 acc: 1.000
+epoch: 37, No: 32000 loss: 0.000 acc: 1.000
+epoch: 37, No: 38400 loss: 0.000 acc: 1.000
+epoch: 37, No: 44800 loss: 0.000 acc: 1.000
+epoch: 37, No: 51200 loss: 0.000 acc: 1.000
+epoch: 37, No: 57600 loss: 0.000 acc: 1.000
+Module Saved
+validating
+epoch: 37, i: 1280 acc_run: 0.894
+epoch: 37, i: 2560 acc_run: 0.991
+epoch: 37, i: 3840 acc_run: 0.989
+epoch: 37, i: 5120 acc_run: 0.997
+epoch: 37, i: 6400 acc_run: 0.997
+epoch: 37, i: 7680 acc_run: 0.995
+epoch: 37, i: 8960 acc_run: 0.995
+epoch: 37, i: 10240 acc_run: 0.908
+val_loss:0.021924 val_acc:0.982892
+Epoch    37: reducing learning rate of group 0 to 1.2500e-04.
+epoch=38
+epoch: 38, No: 6400 loss: 0.000 acc: 1.000
+epoch: 38, No: 12800 loss: 0.000 acc: 1.000
+epoch: 38, No: 19200 loss: 0.000 acc: 1.000
+epoch: 38, No: 25600 loss: 0.000 acc: 1.000
+epoch: 38, No: 32000 loss: 0.000 acc: 1.000
+epoch: 38, No: 38400 loss: 0.000 acc: 1.000
+epoch: 38, No: 44800 loss: 0.000 acc: 1.000
+epoch: 38, No: 51200 loss: 0.000 acc: 1.000
+epoch: 38, No: 57600 loss: 0.000 acc: 1.000
+Module Saved
+validating
+epoch: 38, i: 1280 acc_run: 0.892
+epoch: 38, i: 2560 acc_run: 0.992
+epoch: 38, i: 3840 acc_run: 0.994
+epoch: 38, i: 5120 acc_run: 0.992
+epoch: 38, i: 6400 acc_run: 0.998
+epoch: 38, i: 7680 acc_run: 0.995
+epoch: 38, i: 8960 acc_run: 0.992
+epoch: 38, i: 10240 acc_run: 0.910
+val_loss:0.024440 val_acc:0.982991
+nohup: ignoring input
+Epoch    38: reducing learning rate of group 0 to 1.0000e-04.
+epoch=38
+epoch: 38, No: 6400 loss: 0.000051690 acc: 1.000000000
+epoch: 38, No: 12800 loss: 0.000042210 acc: 1.000000000
+epoch: 38, No: 19200 loss: 0.000043681 acc: 1.000000000
+epoch: 38, No: 25600 loss: 0.000053495 acc: 1.000000000
+epoch: 38, No: 32000 loss: 0.000047255 acc: 1.000000000
+epoch: 38, No: 38400 loss: 0.000055013 acc: 1.000000000
+epoch: 38, No: 44800 loss: 0.000038218 acc: 1.000000000
+epoch: 38, No: 51200 loss: 0.000067860 acc: 1.000000000
+epoch: 38, No: 57600 loss: 0.000040558 acc: 1.000000000
+Module Saved
+validating
+epoch: 38, i: 1280 acc_run: 0.894531250
+epoch: 38, i: 2560 acc_run: 0.996093750
+epoch: 38, i: 3840 acc_run: 0.995312500
+epoch: 38, i: 5120 acc_run: 0.992187500
+epoch: 38, i: 6400 acc_run: 0.992968750
+epoch: 38, i: 7680 acc_run: 0.993750000
+epoch: 38, i: 8960 acc_run: 0.993750000
+epoch: 38, i: 10240 acc_run: 0.905468750
+val_loss:0.023197 val_acc:0.982793
+epoch=39
+epoch: 39, No: 6400 loss: 0.000027938 acc: 1.000000000
+epoch: 39, No: 12800 loss: 0.000029869 acc: 1.000000000
+epoch: 39, No: 19200 loss: 0.000025660 acc: 1.000000000
+epoch: 39, No: 25600 loss: 0.000027016 acc: 1.000000000
+epoch: 39, No: 32000 loss: 0.000031975 acc: 1.000000000
+epoch: 39, No: 38400 loss: 0.000271967 acc: 0.999843750
+epoch: 39, No: 44800 loss: 0.000040784 acc: 1.000000000
+epoch: 39, No: 51200 loss: 0.000029524 acc: 1.000000000
+epoch: 39, No: 57600 loss: 0.000057450 acc: 1.000000000
+Module Saved
+validating
+epoch: 39, i: 1280 acc_run: 0.894531250
+epoch: 39, i: 2560 acc_run: 0.992968750
+epoch: 39, i: 3840 acc_run: 0.995312500
+epoch: 39, i: 5120 acc_run: 0.995312500
+epoch: 39, i: 6400 acc_run: 0.991406250
+epoch: 39, i: 7680 acc_run: 0.993750000
+epoch: 39, i: 8960 acc_run: 0.996093750
+epoch: 39, i: 10240 acc_run: 0.907031250
+val_loss:0.022300 val_acc:0.983089
+epoch=40
+epoch: 40, No: 6400 loss: 0.000024174 acc: 1.000000000
+epoch: 40, No: 12800 loss: 0.000039343 acc: 1.000000000
+epoch: 40, No: 19200 loss: 0.000029038 acc: 1.000000000
+epoch: 40, No: 25600 loss: 0.000019903 acc: 1.000000000
+epoch: 40, No: 32000 loss: 0.000040918 acc: 1.000000000
+epoch: 40, No: 38400 loss: 0.000028063 acc: 1.000000000
+epoch: 40, No: 44800 loss: 0.000024529 acc: 1.000000000
+epoch: 40, No: 51200 loss: 0.000033225 acc: 1.000000000
+epoch: 40, No: 57600 loss: 0.000027478 acc: 1.000000000
+Module Saved
+validating
+epoch: 40, i: 1280 acc_run: 0.892968750
+epoch: 40, i: 2560 acc_run: 0.992187500
+epoch: 40, i: 3840 acc_run: 0.996093750
+epoch: 40, i: 5120 acc_run: 0.991406250
+epoch: 40, i: 6400 acc_run: 0.995312500
+epoch: 40, i: 7680 acc_run: 0.993750000
+epoch: 40, i: 8960 acc_run: 0.993750000
+epoch: 40, i: 10240 acc_run: 0.910937500
+val_loss:0.023848 val_acc:0.983089
+epoch=41
+epoch: 41, No: 6400 loss: 0.000026597 acc: 1.000000000
+epoch: 41, No: 12800 loss: 0.000021709 acc: 1.000000000
+epoch: 41, No: 19200 loss: 0.000021064 acc: 1.000000000
+epoch: 41, No: 25600 loss: 0.000019261 acc: 1.000000000
+epoch: 41, No: 32000 loss: 0.000024832 acc: 1.000000000
+epoch: 41, No: 38400 loss: 0.000019976 acc: 1.000000000
+epoch: 41, No: 44800 loss: 0.000016592 acc: 1.000000000
+epoch: 41, No: 51200 loss: 0.000024067 acc: 1.000000000
+epoch: 41, No: 57600 loss: 0.000022937 acc: 1.000000000
+Module Saved
+validating
+epoch: 41, i: 1280 acc_run: 0.895312500
+epoch: 41, i: 2560 acc_run: 0.992187500
+epoch: 41, i: 3840 acc_run: 0.992187500
+epoch: 41, i: 5120 acc_run: 0.996875000
+epoch: 41, i: 6400 acc_run: 0.993750000
+epoch: 41, i: 7680 acc_run: 0.996093750
+epoch: 41, i: 8960 acc_run: 0.992187500
+epoch: 41, i: 10240 acc_run: 0.904687500
+val_loss:0.022802 val_acc:0.982694
+epoch=42
+epoch: 42, No: 6400 loss: 0.000020132 acc: 1.000000000
+epoch: 42, No: 12800 loss: 0.000016845 acc: 1.000000000
+epoch: 42, No: 19200 loss: 0.000022958 acc: 1.000000000
+epoch: 42, No: 25600 loss: 0.000034209 acc: 1.000000000
+epoch: 42, No: 32000 loss: 0.000048245 acc: 1.000000000
+epoch: 42, No: 38400 loss: 0.000021519 acc: 1.000000000
+epoch: 42, No: 44800 loss: 0.000014122 acc: 1.000000000
+epoch: 42, No: 51200 loss: 0.000018519 acc: 1.000000000
+epoch: 42, No: 57600 loss: 0.000016677 acc: 1.000000000
+Module Saved
+validating
+epoch: 42, i: 1280 acc_run: 0.896093750
+epoch: 42, i: 2560 acc_run: 0.992187500
+epoch: 42, i: 3840 acc_run: 0.992187500
+epoch: 42, i: 5120 acc_run: 0.991406250
+epoch: 42, i: 6400 acc_run: 0.992187500
+epoch: 42, i: 7680 acc_run: 0.997656250
+epoch: 42, i: 8960 acc_run: 0.995312500
+epoch: 42, i: 10240 acc_run: 0.909375000
+val_loss:0.022267 val_acc:0.983089
+epoch=43
+epoch: 43, No: 6400 loss: 0.000024119 acc: 1.000000000
+epoch: 43, No: 12800 loss: 0.000014971 acc: 1.000000000
+epoch: 43, No: 19200 loss: 0.000015289 acc: 1.000000000
+epoch: 43, No: 25600 loss: 0.000016034 acc: 1.000000000
+epoch: 43, No: 32000 loss: 0.000015644 acc: 1.000000000
+epoch: 43, No: 38400 loss: 0.000012104 acc: 1.000000000
+epoch: 43, No: 44800 loss: 0.000013956 acc: 1.000000000
+epoch: 43, No: 51200 loss: 0.000013253 acc: 1.000000000
+epoch: 43, No: 57600 loss: 0.000025559 acc: 1.000000000
+Module Saved
+validating
+epoch: 43, i: 1280 acc_run: 0.890625000
+epoch: 43, i: 2560 acc_run: 0.996093750
+epoch: 43, i: 3840 acc_run: 0.992968750
+epoch: 43, i: 5120 acc_run: 0.996093750
+epoch: 43, i: 6400 acc_run: 0.990625000
+epoch: 43, i: 7680 acc_run: 0.991406250
+epoch: 43, i: 8960 acc_run: 0.995312500
+epoch: 43, i: 10240 acc_run: 0.909375000
+val_loss:0.022910 val_acc:0.982595
+epoch=44
+epoch: 44, No: 6400 loss: 0.000013162 acc: 1.000000000
+epoch: 44, No: 12800 loss: 0.000011728 acc: 1.000000000
+epoch: 44, No: 19200 loss: 0.000012988 acc: 1.000000000
+epoch: 44, No: 25600 loss: 0.000025449 acc: 1.000000000
+epoch: 44, No: 32000 loss: 0.000032297 acc: 1.000000000
+epoch: 44, No: 38400 loss: 0.000019554 acc: 1.000000000
+epoch: 44, No: 44800 loss: 0.000018076 acc: 1.000000000
+epoch: 44, No: 51200 loss: 0.000012017 acc: 1.000000000
+epoch: 44, No: 57600 loss: 0.000012747 acc: 1.000000000
+Module Saved
+validating
+epoch: 44, i: 1280 acc_run: 0.897656250
+epoch: 44, i: 2560 acc_run: 0.995312500
+epoch: 44, i: 3840 acc_run: 0.993750000
+epoch: 44, i: 5120 acc_run: 0.993750000
+epoch: 44, i: 6400 acc_run: 0.992968750
+epoch: 44, i: 7680 acc_run: 0.992968750
+epoch: 44, i: 8960 acc_run: 0.992187500
+epoch: 44, i: 10240 acc_run: 0.905468750
+val_loss:0.022901 val_acc:0.982793
+epoch=45
+epoch: 45, No: 6400 loss: 0.000008888 acc: 1.000000000
+epoch: 45, No: 12800 loss: 0.000018306 acc: 1.000000000
+epoch: 45, No: 19200 loss: 0.000018113 acc: 1.000000000
+epoch: 45, No: 25600 loss: 0.000022546 acc: 1.000000000
+epoch: 45, No: 32000 loss: 0.000015019 acc: 1.000000000
+epoch: 45, No: 38400 loss: 0.000017119 acc: 1.000000000
+epoch: 45, No: 44800 loss: 0.000150822 acc: 0.999843750
+epoch: 45, No: 51200 loss: 0.002271620 acc: 0.999531250
+epoch: 45, No: 57600 loss: 0.000178830 acc: 1.000000000
+Module Saved
+validating
+epoch: 45, i: 1280 acc_run: 0.895312500
+epoch: 45, i: 2560 acc_run: 0.994531250
+epoch: 45, i: 3840 acc_run: 0.998437500
+epoch: 45, i: 5120 acc_run: 0.994531250
+epoch: 45, i: 6400 acc_run: 0.993750000
+epoch: 45, i: 7680 acc_run: 0.994531250
+epoch: 45, i: 8960 acc_run: 0.992187500
+epoch: 45, i: 10240 acc_run: 0.907812500
+val_loss:0.021250 val_acc:0.983683
+epoch=46
+epoch: 46, No: 6400 loss: 0.000042435 acc: 1.000000000
+epoch: 46, No: 12800 loss: 0.000045774 acc: 1.000000000
+epoch: 46, No: 19200 loss: 0.000093905 acc: 1.000000000
+epoch: 46, No: 25600 loss: 0.000035219 acc: 1.000000000
+epoch: 46, No: 32000 loss: 0.000026752 acc: 1.000000000
+epoch: 46, No: 38400 loss: 0.000035466 acc: 1.000000000
+epoch: 46, No: 44800 loss: 0.000030929 acc: 1.000000000
+epoch: 46, No: 51200 loss: 0.000045209 acc: 1.000000000
+epoch: 46, No: 57600 loss: 0.000030730 acc: 1.000000000
+Module Saved
+validating
+epoch: 46, i: 1280 acc_run: 0.894531250
+epoch: 46, i: 2560 acc_run: 0.995312500
+epoch: 46, i: 3840 acc_run: 0.994531250
+epoch: 46, i: 5120 acc_run: 0.994531250
+epoch: 46, i: 6400 acc_run: 0.996093750
+epoch: 46, i: 7680 acc_run: 0.993750000
+epoch: 46, i: 8960 acc_run: 0.992187500
+epoch: 46, i: 10240 acc_run: 0.909375000
+val_loss:0.021942 val_acc:0.983584
+epoch=47
+epoch: 47, No: 6400 loss: 0.000025402 acc: 1.000000000
+epoch: 47, No: 12800 loss: 0.000016406 acc: 1.000000000
+epoch: 47, No: 19200 loss: 0.000042542 acc: 1.000000000
+epoch: 47, No: 25600 loss: 0.000023216 acc: 1.000000000
+epoch: 47, No: 32000 loss: 0.000019142 acc: 1.000000000
+epoch: 47, No: 38400 loss: 0.000018489 acc: 1.000000000
+epoch: 47, No: 44800 loss: 0.000026232 acc: 1.000000000
+epoch: 47, No: 51200 loss: 0.000018661 acc: 1.000000000
+epoch: 47, No: 57600 loss: 0.000024776 acc: 1.000000000
+Module Saved
+validating
+epoch: 47, i: 1280 acc_run: 0.896875000
+epoch: 47, i: 2560 acc_run: 0.994531250
+epoch: 47, i: 3840 acc_run: 0.994531250
+epoch: 47, i: 5120 acc_run: 0.997656250
+epoch: 47, i: 6400 acc_run: 0.992968750
+epoch: 47, i: 7680 acc_run: 0.989843750
+epoch: 47, i: 8960 acc_run: 0.993750000
+epoch: 47, i: 10240 acc_run: 0.908593750
+val_loss:0.021568 val_acc:0.983386
+nohup: ignoring input
+1.0.1.post2
+cuda is available
+loading model:./RCNN-model/RCNN-epoch-47.pth
+start training
+epoch=48
+epoch: 48, current_count: 128 labels_count:6400 loss: 0.000017032 acc: 1.000000000 
+epoch: 48, current_count: 128 labels_count:12800 loss: 0.000034364 acc: 1.000000000 
+epoch: 48, current_count: 128 labels_count:19200 loss: 0.000016629 acc: 1.000000000 
+epoch: 48, current_count: 128 labels_count:25600 loss: 0.000015101 acc: 1.000000000 
+epoch: 48, current_count: 128 labels_count:32000 loss: 0.000016175 acc: 1.000000000 
+epoch: 48, current_count: 128 labels_count:38400 loss: 0.000019162 acc: 1.000000000 
+epoch: 48, current_count: 128 labels_count:44800 loss: 0.000016392 acc: 1.000000000 
+epoch: 48, current_count: 128 labels_count:51200 loss: 0.000018845 acc: 1.000000000 
+epoch: 48, current_count: 128 labels_count:57600 loss: 0.000024789 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 48, current_count: 1280 current_correct: 1273 acc_batch: 0.994531250
+epoch: 48, current_count: 2560 current_correct: 2547 acc_batch: 0.995312500
+epoch: 48, current_count: 3840 current_correct: 3819 acc_batch: 0.993750000
+epoch: 48, current_count: 5120 current_correct: 5093 acc_batch: 0.995312500
+epoch: 48, current_count: 6400 current_correct: 6365 acc_batch: 0.993750000
+epoch: 48, current_count: 7680 current_correct: 7640 acc_batch: 0.996093750
+epoch: 48, current_count: 8960 current_correct: 8911 acc_batch: 0.992968750
+current_label_count:16 != batch_size:128
+val_loss:0.021212814 val_acc:0.994500000
+epoch=49
+epoch: 49, current_count: 128 labels_count:6400 loss: 0.000013443 acc: 1.000000000 
+epoch: 49, current_count: 128 labels_count:12800 loss: 0.000019365 acc: 1.000000000 
+epoch: 49, current_count: 128 labels_count:19200 loss: 0.000012849 acc: 1.000000000 
+epoch: 49, current_count: 128 labels_count:25600 loss: 0.000017600 acc: 1.000000000 
+epoch: 49, current_count: 128 labels_count:32000 loss: 0.000012540 acc: 1.000000000 
+epoch: 49, current_count: 128 labels_count:38400 loss: 0.000018951 acc: 1.000000000 
+epoch: 49, current_count: 128 labels_count:44800 loss: 0.000014653 acc: 1.000000000 
+epoch: 49, current_count: 128 labels_count:51200 loss: 0.000012782 acc: 1.000000000 
+epoch: 49, current_count: 128 labels_count:57600 loss: 0.000014177 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 49, current_count: 1280 current_correct: 1274 acc_batch: 0.995312500
+epoch: 49, current_count: 2560 current_correct: 2548 acc_batch: 0.995312500
+epoch: 49, current_count: 3840 current_correct: 3815 acc_batch: 0.989843750
+epoch: 49, current_count: 5120 current_correct: 5087 acc_batch: 0.993750000
+epoch: 49, current_count: 6400 current_correct: 6362 acc_batch: 0.996093750
+epoch: 49, current_count: 7680 current_correct: 7633 acc_batch: 0.992968750
+epoch: 49, current_count: 8960 current_correct: 8908 acc_batch: 0.996093750
+current_label_count:16 != batch_size:128
+val_loss:0.022094300 val_acc:0.994200000
+epoch=50
+epoch: 50, current_count: 128 labels_count:6400 loss: 0.000020463 acc: 1.000000000 
+epoch: 50, current_count: 128 labels_count:12800 loss: 0.000013941 acc: 1.000000000 
+epoch: 50, current_count: 128 labels_count:19200 loss: 0.000013176 acc: 1.000000000 
+epoch: 50, current_count: 128 labels_count:25600 loss: 0.000013837 acc: 1.000000000 
+epoch: 50, current_count: 128 labels_count:32000 loss: 0.000017287 acc: 1.000000000 
+epoch: 50, current_count: 128 labels_count:38400 loss: 0.000017151 acc: 1.000000000 
+epoch: 50, current_count: 128 labels_count:44800 loss: 0.000015649 acc: 1.000000000 
+epoch: 50, current_count: 128 labels_count:51200 loss: 0.000012360 acc: 1.000000000 
+epoch: 50, current_count: 128 labels_count:57600 loss: 0.000012101 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 50, current_count: 1280 current_correct: 1273 acc_batch: 0.994531250
+epoch: 50, current_count: 2560 current_correct: 2547 acc_batch: 0.995312500
+epoch: 50, current_count: 3840 current_correct: 3821 acc_batch: 0.995312500
+epoch: 50, current_count: 5120 current_correct: 5098 acc_batch: 0.997656250
+epoch: 50, current_count: 6400 current_correct: 6369 acc_batch: 0.992968750
+epoch: 50, current_count: 7680 current_correct: 7641 acc_batch: 0.993750000
+epoch: 50, current_count: 8960 current_correct: 8909 acc_batch: 0.990625000
+current_label_count:16 != batch_size:128
+val_loss:0.021408848 val_acc:0.994600000
+epoch=51
+epoch: 51, current_count: 128 labels_count:6400 loss: 0.000011937 acc: 1.000000000 
+epoch: 51, current_count: 128 labels_count:12800 loss: 0.000012754 acc: 1.000000000 
+epoch: 51, current_count: 128 labels_count:19200 loss: 0.000015830 acc: 1.000000000 
+epoch: 51, current_count: 128 labels_count:25600 loss: 0.000010471 acc: 1.000000000 
+epoch: 51, current_count: 128 labels_count:32000 loss: 0.000013557 acc: 1.000000000 
+epoch: 51, current_count: 128 labels_count:38400 loss: 0.000015211 acc: 1.000000000 
+epoch: 51, current_count: 128 labels_count:44800 loss: 0.000014601 acc: 1.000000000 
+epoch: 51, current_count: 128 labels_count:51200 loss: 0.000016267 acc: 1.000000000 
+epoch: 51, current_count: 128 labels_count:57600 loss: 0.000012953 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 51, current_count: 1280 current_correct: 1273 acc_batch: 0.994531250
+epoch: 51, current_count: 2560 current_correct: 2545 acc_batch: 0.993750000
+epoch: 51, current_count: 3840 current_correct: 3816 acc_batch: 0.992968750
+epoch: 51, current_count: 5120 current_correct: 5091 acc_batch: 0.996093750
+epoch: 51, current_count: 6400 current_correct: 6362 acc_batch: 0.992968750
+epoch: 51, current_count: 7680 current_correct: 7635 acc_batch: 0.994531250
+epoch: 51, current_count: 8960 current_correct: 8912 acc_batch: 0.997656250
+current_label_count:16 != batch_size:128
+val_loss:0.025188016 val_acc:0.994100000
+epoch=52
+epoch: 52, current_count: 128 labels_count:6400 loss: 0.000010827 acc: 1.000000000 
+epoch: 52, current_count: 128 labels_count:12800 loss: 0.000014316 acc: 1.000000000 
+epoch: 52, current_count: 128 labels_count:19200 loss: 0.000011064 acc: 1.000000000 
+epoch: 52, current_count: 128 labels_count:25600 loss: 0.000018030 acc: 1.000000000 
+epoch: 52, current_count: 128 labels_count:32000 loss: 0.000012570 acc: 1.000000000 
+epoch: 52, current_count: 128 labels_count:38400 loss: 0.000011576 acc: 1.000000000 
+epoch: 52, current_count: 128 labels_count:44800 loss: 0.000011984 acc: 1.000000000 
+epoch: 52, current_count: 128 labels_count:51200 loss: 0.000024409 acc: 1.000000000 
+epoch: 52, current_count: 128 labels_count:57600 loss: 0.000011027 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 52, current_count: 1280 current_correct: 1276 acc_batch: 0.996875000
+epoch: 52, current_count: 2560 current_correct: 2547 acc_batch: 0.992968750
+epoch: 52, current_count: 3840 current_correct: 3814 acc_batch: 0.989843750
+epoch: 52, current_count: 5120 current_correct: 5088 acc_batch: 0.995312500
+epoch: 52, current_count: 6400 current_correct: 6361 acc_batch: 0.994531250
+epoch: 52, current_count: 7680 current_correct: 7634 acc_batch: 0.994531250
+epoch: 52, current_count: 8960 current_correct: 8906 acc_batch: 0.993750000
+current_label_count:16 != batch_size:128
+val_loss:0.021463657 val_acc:0.994300000
+epoch=53
+epoch: 53, current_count: 128 labels_count:6400 loss: 0.000013853 acc: 1.000000000 
+epoch: 53, current_count: 128 labels_count:12800 loss: 0.000012299 acc: 1.000000000 
+epoch: 53, current_count: 128 labels_count:19200 loss: 0.000008320 acc: 1.000000000 
+epoch: 53, current_count: 128 labels_count:25600 loss: 0.000012065 acc: 1.000000000 
+epoch: 53, current_count: 128 labels_count:32000 loss: 0.000015845 acc: 1.000000000 
+epoch: 53, current_count: 128 labels_count:38400 loss: 0.000015435 acc: 1.000000000 
+epoch: 53, current_count: 128 labels_count:44800 loss: 0.000012610 acc: 1.000000000 
+epoch: 53, current_count: 128 labels_count:51200 loss: 0.000009731 acc: 1.000000000 
+epoch: 53, current_count: 128 labels_count:57600 loss: 0.000013925 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 53, current_count: 1280 current_correct: 1275 acc_batch: 0.996093750
+epoch: 53, current_count: 2560 current_correct: 2552 acc_batch: 0.997656250
+epoch: 53, current_count: 3840 current_correct: 3826 acc_batch: 0.995312500
+epoch: 53, current_count: 5120 current_correct: 5101 acc_batch: 0.996093750
+epoch: 53, current_count: 6400 current_correct: 6371 acc_batch: 0.992187500
+epoch: 53, current_count: 7680 current_correct: 7641 acc_batch: 0.992187500
+epoch: 53, current_count: 8960 current_correct: 8913 acc_batch: 0.993750000
+current_label_count:16 != batch_size:128
+val_loss:0.022021515 val_acc:0.994300000
+epoch=54
+epoch: 54, current_count: 128 labels_count:6400 loss: 0.000009404 acc: 1.000000000 
+epoch: 54, current_count: 128 labels_count:12800 loss: 0.000010958 acc: 1.000000000 
+epoch: 54, current_count: 128 labels_count:19200 loss: 0.000010664 acc: 1.000000000 
+epoch: 54, current_count: 128 labels_count:25600 loss: 0.000011719 acc: 1.000000000 
+epoch: 54, current_count: 128 labels_count:32000 loss: 0.000017435 acc: 1.000000000 
+epoch: 54, current_count: 128 labels_count:38400 loss: 0.000008830 acc: 1.000000000 
+epoch: 54, current_count: 128 labels_count:44800 loss: 0.000010944 acc: 1.000000000 
+epoch: 54, current_count: 128 labels_count:51200 loss: 0.000009764 acc: 1.000000000 
+epoch: 54, current_count: 128 labels_count:57600 loss: 0.000011506 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 54, current_count: 1280 current_correct: 1275 acc_batch: 0.996093750
+epoch: 54, current_count: 2560 current_correct: 2548 acc_batch: 0.994531250
+epoch: 54, current_count: 3840 current_correct: 3820 acc_batch: 0.993750000
+epoch: 54, current_count: 5120 current_correct: 5098 acc_batch: 0.998437500
+epoch: 54, current_count: 6400 current_correct: 6371 acc_batch: 0.994531250
+epoch: 54, current_count: 7680 current_correct: 7635 acc_batch: 0.987500000
+epoch: 54, current_count: 8960 current_correct: 8908 acc_batch: 0.994531250
+current_label_count:16 != batch_size:128
+val_loss:0.021916239 val_acc:0.994400000
+epoch=55
+epoch: 55, current_count: 128 labels_count:6400 loss: 0.000011813 acc: 1.000000000 
+epoch: 55, current_count: 128 labels_count:12800 loss: 0.000011023 acc: 1.000000000 
+epoch: 55, current_count: 128 labels_count:19200 loss: 0.000010947 acc: 1.000000000 
+epoch: 55, current_count: 128 labels_count:25600 loss: 0.000008595 acc: 1.000000000 
+epoch: 55, current_count: 128 labels_count:32000 loss: 0.000012208 acc: 1.000000000 
+epoch: 55, current_count: 128 labels_count:38400 loss: 0.000009618 acc: 1.000000000 
+epoch: 55, current_count: 128 labels_count:44800 loss: 0.000010230 acc: 1.000000000 
+epoch: 55, current_count: 128 labels_count:51200 loss: 0.000011338 acc: 1.000000000 
+epoch: 55, current_count: 128 labels_count:57600 loss: 0.000009724 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 55, current_count: 1280 current_correct: 1273 acc_batch: 0.994531250
+epoch: 55, current_count: 2560 current_correct: 2545 acc_batch: 0.993750000
+epoch: 55, current_count: 3840 current_correct: 3813 acc_batch: 0.990625000
+epoch: 55, current_count: 5120 current_correct: 5089 acc_batch: 0.996875000
+epoch: 55, current_count: 6400 current_correct: 6359 acc_batch: 0.992187500
+epoch: 55, current_count: 7680 current_correct: 7636 acc_batch: 0.997656250
+epoch: 55, current_count: 8960 current_correct: 8911 acc_batch: 0.996093750
+current_label_count:16 != batch_size:128
+val_loss:0.022164164 val_acc:0.994200000
+epoch=56
+epoch: 56, current_count: 128 labels_count:6400 loss: 0.000013268 acc: 1.000000000 
+epoch: 56, current_count: 128 labels_count:12800 loss: 0.000010229 acc: 1.000000000 
+epoch: 56, current_count: 128 labels_count:19200 loss: 0.000010433 acc: 1.000000000 
+epoch: 56, current_count: 128 labels_count:25600 loss: 0.000008104 acc: 1.000000000 
+epoch: 56, current_count: 128 labels_count:32000 loss: 0.000009596 acc: 1.000000000 
+epoch: 56, current_count: 128 labels_count:38400 loss: 0.000009707 acc: 1.000000000 
+epoch: 56, current_count: 128 labels_count:44800 loss: 0.000010006 acc: 1.000000000 
+epoch: 56, current_count: 128 labels_count:51200 loss: 0.000009750 acc: 1.000000000 
+epoch: 56, current_count: 128 labels_count:57600 loss: 0.000012608 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 56, current_count: 1280 current_correct: 1270 acc_batch: 0.992187500
+epoch: 56, current_count: 2560 current_correct: 2546 acc_batch: 0.996875000
+epoch: 56, current_count: 3840 current_correct: 3818 acc_batch: 0.993750000
+epoch: 56, current_count: 5120 current_correct: 5091 acc_batch: 0.994531250
+epoch: 56, current_count: 6400 current_correct: 6363 acc_batch: 0.993750000
+epoch: 56, current_count: 7680 current_correct: 7636 acc_batch: 0.994531250
+epoch: 56, current_count: 8960 current_correct: 8908 acc_batch: 0.993750000
+current_label_count:16 != batch_size:128
+val_loss:0.021956943 val_acc:0.994400000
+
+
+
+
+
+

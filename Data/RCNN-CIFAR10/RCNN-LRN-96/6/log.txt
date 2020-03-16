@@ -1,0 +1,78 @@
+SGD
+Dropout=0.5
+修改了iter_time定义
+1.0.1.post2
+cuda is available
+start training
+validating val_loss:2.304568768 val_acc:0.099559295
+epoch=1 train_loss:2.044110333 train_acc:0.202443910 validating val_loss:1.836040258 val_acc:0.314803686
+epoch=2 train_loss:1.580600907 train_acc:0.403926282 validating val_loss:1.396690845 val_acc:0.490184295
+epoch=3 train_loss:1.365188045 train_acc:0.498076923 validating val_loss:1.205554843 val_acc:0.566105769
+epoch=4 train_loss:1.186934317 train_acc:0.573878205 validating val_loss:1.073229313 val_acc:0.612980769
+epoch=5 train_loss:1.061693854 train_acc:0.620532853 validating val_loss:0.962888658 val_acc:0.663361378
+epoch=6 train_loss:0.969868466 train_acc:0.654947917 validating val_loss:0.903545201 val_acc:0.674779647
+epoch=7 train_loss:0.888087222 train_acc:0.685957532 validating val_loss:0.844797015 val_acc:0.698918269
+epoch=8 train_loss:0.821511771 train_acc:0.709495192 validating val_loss:0.790968418 val_acc:0.726262019
+epoch=9 train_loss:0.763919441 train_acc:0.731630609 validating val_loss:0.739913940 val_acc:0.745793269
+epoch=10 train_loss:0.715342293 train_acc:0.748758013 validating val_loss:0.678375006 val_acc:0.771334135
+epoch=11 train_loss:0.676778632 train_acc:0.762720353 validating val_loss:0.683828473 val_acc:0.766025641
+epoch=12 train_loss:0.648322183 train_acc:0.772696314 validating val_loss:0.607953250 val_acc:0.789062500
+epoch=13 train_loss:0.608620694 train_acc:0.788301282 validating val_loss:0.602412283 val_acc:0.794270833
+epoch=14 train_loss:0.588353455 train_acc:0.793589744 validating val_loss:0.599041998 val_acc:0.791766827
+epoch=15 train_loss:0.564174589 train_acc:0.803425481 validating val_loss:0.579661131 val_acc:0.799579327
+epoch=16 train_loss:0.546349356 train_acc:0.808193109 validating val_loss:0.544635713 val_acc:0.813601763
+epoch=17 train_loss:0.525949577 train_acc:0.815825321 validating val_loss:0.564885199 val_acc:0.806891026
+epoch=18 train_loss:0.505891305 train_acc:0.823297276 validating val_loss:0.548246026 val_acc:0.812500000
+epoch=19 train_loss:0.490728675 train_acc:0.827664263 validating val_loss:0.533562243 val_acc:0.818609776
+epoch=20 train_loss:0.468476624 train_acc:0.835717147 validating val_loss:0.529980838 val_acc:0.815805288
+epoch=21 train_loss:0.453411241 train_acc:0.840404647 validating val_loss:0.518518627 val_acc:0.823617788
+epoch=22 train_loss:0.447009250 train_acc:0.843429487 validating val_loss:0.527514696 val_acc:0.823717949
+epoch=23 train_loss:0.432641244 train_acc:0.848958333 validating val_loss:0.500485361 val_acc:0.830028045
+epoch=24 train_loss:0.413610644 train_acc:0.854006410 validating val_loss:0.536622643 val_acc:0.817908654
+epoch=25 train_loss:0.406109772 train_acc:0.857892628 validating val_loss:0.491020501 val_acc:0.835837340
+epoch=26 train_loss:0.394203799 train_acc:0.862479968 validating val_loss:0.498242706 val_acc:0.832732372
+epoch=27 train_loss:0.390388446 train_acc:0.862700321 validating val_loss:0.484259009 val_acc:0.839443109
+epoch=28 train_loss:0.378314711 train_acc:0.866526442 validating val_loss:0.482472748 val_acc:0.837640224
+epoch=29 train_loss:0.367863985 train_acc:0.871734776 validating val_loss:0.487285674 val_acc:0.840745192
+epoch=30 train_loss:0.364342379 train_acc:0.871895032 validating val_loss:0.499002606 val_acc:0.840544872
+epoch=31 train_loss:0.354499636 train_acc:0.876201923 validating val_loss:0.489527404 val_acc:0.838241186
+epoch=32 train_loss:0.351796880 train_acc:0.875941506 validating val_loss:0.498876125 val_acc:0.836338141
+epoch=33 train_loss:0.342363764 train_acc:0.879807692 validating val_loss:0.475651532 val_acc:0.839342949
+epoch=34 train_loss:0.333575021 train_acc:0.882632212 validating val_loss:0.484103173 val_acc:0.840144231
+epoch=35 train_loss:0.332253979 train_acc:0.884655449 validating val_loss:0.472329408 val_acc:0.844651442
+epoch=36 train_loss:0.325103069 train_acc:0.885717147 validating val_loss:0.460356891 val_acc:0.847956731
+epoch=37 train_loss:0.316698806 train_acc:0.888762019 validating val_loss:0.507734001 val_acc:0.836638622
+epoch=38 train_loss:0.315253181 train_acc:0.888601763 validating val_loss:0.469705671 val_acc:0.847055288
+epoch=39 train_loss:0.309010377 train_acc:0.892287660 validating val_loss:0.512628436 val_acc:0.834735577
+epoch=40 train_loss:0.297315916 train_acc:0.895873397 validating val_loss:0.513192177 val_acc:0.838141026
+epoch=41 train_loss:0.294988418 train_acc:0.896534455 validating val_loss:0.476261199 val_acc:0.845653045
+epoch=42 train_loss:0.296269694 train_acc:0.895813301 validating val_loss:0.488091588 val_acc:0.844451122
+epoch=43 train_loss:0.288573404 train_acc:0.899819712 validating val_loss:0.513449609 val_acc:0.839843750
+epoch=44 train_loss:0.283063752 train_acc:0.900240385 validating val_loss:0.539738655 val_acc:0.829126603
+epoch=45 train_loss:0.278740198 train_acc:0.901362179 validating val_loss:0.480124056 val_acc:0.841245994
+epoch=46 train_loss:0.280084682 train_acc:0.901442308 validating val_loss:0.472675532 val_acc:0.845853365
+epoch=47 train_loss:0.271473956 train_acc:0.904467147 validating val_loss:0.493843913 val_acc:0.845953526
+Epoch    47: reducing learning rate of group 0 to 1.0000e-03.
+epoch=48 train_loss:0.186892703 train_acc:0.933974359 validating val_loss:0.461920083 val_acc:0.863080929
+epoch=49 train_loss:0.163960751 train_acc:0.942487981 validating val_loss:0.463971376 val_acc:0.865084135
+epoch=50 train_loss:0.152263803 train_acc:0.945472756 validating val_loss:0.477643400 val_acc:0.866185897
+epoch=51 train_loss:0.148369883 train_acc:0.947295673 validating val_loss:0.475212306 val_acc:0.867187500
+epoch=52 train_loss:0.144958338 train_acc:0.948437500 validating val_loss:0.479785442 val_acc:0.867387821
+epoch=53 train_loss:0.136943924 train_acc:0.951462340 validating val_loss:0.490397334 val_acc:0.865885417
+epoch=54 train_loss:0.134569175 train_acc:0.952864583 validating val_loss:0.492173523 val_acc:0.866686699
+epoch=55 train_loss:0.132879408 train_acc:0.953024840 validating val_loss:0.490895450 val_acc:0.867387821
+epoch=56 train_loss:0.125597600 train_acc:0.955188301 validating val_loss:0.492915928 val_acc:0.867988782
+epoch=57 train_loss:0.128714014 train_acc:0.954547276 validating val_loss:0.497077912 val_acc:0.867988782
+epoch=58 train_loss:0.126509091 train_acc:0.955268429 validating val_loss:0.500495791 val_acc:0.867187500
+Epoch    58: reducing learning rate of group 0 to 1.0000e-04.
+epoch=59 train_loss:0.116703469 train_acc:0.958112981 validating val_loss:0.499030203 val_acc:0.869290865
+epoch=60 train_loss:0.114084003 train_acc:0.959415064 validating val_loss:0.501571000 val_acc:0.868088942
+epoch=61 train_loss:0.116400441 train_acc:0.957391827 validating val_loss:0.502951682 val_acc:0.868990385
+epoch=62 train_loss:0.114053851 train_acc:0.959014423 validating val_loss:0.504314423 val_acc:0.868890224
+epoch=63 train_loss:0.114621781 train_acc:0.958974359 validating val_loss:0.501901925 val_acc:0.869391026
+epoch=64 train_loss:0.112419002 train_acc:0.959515224 validating val_loss:0.503154933 val_acc:0.868890224
+epoch=65 train_loss:0.110784703 train_acc:0.961338141 validating val_loss:0.506789446 val_acc:0.868790064
+epoch=66 train_loss:0.112577557 train_acc:0.960196314 validating val_loss:0.507209241 val_acc:0.867988782
+epoch=67 train_loss:0.109612935 train_acc:0.960657051 validating val_loss:0.506838858 val_acc:0.868790064
+epoch=68 train_loss:0.113582994 train_acc:0.959735577 validating val_loss:0.507506967 val_acc:0.868489583
+epoch=69 train_loss:0.109469197 train_acc:0.961378205 validating val_loss:0.512971461 val_acc:0.868890224

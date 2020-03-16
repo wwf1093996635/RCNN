@@ -1,0 +1,1 @@
+setting initial learning rate of SGD algorithm 1.00e-01: fail to converge.

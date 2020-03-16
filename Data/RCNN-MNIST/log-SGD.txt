@@ -1,0 +1,1722 @@
+nohup: ignoring input
+1.0.1.post2
+cuda is available
+loading model:./RCNN-SGD-model/RCNN-epoch-21.pth
+start training
+epoch=22
+epoch: 22, current_count: 128 labels_count:2560 loss: 0.000332334 acc: 1.000000000 
+epoch: 22, current_count: 128 labels_count:5120 loss: 0.001491712 acc: 0.999609375 
+epoch: 22, current_count: 128 labels_count:7680 loss: 0.001141146 acc: 0.999609375 
+epoch: 22, current_count: 128 labels_count:10240 loss: 0.000554059 acc: 1.000000000 
+epoch: 22, current_count: 128 labels_count:12800 loss: 0.001122625 acc: 0.999609375 
+epoch: 22, current_count: 128 labels_count:15360 loss: 0.000911827 acc: 0.999609375 
+epoch: 22, current_count: 128 labels_count:17920 loss: 0.000776309 acc: 1.000000000 
+epoch: 22, current_count: 128 labels_count:20480 loss: 0.000875283 acc: 1.000000000 
+epoch: 22, current_count: 128 labels_count:23040 loss: 0.000656395 acc: 1.000000000 
+epoch: 22, current_count: 128 labels_count:25600 loss: 0.000441380 acc: 1.000000000 
+epoch: 22, current_count: 128 labels_count:28160 loss: 0.003352150 acc: 0.999609375 
+epoch: 22, current_count: 128 labels_count:30720 loss: 0.000764765 acc: 1.000000000 
+epoch: 22, current_count: 128 labels_count:33280 loss: 0.000396204 acc: 1.000000000 
+epoch: 22, current_count: 128 labels_count:35840 loss: 0.000820443 acc: 1.000000000 
+epoch: 22, current_count: 128 labels_count:38400 loss: 0.000618652 acc: 1.000000000 
+epoch: 22, current_count: 128 labels_count:40960 loss: 0.000934828 acc: 1.000000000 
+epoch: 22, current_count: 128 labels_count:43520 loss: 0.001046034 acc: 0.999609375 
+epoch: 22, current_count: 128 labels_count:46080 loss: 0.000402079 acc: 1.000000000 
+epoch: 22, current_count: 128 labels_count:48640 loss: 0.000827891 acc: 1.000000000 
+epoch: 22, current_count: 128 labels_count:51200 loss: 0.000785496 acc: 1.000000000 
+epoch: 22, current_count: 128 labels_count:53760 loss: 0.000537041 acc: 1.000000000 
+epoch: 22, current_count: 128 labels_count:56320 loss: 0.000817944 acc: 1.000000000 
+epoch: 22, current_count: 128 labels_count:58880 loss: 0.001067776 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59994 total_acc:0.999900000
+Module Saved
+validating
+epoch: 22, current_count: 1280 current_correct: 1272 acc_batch: 0.993750000
+epoch: 22, current_count: 2560 current_correct: 2539 acc_batch: 0.989843750
+epoch: 22, current_count: 3840 current_correct: 3802 acc_batch: 0.986718750
+epoch: 22, current_count: 5120 current_correct: 5070 acc_batch: 0.990625000
+epoch: 22, current_count: 6400 current_correct: 6338 acc_batch: 0.990625000
+epoch: 22, current_count: 7680 current_correct: 7598 acc_batch: 0.984375000
+epoch: 22, current_count: 8960 current_correct: 8864 acc_batch: 0.989062500
+current_label_count:16 != batch_size:128
+val_loss:0.036404606 val_acc:0.989100000
+epoch=23
+epoch: 23, current_count: 128 labels_count:2560 loss: 0.000596326 acc: 1.000000000 
+epoch: 23, current_count: 128 labels_count:5120 loss: 0.000568366 acc: 1.000000000 
+epoch: 23, current_count: 128 labels_count:7680 loss: 0.000973646 acc: 0.999609375 
+epoch: 23, current_count: 128 labels_count:10240 loss: 0.000610376 acc: 1.000000000 
+epoch: 23, current_count: 128 labels_count:12800 loss: 0.000382911 acc: 1.000000000 
+epoch: 23, current_count: 128 labels_count:15360 loss: 0.001075108 acc: 0.999609375 
+epoch: 23, current_count: 128 labels_count:17920 loss: 0.000883653 acc: 1.000000000 
+epoch: 23, current_count: 128 labels_count:20480 loss: 0.001494662 acc: 1.000000000 
+epoch: 23, current_count: 128 labels_count:23040 loss: 0.000455992 acc: 1.000000000 
+epoch: 23, current_count: 128 labels_count:25600 loss: 0.001884503 acc: 0.999609375 
+epoch: 23, current_count: 128 labels_count:28160 loss: 0.000410379 acc: 1.000000000 
+epoch: 23, current_count: 128 labels_count:30720 loss: 0.000999195 acc: 1.000000000 
+epoch: 23, current_count: 128 labels_count:33280 loss: 0.000544871 acc: 1.000000000 
+epoch: 23, current_count: 128 labels_count:35840 loss: 0.000766858 acc: 1.000000000 
+epoch: 23, current_count: 128 labels_count:38400 loss: 0.000668433 acc: 1.000000000 
+epoch: 23, current_count: 128 labels_count:40960 loss: 0.000791739 acc: 1.000000000 
+epoch: 23, current_count: 128 labels_count:43520 loss: 0.000525463 acc: 1.000000000 
+epoch: 23, current_count: 128 labels_count:46080 loss: 0.000612373 acc: 1.000000000 
+epoch: 23, current_count: 128 labels_count:48640 loss: 0.000730463 acc: 1.000000000 
+epoch: 23, current_count: 128 labels_count:51200 loss: 0.000645870 acc: 1.000000000 
+epoch: 23, current_count: 128 labels_count:53760 loss: 0.003121563 acc: 0.999609375 
+epoch: 23, current_count: 128 labels_count:56320 loss: 0.000469378 acc: 1.000000000 
+epoch: 23, current_count: 128 labels_count:58880 loss: 0.000739611 acc: 0.999609375 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59995 total_acc:0.999916667
+Module Saved
+validating
+epoch: 23, current_count: 1280 current_correct: 1268 acc_batch: 0.990625000
+epoch: 23, current_count: 2560 current_correct: 2538 acc_batch: 0.992187500
+epoch: 23, current_count: 3840 current_correct: 3812 acc_batch: 0.995312500
+epoch: 23, current_count: 5120 current_correct: 5074 acc_batch: 0.985937500
+epoch: 23, current_count: 6400 current_correct: 6335 acc_batch: 0.985156250
+epoch: 23, current_count: 7680 current_correct: 7601 acc_batch: 0.989062500
+epoch: 23, current_count: 8960 current_correct: 8870 acc_batch: 0.991406250
+current_label_count:16 != batch_size:128
+val_loss:0.033517707 val_acc:0.989700000
+epoch=24
+epoch: 24, current_count: 128 labels_count:2560 loss: 0.000526617 acc: 1.000000000 
+epoch: 24, current_count: 128 labels_count:5120 loss: 0.000315631 acc: 1.000000000 
+epoch: 24, current_count: 128 labels_count:7680 loss: 0.000502648 acc: 1.000000000 
+epoch: 24, current_count: 128 labels_count:10240 loss: 0.000565113 acc: 1.000000000 
+epoch: 24, current_count: 128 labels_count:12800 loss: 0.000505291 acc: 1.000000000 
+epoch: 24, current_count: 128 labels_count:15360 loss: 0.000579578 acc: 1.000000000 
+epoch: 24, current_count: 128 labels_count:17920 loss: 0.000995085 acc: 0.999609375 
+epoch: 24, current_count: 128 labels_count:20480 loss: 0.000801626 acc: 1.000000000 
+epoch: 24, current_count: 128 labels_count:23040 loss: 0.000813729 acc: 0.999609375 
+epoch: 24, current_count: 128 labels_count:25600 loss: 0.000616269 acc: 1.000000000 
+epoch: 24, current_count: 128 labels_count:28160 loss: 0.000771133 acc: 1.000000000 
+epoch: 24, current_count: 128 labels_count:30720 loss: 0.000622689 acc: 1.000000000 
+epoch: 24, current_count: 128 labels_count:33280 loss: 0.000361435 acc: 1.000000000 
+epoch: 24, current_count: 128 labels_count:35840 loss: 0.000506247 acc: 1.000000000 
+epoch: 24, current_count: 128 labels_count:38400 loss: 0.000579436 acc: 1.000000000 
+epoch: 24, current_count: 128 labels_count:40960 loss: 0.000403192 acc: 1.000000000 
+epoch: 24, current_count: 128 labels_count:43520 loss: 0.000607648 acc: 1.000000000 
+epoch: 24, current_count: 128 labels_count:46080 loss: 0.000373950 acc: 1.000000000 
+epoch: 24, current_count: 128 labels_count:48640 loss: 0.000645406 acc: 1.000000000 
+epoch: 24, current_count: 128 labels_count:51200 loss: 0.000545938 acc: 1.000000000 
+epoch: 24, current_count: 128 labels_count:53760 loss: 0.000391384 acc: 1.000000000 
+epoch: 24, current_count: 128 labels_count:56320 loss: 0.003360291 acc: 0.999609375 
+epoch: 24, current_count: 128 labels_count:58880 loss: 0.000678262 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59997 total_acc:0.999950000
+Module Saved
+validating
+epoch: 24, current_count: 1280 current_correct: 1263 acc_batch: 0.986718750
+epoch: 24, current_count: 2560 current_correct: 2532 acc_batch: 0.991406250
+epoch: 24, current_count: 3840 current_correct: 3796 acc_batch: 0.987500000
+epoch: 24, current_count: 5120 current_correct: 5066 acc_batch: 0.992187500
+epoch: 24, current_count: 6400 current_correct: 6327 acc_batch: 0.985156250
+epoch: 24, current_count: 7680 current_correct: 7590 acc_batch: 0.986718750
+epoch: 24, current_count: 8960 current_correct: 8857 acc_batch: 0.989843750
+current_label_count:16 != batch_size:128
+val_loss:0.036509320 val_acc:0.988300000
+epoch=25
+epoch: 25, current_count: 128 labels_count:2560 loss: 0.000665509 acc: 1.000000000 
+epoch: 25, current_count: 128 labels_count:5120 loss: 0.000389010 acc: 1.000000000 
+epoch: 25, current_count: 128 labels_count:7680 loss: 0.000435452 acc: 1.000000000 
+epoch: 25, current_count: 128 labels_count:10240 loss: 0.000568922 acc: 1.000000000 
+epoch: 25, current_count: 128 labels_count:12800 loss: 0.000430175 acc: 1.000000000 
+epoch: 25, current_count: 128 labels_count:15360 loss: 0.002506198 acc: 0.999609375 
+epoch: 25, current_count: 128 labels_count:17920 loss: 0.000471892 acc: 1.000000000 
+epoch: 25, current_count: 128 labels_count:20480 loss: 0.000617216 acc: 1.000000000 
+epoch: 25, current_count: 128 labels_count:23040 loss: 0.000404354 acc: 1.000000000 
+epoch: 25, current_count: 128 labels_count:25600 loss: 0.000379727 acc: 1.000000000 
+epoch: 25, current_count: 128 labels_count:28160 loss: 0.000447134 acc: 1.000000000 
+epoch: 25, current_count: 128 labels_count:30720 loss: 0.000693595 acc: 1.000000000 
+epoch: 25, current_count: 128 labels_count:33280 loss: 0.000656382 acc: 1.000000000 
+epoch: 25, current_count: 128 labels_count:35840 loss: 0.000349327 acc: 1.000000000 
+epoch: 25, current_count: 128 labels_count:38400 loss: 0.000480956 acc: 1.000000000 
+epoch: 25, current_count: 128 labels_count:40960 loss: 0.000537602 acc: 1.000000000 
+epoch: 25, current_count: 128 labels_count:43520 loss: 0.000357999 acc: 1.000000000 
+epoch: 25, current_count: 128 labels_count:46080 loss: 0.000487272 acc: 1.000000000 
+epoch: 25, current_count: 128 labels_count:48640 loss: 0.000320175 acc: 1.000000000 
+epoch: 25, current_count: 128 labels_count:51200 loss: 0.000322123 acc: 1.000000000 
+epoch: 25, current_count: 128 labels_count:53760 loss: 0.000796478 acc: 1.000000000 
+epoch: 25, current_count: 128 labels_count:56320 loss: 0.000647512 acc: 1.000000000 
+epoch: 25, current_count: 128 labels_count:58880 loss: 0.000356162 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 25, current_count: 1280 current_correct: 1272 acc_batch: 0.993750000
+epoch: 25, current_count: 2560 current_correct: 2533 acc_batch: 0.985156250
+epoch: 25, current_count: 3840 current_correct: 3798 acc_batch: 0.988281250
+epoch: 25, current_count: 5120 current_correct: 5066 acc_batch: 0.990625000
+epoch: 25, current_count: 6400 current_correct: 6332 acc_batch: 0.989062500
+epoch: 25, current_count: 7680 current_correct: 7599 acc_batch: 0.989843750
+epoch: 25, current_count: 8960 current_correct: 8866 acc_batch: 0.989843750
+current_label_count:16 != batch_size:128
+val_loss:0.035543825 val_acc:0.989400000
+epoch=26
+epoch: 26, current_count: 128 labels_count:2560 loss: 0.000541575 acc: 1.000000000 
+epoch: 26, current_count: 128 labels_count:5120 loss: 0.000348831 acc: 1.000000000 
+epoch: 26, current_count: 128 labels_count:7680 loss: 0.000469475 acc: 1.000000000 
+epoch: 26, current_count: 128 labels_count:10240 loss: 0.000464293 acc: 1.000000000 
+epoch: 26, current_count: 128 labels_count:12800 loss: 0.000499314 acc: 1.000000000 
+epoch: 26, current_count: 128 labels_count:15360 loss: 0.000355823 acc: 1.000000000 
+epoch: 26, current_count: 128 labels_count:17920 loss: 0.000255790 acc: 1.000000000 
+epoch: 26, current_count: 128 labels_count:20480 loss: 0.000556353 acc: 1.000000000 
+epoch: 26, current_count: 128 labels_count:23040 loss: 0.000462311 acc: 1.000000000 
+epoch: 26, current_count: 128 labels_count:25600 loss: 0.000807485 acc: 0.999609375 
+epoch: 26, current_count: 128 labels_count:28160 loss: 0.000758132 acc: 0.999609375 
+epoch: 26, current_count: 128 labels_count:30720 loss: 0.000354474 acc: 1.000000000 
+epoch: 26, current_count: 128 labels_count:33280 loss: 0.002732367 acc: 0.999609375 
+epoch: 26, current_count: 128 labels_count:35840 loss: 0.000388717 acc: 1.000000000 
+epoch: 26, current_count: 128 labels_count:38400 loss: 0.000476045 acc: 1.000000000 
+epoch: 26, current_count: 128 labels_count:40960 loss: 0.000458787 acc: 1.000000000 
+epoch: 26, current_count: 128 labels_count:43520 loss: 0.000391028 acc: 1.000000000 
+epoch: 26, current_count: 128 labels_count:46080 loss: 0.001024026 acc: 1.000000000 
+epoch: 26, current_count: 128 labels_count:48640 loss: 0.000561461 acc: 1.000000000 
+epoch: 26, current_count: 128 labels_count:51200 loss: 0.000603819 acc: 1.000000000 
+epoch: 26, current_count: 128 labels_count:53760 loss: 0.000686902 acc: 1.000000000 
+epoch: 26, current_count: 128 labels_count:56320 loss: 0.000757329 acc: 1.000000000 
+epoch: 26, current_count: 128 labels_count:58880 loss: 0.000485618 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59997 total_acc:0.999950000
+Module Saved
+validating
+epoch: 26, current_count: 1280 current_correct: 1263 acc_batch: 0.986718750
+epoch: 26, current_count: 2560 current_correct: 2533 acc_batch: 0.992187500
+epoch: 26, current_count: 3840 current_correct: 3800 acc_batch: 0.989843750
+epoch: 26, current_count: 5120 current_correct: 5069 acc_batch: 0.991406250
+epoch: 26, current_count: 6400 current_correct: 6332 acc_batch: 0.986718750
+epoch: 26, current_count: 7680 current_correct: 7593 acc_batch: 0.985156250
+epoch: 26, current_count: 8960 current_correct: 8862 acc_batch: 0.991406250
+current_label_count:16 != batch_size:128
+val_loss:0.034916382 val_acc:0.989500000
+epoch=27
+epoch: 27, current_count: 128 labels_count:2560 loss: 0.000281600 acc: 1.000000000 
+epoch: 27, current_count: 128 labels_count:5120 loss: 0.000476561 acc: 1.000000000 
+epoch: 27, current_count: 128 labels_count:7680 loss: 0.002936886 acc: 0.999609375 
+epoch: 27, current_count: 128 labels_count:10240 loss: 0.000495149 acc: 1.000000000 
+epoch: 27, current_count: 128 labels_count:12800 loss: 0.000769944 acc: 1.000000000 
+epoch: 27, current_count: 128 labels_count:15360 loss: 0.000520422 acc: 1.000000000 
+epoch: 27, current_count: 128 labels_count:17920 loss: 0.000742659 acc: 1.000000000 
+epoch: 27, current_count: 128 labels_count:20480 loss: 0.000400876 acc: 1.000000000 
+epoch: 27, current_count: 128 labels_count:23040 loss: 0.000325902 acc: 1.000000000 
+epoch: 27, current_count: 128 labels_count:25600 loss: 0.000563606 acc: 1.000000000 
+epoch: 27, current_count: 128 labels_count:28160 loss: 0.000547691 acc: 1.000000000 
+epoch: 27, current_count: 128 labels_count:30720 loss: 0.001049547 acc: 1.000000000 
+epoch: 27, current_count: 128 labels_count:33280 loss: 0.000459031 acc: 1.000000000 
+epoch: 27, current_count: 128 labels_count:35840 loss: 0.001009766 acc: 0.999609375 
+epoch: 27, current_count: 128 labels_count:38400 loss: 0.000378291 acc: 1.000000000 
+epoch: 27, current_count: 128 labels_count:40960 loss: 0.000461339 acc: 1.000000000 
+epoch: 27, current_count: 128 labels_count:43520 loss: 0.000477009 acc: 1.000000000 
+epoch: 27, current_count: 128 labels_count:46080 loss: 0.000501799 acc: 1.000000000 
+epoch: 27, current_count: 128 labels_count:48640 loss: 0.000456565 acc: 1.000000000 
+epoch: 27, current_count: 128 labels_count:51200 loss: 0.000230377 acc: 1.000000000 
+epoch: 27, current_count: 128 labels_count:53760 loss: 0.000282622 acc: 1.000000000 
+epoch: 27, current_count: 128 labels_count:56320 loss: 0.000395497 acc: 1.000000000 
+epoch: 27, current_count: 128 labels_count:58880 loss: 0.000447926 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59998 total_acc:0.999966667
+Module Saved
+validating
+epoch: 27, current_count: 1280 current_correct: 1265 acc_batch: 0.988281250
+epoch: 27, current_count: 2560 current_correct: 2537 acc_batch: 0.993750000
+epoch: 27, current_count: 3840 current_correct: 3802 acc_batch: 0.988281250
+epoch: 27, current_count: 5120 current_correct: 5067 acc_batch: 0.988281250
+epoch: 27, current_count: 6400 current_correct: 6339 acc_batch: 0.993750000
+epoch: 27, current_count: 7680 current_correct: 7605 acc_batch: 0.989062500
+epoch: 27, current_count: 8960 current_correct: 8870 acc_batch: 0.988281250
+current_label_count:16 != batch_size:128
+val_loss:0.034028951 val_acc:0.989600000
+epoch=28
+epoch: 28, current_count: 128 labels_count:2560 loss: 0.000466007 acc: 1.000000000 
+epoch: 28, current_count: 128 labels_count:5120 loss: 0.000443213 acc: 1.000000000 
+epoch: 28, current_count: 128 labels_count:7680 loss: 0.000502909 acc: 1.000000000 
+epoch: 28, current_count: 128 labels_count:10240 loss: 0.000217014 acc: 1.000000000 
+epoch: 28, current_count: 128 labels_count:12800 loss: 0.000279629 acc: 1.000000000 
+epoch: 28, current_count: 128 labels_count:15360 loss: 0.000575252 acc: 1.000000000 
+epoch: 28, current_count: 128 labels_count:17920 loss: 0.000273691 acc: 1.000000000 
+epoch: 28, current_count: 128 labels_count:20480 loss: 0.000586995 acc: 1.000000000 
+epoch: 28, current_count: 128 labels_count:23040 loss: 0.000434908 acc: 1.000000000 
+epoch: 28, current_count: 128 labels_count:25600 loss: 0.000355784 acc: 1.000000000 
+epoch: 28, current_count: 128 labels_count:28160 loss: 0.000226472 acc: 1.000000000 
+epoch: 28, current_count: 128 labels_count:30720 loss: 0.000539702 acc: 1.000000000 
+epoch: 28, current_count: 128 labels_count:33280 loss: 0.000559762 acc: 1.000000000 
+epoch: 28, current_count: 128 labels_count:35840 loss: 0.000294546 acc: 1.000000000 
+epoch: 28, current_count: 128 labels_count:38400 loss: 0.000592947 acc: 1.000000000 
+epoch: 28, current_count: 128 labels_count:40960 loss: 0.000286655 acc: 1.000000000 
+epoch: 28, current_count: 128 labels_count:43520 loss: 0.000409760 acc: 1.000000000 
+epoch: 28, current_count: 128 labels_count:46080 loss: 0.000520107 acc: 1.000000000 
+epoch: 28, current_count: 128 labels_count:48640 loss: 0.000291271 acc: 1.000000000 
+epoch: 28, current_count: 128 labels_count:51200 loss: 0.000707063 acc: 0.999609375 
+epoch: 28, current_count: 128 labels_count:53760 loss: 0.000415668 acc: 1.000000000 
+epoch: 28, current_count: 128 labels_count:56320 loss: 0.001824115 acc: 0.999609375 
+epoch: 28, current_count: 128 labels_count:58880 loss: 0.000273983 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59998 total_acc:0.999966667
+Module Saved
+validating
+epoch: 28, current_count: 1280 current_correct: 1269 acc_batch: 0.991406250
+epoch: 28, current_count: 2560 current_correct: 2540 acc_batch: 0.992968750
+epoch: 28, current_count: 3840 current_correct: 3809 acc_batch: 0.991406250
+epoch: 28, current_count: 5120 current_correct: 5078 acc_batch: 0.991406250
+epoch: 28, current_count: 6400 current_correct: 6343 acc_batch: 0.988281250
+epoch: 28, current_count: 7680 current_correct: 7610 acc_batch: 0.989843750
+epoch: 28, current_count: 8960 current_correct: 8879 acc_batch: 0.991406250
+current_label_count:16 != batch_size:128
+val_loss:0.033216566 val_acc:0.990500000
+epoch=29
+epoch: 29, current_count: 128 labels_count:2560 loss: 0.000313655 acc: 1.000000000 
+epoch: 29, current_count: 128 labels_count:5120 loss: 0.000565690 acc: 1.000000000 
+epoch: 29, current_count: 128 labels_count:7680 loss: 0.000317508 acc: 1.000000000 
+epoch: 29, current_count: 128 labels_count:10240 loss: 0.000411567 acc: 1.000000000 
+epoch: 29, current_count: 128 labels_count:12800 loss: 0.000487766 acc: 1.000000000 
+epoch: 29, current_count: 128 labels_count:15360 loss: 0.000245805 acc: 1.000000000 
+epoch: 29, current_count: 128 labels_count:17920 loss: 0.000473054 acc: 1.000000000 
+epoch: 29, current_count: 128 labels_count:20480 loss: 0.000545690 acc: 1.000000000 
+epoch: 29, current_count: 128 labels_count:23040 loss: 0.000292322 acc: 1.000000000 
+epoch: 29, current_count: 128 labels_count:25600 loss: 0.000327932 acc: 1.000000000 
+epoch: 29, current_count: 128 labels_count:28160 loss: 0.000303858 acc: 1.000000000 
+epoch: 29, current_count: 128 labels_count:30720 loss: 0.000241819 acc: 1.000000000 
+epoch: 29, current_count: 128 labels_count:33280 loss: 0.000417401 acc: 1.000000000 
+epoch: 29, current_count: 128 labels_count:35840 loss: 0.000458909 acc: 1.000000000 
+epoch: 29, current_count: 128 labels_count:38400 loss: 0.000540110 acc: 1.000000000 
+epoch: 29, current_count: 128 labels_count:40960 loss: 0.000580459 acc: 1.000000000 
+epoch: 29, current_count: 128 labels_count:43520 loss: 0.000476067 acc: 1.000000000 
+epoch: 29, current_count: 128 labels_count:46080 loss: 0.002063132 acc: 0.999609375 
+epoch: 29, current_count: 128 labels_count:48640 loss: 0.000472417 acc: 1.000000000 
+epoch: 29, current_count: 128 labels_count:51200 loss: 0.000522032 acc: 1.000000000 
+epoch: 29, current_count: 128 labels_count:53760 loss: 0.000430308 acc: 1.000000000 
+epoch: 29, current_count: 128 labels_count:56320 loss: 0.000684644 acc: 0.999609375 
+epoch: 29, current_count: 128 labels_count:58880 loss: 0.000374938 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59998 total_acc:0.999966667
+Module Saved
+validating
+epoch: 29, current_count: 1280 current_correct: 1269 acc_batch: 0.991406250
+epoch: 29, current_count: 2560 current_correct: 2534 acc_batch: 0.988281250
+epoch: 29, current_count: 3840 current_correct: 3799 acc_batch: 0.988281250
+epoch: 29, current_count: 5120 current_correct: 5061 acc_batch: 0.985937500
+epoch: 29, current_count: 6400 current_correct: 6327 acc_batch: 0.989062500
+epoch: 29, current_count: 7680 current_correct: 7592 acc_batch: 0.988281250
+epoch: 29, current_count: 8960 current_correct: 8861 acc_batch: 0.991406250
+current_label_count:16 != batch_size:128
+val_loss:0.037590247 val_acc:0.988900000
+epoch=30
+epoch: 30, current_count: 128 labels_count:6400 loss: 0.000424498 acc: 1.000000000 
+epoch: 30, current_count: 128 labels_count:12800 loss: 0.000333089 acc: 1.000000000 
+epoch: 30, current_count: 128 labels_count:19200 loss: 0.000386216 acc: 1.000000000 
+epoch: 30, current_count: 128 labels_count:25600 loss: 0.000366097 acc: 1.000000000 
+epoch: 30, current_count: 128 labels_count:32000 loss: 0.000433738 acc: 1.000000000 
+epoch: 30, current_count: 128 labels_count:38400 loss: 0.000284618 acc: 1.000000000 
+epoch: 30, current_count: 128 labels_count:44800 loss: 0.000360614 acc: 1.000000000 
+epoch: 30, current_count: 128 labels_count:51200 loss: 0.000398497 acc: 1.000000000 
+epoch: 30, current_count: 128 labels_count:57600 loss: 0.000682033 acc: 0.999843750 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 30, current_count: 1280 current_correct: 1264 acc_batch: 0.987500000
+epoch: 30, current_count: 2560 current_correct: 2527 acc_batch: 0.986718750
+epoch: 30, current_count: 3840 current_correct: 3799 acc_batch: 0.993750000
+epoch: 30, current_count: 5120 current_correct: 5062 acc_batch: 0.986718750
+epoch: 30, current_count: 6400 current_correct: 6334 acc_batch: 0.993750000
+epoch: 30, current_count: 7680 current_correct: 7599 acc_batch: 0.988281250
+epoch: 30, current_count: 8960 current_correct: 8870 acc_batch: 0.992968750
+current_label_count:16 != batch_size:128
+val_loss:0.032711562 val_acc:0.990000000
+epoch=31
+epoch: 31, current_count: 128 labels_count:6400 loss: 0.000333173 acc: 1.000000000 
+epoch: 31, current_count: 128 labels_count:12800 loss: 0.000354681 acc: 1.000000000 
+epoch: 31, current_count: 128 labels_count:19200 loss: 0.000740740 acc: 0.999843750 
+epoch: 31, current_count: 128 labels_count:25600 loss: 0.000348140 acc: 1.000000000 
+epoch: 31, current_count: 128 labels_count:32000 loss: 0.000398143 acc: 1.000000000 
+epoch: 31, current_count: 128 labels_count:38400 loss: 0.000327925 acc: 1.000000000 
+epoch: 31, current_count: 128 labels_count:44800 loss: 0.000267874 acc: 1.000000000 
+epoch: 31, current_count: 128 labels_count:51200 loss: 0.000385106 acc: 1.000000000 
+epoch: 31, current_count: 128 labels_count:57600 loss: 0.000356500 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 31, current_count: 1280 current_correct: 1269 acc_batch: 0.991406250
+epoch: 31, current_count: 2560 current_correct: 2532 acc_batch: 0.986718750
+epoch: 31, current_count: 3840 current_correct: 3800 acc_batch: 0.990625000
+epoch: 31, current_count: 5120 current_correct: 5062 acc_batch: 0.985937500
+epoch: 31, current_count: 6400 current_correct: 6327 acc_batch: 0.988281250
+epoch: 31, current_count: 7680 current_correct: 7591 acc_batch: 0.987500000
+epoch: 31, current_count: 8960 current_correct: 8862 acc_batch: 0.992968750
+current_label_count:16 != batch_size:128
+val_loss:0.039339188 val_acc:0.989100000
+epoch=32
+epoch: 32, current_count: 128 labels_count:6400 loss: 0.000342071 acc: 1.000000000 
+epoch: 32, current_count: 128 labels_count:12800 loss: 0.000291706 acc: 1.000000000 
+epoch: 32, current_count: 128 labels_count:19200 loss: 0.000803177 acc: 0.999843750 
+epoch: 32, current_count: 128 labels_count:25600 loss: 0.000247282 acc: 1.000000000 
+epoch: 32, current_count: 128 labels_count:32000 loss: 0.000335637 acc: 1.000000000 
+epoch: 32, current_count: 128 labels_count:38400 loss: 0.000252141 acc: 1.000000000 
+epoch: 32, current_count: 128 labels_count:44800 loss: 0.000322805 acc: 1.000000000 
+epoch: 32, current_count: 128 labels_count:51200 loss: 0.000419845 acc: 1.000000000 
+epoch: 32, current_count: 128 labels_count:57600 loss: 0.000370198 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 32, current_count: 1280 current_correct: 1267 acc_batch: 0.989843750
+epoch: 32, current_count: 2560 current_correct: 2531 acc_batch: 0.987500000
+epoch: 32, current_count: 3840 current_correct: 3802 acc_batch: 0.992968750
+epoch: 32, current_count: 5120 current_correct: 5066 acc_batch: 0.987500000
+epoch: 32, current_count: 6400 current_correct: 6334 acc_batch: 0.990625000
+epoch: 32, current_count: 7680 current_correct: 7600 acc_batch: 0.989062500
+epoch: 32, current_count: 8960 current_correct: 8865 acc_batch: 0.988281250
+current_label_count:16 != batch_size:128
+val_loss:0.033580717 val_acc:0.989900000
+epoch=33
+epoch: 33, current_count: 128 labels_count:6400 loss: 0.000296804 acc: 1.000000000 
+epoch: 33, current_count: 128 labels_count:12800 loss: 0.000324485 acc: 1.000000000 
+epoch: 33, current_count: 128 labels_count:19200 loss: 0.000268392 acc: 1.000000000 
+epoch: 33, current_count: 128 labels_count:25600 loss: 0.000284288 acc: 1.000000000 
+epoch: 33, current_count: 128 labels_count:32000 loss: 0.000348843 acc: 1.000000000 
+epoch: 33, current_count: 128 labels_count:38400 loss: 0.000701596 acc: 0.999843750 
+epoch: 33, current_count: 128 labels_count:44800 loss: 0.000316371 acc: 1.000000000 
+epoch: 33, current_count: 128 labels_count:51200 loss: 0.000376490 acc: 1.000000000 
+epoch: 33, current_count: 128 labels_count:57600 loss: 0.000293887 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 33, current_count: 1280 current_correct: 1275 acc_batch: 0.996093750
+epoch: 33, current_count: 2560 current_correct: 2545 acc_batch: 0.992187500
+epoch: 33, current_count: 3840 current_correct: 3808 acc_batch: 0.986718750
+epoch: 33, current_count: 5120 current_correct: 5080 acc_batch: 0.993750000
+epoch: 33, current_count: 6400 current_correct: 6344 acc_batch: 0.987500000
+epoch: 33, current_count: 7680 current_correct: 7609 acc_batch: 0.988281250
+epoch: 33, current_count: 8960 current_correct: 8876 acc_batch: 0.989843750
+current_label_count:16 != batch_size:128
+val_loss:0.034289945 val_acc:0.990300000
+epoch=34
+epoch: 34, current_count: 128 labels_count:6400 loss: 0.000288061 acc: 1.000000000 
+epoch: 34, current_count: 128 labels_count:12800 loss: 0.000304460 acc: 1.000000000 
+epoch: 34, current_count: 128 labels_count:19200 loss: 0.000356186 acc: 1.000000000 
+epoch: 34, current_count: 128 labels_count:25600 loss: 0.000251382 acc: 1.000000000 
+epoch: 34, current_count: 128 labels_count:32000 loss: 0.000609611 acc: 0.999843750 
+epoch: 34, current_count: 128 labels_count:38400 loss: 0.000310377 acc: 1.000000000 
+epoch: 34, current_count: 128 labels_count:44800 loss: 0.000326553 acc: 1.000000000 
+epoch: 34, current_count: 128 labels_count:51200 loss: 0.000247381 acc: 1.000000000 
+epoch: 34, current_count: 128 labels_count:57600 loss: 0.000352300 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 34, current_count: 1280 current_correct: 1272 acc_batch: 0.993750000
+epoch: 34, current_count: 2560 current_correct: 2536 acc_batch: 0.987500000
+epoch: 34, current_count: 3840 current_correct: 3809 acc_batch: 0.994531250
+epoch: 34, current_count: 5120 current_correct: 5074 acc_batch: 0.988281250
+epoch: 34, current_count: 6400 current_correct: 6337 acc_batch: 0.986718750
+epoch: 34, current_count: 7680 current_correct: 7603 acc_batch: 0.989062500
+epoch: 34, current_count: 8960 current_correct: 8869 acc_batch: 0.989062500
+current_label_count:16 != batch_size:128
+val_loss:0.036792051 val_acc:0.989200000
+epoch=35
+epoch: 35, current_count: 128 labels_count:6400 loss: 0.000206164 acc: 1.000000000 
+epoch: 35, current_count: 128 labels_count:12800 loss: 0.000534984 acc: 0.999843750 
+epoch: 35, current_count: 128 labels_count:19200 loss: 0.000309411 acc: 1.000000000 
+epoch: 35, current_count: 128 labels_count:25600 loss: 0.000295406 acc: 1.000000000 
+epoch: 35, current_count: 128 labels_count:32000 loss: 0.000241352 acc: 1.000000000 
+epoch: 35, current_count: 128 labels_count:38400 loss: 0.000286759 acc: 1.000000000 
+epoch: 35, current_count: 128 labels_count:44800 loss: 0.000393033 acc: 1.000000000 
+epoch: 35, current_count: 128 labels_count:51200 loss: 0.000356318 acc: 1.000000000 
+epoch: 35, current_count: 128 labels_count:57600 loss: 0.000284341 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 35, current_count: 1280 current_correct: 1268 acc_batch: 0.990625000
+epoch: 35, current_count: 2560 current_correct: 2532 acc_batch: 0.987500000
+epoch: 35, current_count: 3840 current_correct: 3793 acc_batch: 0.985156250
+epoch: 35, current_count: 5120 current_correct: 5058 acc_batch: 0.988281250
+epoch: 35, current_count: 6400 current_correct: 6327 acc_batch: 0.991406250
+epoch: 35, current_count: 7680 current_correct: 7595 acc_batch: 0.990625000
+epoch: 35, current_count: 8960 current_correct: 8862 acc_batch: 0.989843750
+current_label_count:16 != batch_size:128
+val_loss:0.038603354 val_acc:0.989100000
+Epoch    13: reducing learning rate of group 0 to 2.0000e-03.
+epoch=36
+epoch: 36, current_count: 128 labels_count:6400 loss: 0.000260552 acc: 1.000000000 
+epoch: 36, current_count: 128 labels_count:12800 loss: 0.000275725 acc: 1.000000000 
+epoch: 36, current_count: 128 labels_count:19200 loss: 0.000232011 acc: 1.000000000 
+epoch: 36, current_count: 128 labels_count:25600 loss: 0.000254308 acc: 1.000000000 
+epoch: 36, current_count: 128 labels_count:32000 loss: 0.000255995 acc: 1.000000000 
+epoch: 36, current_count: 128 labels_count:38400 loss: 0.000489744 acc: 0.999843750 
+epoch: 36, current_count: 128 labels_count:44800 loss: 0.000333729 acc: 1.000000000 
+epoch: 36, current_count: 128 labels_count:51200 loss: 0.000278829 acc: 1.000000000 
+epoch: 36, current_count: 128 labels_count:57600 loss: 0.000369135 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 36, current_count: 1280 current_correct: 1266 acc_batch: 0.989062500
+epoch: 36, current_count: 2560 current_correct: 2528 acc_batch: 0.985937500
+epoch: 36, current_count: 3840 current_correct: 3792 acc_batch: 0.987500000
+epoch: 36, current_count: 5120 current_correct: 5060 acc_batch: 0.990625000
+epoch: 36, current_count: 6400 current_correct: 6329 acc_batch: 0.991406250
+epoch: 36, current_count: 7680 current_correct: 7598 acc_batch: 0.991406250
+epoch: 36, current_count: 8960 current_correct: 8872 acc_batch: 0.995312500
+current_label_count:16 != batch_size:128
+val_loss:0.033570256 val_acc:0.990100000
+epoch=37
+epoch: 37, current_count: 128 labels_count:6400 loss: 0.000267146 acc: 1.000000000 
+epoch: 37, current_count: 128 labels_count:12800 loss: 0.000266912 acc: 1.000000000 
+epoch: 37, current_count: 128 labels_count:19200 loss: 0.000238914 acc: 1.000000000 
+epoch: 37, current_count: 128 labels_count:25600 loss: 0.000275768 acc: 1.000000000 
+epoch: 37, current_count: 128 labels_count:32000 loss: 0.000253466 acc: 1.000000000 
+epoch: 37, current_count: 128 labels_count:38400 loss: 0.000505869 acc: 0.999843750 
+epoch: 37, current_count: 128 labels_count:44800 loss: 0.000310972 acc: 1.000000000 
+epoch: 37, current_count: 128 labels_count:51200 loss: 0.000267530 acc: 1.000000000 
+epoch: 37, current_count: 128 labels_count:57600 loss: 0.000270771 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 37, current_count: 1280 current_correct: 1269 acc_batch: 0.991406250
+epoch: 37, current_count: 2560 current_correct: 2537 acc_batch: 0.990625000
+epoch: 37, current_count: 3840 current_correct: 3802 acc_batch: 0.988281250
+epoch: 37, current_count: 5120 current_correct: 5062 acc_batch: 0.984375000
+epoch: 37, current_count: 6400 current_correct: 6334 acc_batch: 0.993750000
+epoch: 37, current_count: 7680 current_correct: 7600 acc_batch: 0.989062500
+epoch: 37, current_count: 8960 current_correct: 8868 acc_batch: 0.990625000
+current_label_count:16 != batch_size:128
+val_loss:0.034494117 val_acc:0.989900000
+epoch=38
+epoch: 38, current_count: 128 labels_count:6400 loss: 0.000182123 acc: 1.000000000 
+epoch: 38, current_count: 128 labels_count:12800 loss: 0.000261541 acc: 1.000000000 
+epoch: 38, current_count: 128 labels_count:19200 loss: 0.000249676 acc: 1.000000000 
+epoch: 38, current_count: 128 labels_count:25600 loss: 0.000216911 acc: 1.000000000 
+epoch: 38, current_count: 128 labels_count:32000 loss: 0.000266895 acc: 1.000000000 
+epoch: 38, current_count: 128 labels_count:38400 loss: 0.000306408 acc: 1.000000000 
+epoch: 38, current_count: 128 labels_count:44800 loss: 0.000272376 acc: 1.000000000 
+epoch: 38, current_count: 128 labels_count:51200 loss: 0.000197520 acc: 1.000000000 
+epoch: 38, current_count: 128 labels_count:57600 loss: 0.000228343 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 38, current_count: 1280 current_correct: 1268 acc_batch: 0.990625000
+epoch: 38, current_count: 2560 current_correct: 2535 acc_batch: 0.989843750
+epoch: 38, current_count: 3840 current_correct: 3800 acc_batch: 0.988281250
+epoch: 38, current_count: 5120 current_correct: 5068 acc_batch: 0.990625000
+epoch: 38, current_count: 6400 current_correct: 6331 acc_batch: 0.986718750
+epoch: 38, current_count: 7680 current_correct: 7590 acc_batch: 0.983593750
+epoch: 38, current_count: 8960 current_correct: 8862 acc_batch: 0.993750000
+current_label_count:16 != batch_size:128
+val_loss:0.037749894 val_acc:0.989000000
+epoch=39
+epoch: 39, current_count: 128 labels_count:6400 loss: 0.000224245 acc: 1.000000000 
+epoch: 39, current_count: 128 labels_count:12800 loss: 0.000247600 acc: 1.000000000 
+epoch: 39, current_count: 128 labels_count:19200 loss: 0.000175113 acc: 1.000000000 
+epoch: 39, current_count: 128 labels_count:25600 loss: 0.000303974 acc: 1.000000000 
+epoch: 39, current_count: 128 labels_count:32000 loss: 0.000462586 acc: 0.999843750 
+epoch: 39, current_count: 128 labels_count:38400 loss: 0.000247113 acc: 1.000000000 
+epoch: 39, current_count: 128 labels_count:44800 loss: 0.000247504 acc: 1.000000000 
+epoch: 39, current_count: 128 labels_count:51200 loss: 0.000235363 acc: 1.000000000 
+epoch: 39, current_count: 128 labels_count:57600 loss: 0.000270334 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 39, current_count: 1280 current_correct: 1267 acc_batch: 0.989843750
+epoch: 39, current_count: 2560 current_correct: 2534 acc_batch: 0.989843750
+epoch: 39, current_count: 3840 current_correct: 3804 acc_batch: 0.992187500
+epoch: 39, current_count: 5120 current_correct: 5071 acc_batch: 0.989843750
+epoch: 39, current_count: 6400 current_correct: 6334 acc_batch: 0.986718750
+epoch: 39, current_count: 7680 current_correct: 7597 acc_batch: 0.986718750
+epoch: 39, current_count: 8960 current_correct: 8863 acc_batch: 0.989062500
+current_label_count:16 != batch_size:128
+val_loss:0.036112063 val_acc:0.989500000
+epoch=40
+epoch: 40, current_count: 128 labels_count:6400 loss: 0.000180022 acc: 1.000000000 
+epoch: 40, current_count: 128 labels_count:12800 loss: 0.000255107 acc: 1.000000000 
+epoch: 40, current_count: 128 labels_count:19200 loss: 0.000268971 acc: 1.000000000 
+epoch: 40, current_count: 128 labels_count:25600 loss: 0.000444361 acc: 0.999843750 
+epoch: 40, current_count: 128 labels_count:32000 loss: 0.000244399 acc: 1.000000000 
+epoch: 40, current_count: 128 labels_count:38400 loss: 0.000199103 acc: 1.000000000 
+epoch: 40, current_count: 128 labels_count:44800 loss: 0.000235721 acc: 1.000000000 
+epoch: 40, current_count: 128 labels_count:51200 loss: 0.000292006 acc: 1.000000000 
+epoch: 40, current_count: 128 labels_count:57600 loss: 0.000262116 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 40, current_count: 1280 current_correct: 1262 acc_batch: 0.985937500
+epoch: 40, current_count: 2560 current_correct: 2527 acc_batch: 0.988281250
+epoch: 40, current_count: 3840 current_correct: 3796 acc_batch: 0.991406250
+epoch: 40, current_count: 5120 current_correct: 5067 acc_batch: 0.992968750
+epoch: 40, current_count: 6400 current_correct: 6336 acc_batch: 0.991406250
+epoch: 40, current_count: 7680 current_correct: 7605 acc_batch: 0.991406250
+epoch: 40, current_count: 8960 current_correct: 8868 acc_batch: 0.986718750
+current_label_count:16 != batch_size:128
+val_loss:0.034866694 val_acc:0.990200000
+Epoch    18: reducing learning rate of group 0 to 8.0000e-04.
+epoch=41
+epoch: 41, current_count: 128 labels_count:6400 loss: 0.000227617 acc: 1.000000000 
+epoch: 41, current_count: 128 labels_count:12800 loss: 0.000254231 acc: 1.000000000 
+epoch: 41, current_count: 128 labels_count:19200 loss: 0.000205696 acc: 1.000000000 
+epoch: 41, current_count: 128 labels_count:25600 loss: 0.000295593 acc: 1.000000000 
+epoch: 41, current_count: 128 labels_count:32000 loss: 0.000308122 acc: 1.000000000 
+epoch: 41, current_count: 128 labels_count:38400 loss: 0.000258117 acc: 1.000000000 
+epoch: 41, current_count: 128 labels_count:44800 loss: 0.000260523 acc: 1.000000000 
+epoch: 41, current_count: 128 labels_count:51200 loss: 0.000232835 acc: 1.000000000 
+epoch: 41, current_count: 128 labels_count:57600 loss: 0.000226564 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 41, current_count: 1280 current_correct: 1271 acc_batch: 0.992968750
+epoch: 41, current_count: 2560 current_correct: 2536 acc_batch: 0.988281250
+epoch: 41, current_count: 3840 current_correct: 3797 acc_batch: 0.985156250
+epoch: 41, current_count: 5120 current_correct: 5065 acc_batch: 0.990625000
+epoch: 41, current_count: 6400 current_correct: 6330 acc_batch: 0.988281250
+epoch: 41, current_count: 7680 current_correct: 7597 acc_batch: 0.989843750
+epoch: 41, current_count: 8960 current_correct: 8867 acc_batch: 0.992187500
+current_label_count:16 != batch_size:128
+val_loss:0.034486614 val_acc:0.990100000
+epoch=42
+epoch: 42, current_count: 128 labels_count:6400 loss: 0.000195004 acc: 1.000000000 
+epoch: 42, current_count: 128 labels_count:12800 loss: 0.000254111 acc: 1.000000000 
+epoch: 42, current_count: 128 labels_count:19200 loss: 0.000451535 acc: 0.999843750 
+epoch: 42, current_count: 128 labels_count:25600 loss: 0.000278956 acc: 1.000000000 
+epoch: 42, current_count: 128 labels_count:32000 loss: 0.000283752 acc: 1.000000000 
+epoch: 42, current_count: 128 labels_count:38400 loss: 0.000211310 acc: 1.000000000 
+epoch: 42, current_count: 128 labels_count:44800 loss: 0.000269301 acc: 1.000000000 
+epoch: 42, current_count: 128 labels_count:51200 loss: 0.000341647 acc: 0.999843750 
+epoch: 42, current_count: 128 labels_count:57600 loss: 0.000178699 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59998 total_acc:0.999966667
+Module Saved
+validating
+epoch: 42, current_count: 1280 current_correct: 1271 acc_batch: 0.992968750
+epoch: 42, current_count: 2560 current_correct: 2540 acc_batch: 0.991406250
+epoch: 42, current_count: 3840 current_correct: 3810 acc_batch: 0.992187500
+epoch: 42, current_count: 5120 current_correct: 5070 acc_batch: 0.984375000
+epoch: 42, current_count: 6400 current_correct: 6342 acc_batch: 0.993750000
+epoch: 42, current_count: 7680 current_correct: 7613 acc_batch: 0.992968750
+epoch: 42, current_count: 8960 current_correct: 8879 acc_batch: 0.989062500
+current_label_count:16 != batch_size:128
+val_loss:0.032225318 val_acc:0.990700000
+epoch=43
+epoch: 43, current_count: 128 labels_count:6400 loss: 0.000259864 acc: 1.000000000 
+epoch: 43, current_count: 128 labels_count:12800 loss: 0.000261478 acc: 1.000000000 
+epoch: 43, current_count: 128 labels_count:19200 loss: 0.000239997 acc: 1.000000000 
+epoch: 43, current_count: 128 labels_count:25600 loss: 0.000251742 acc: 1.000000000 
+epoch: 43, current_count: 128 labels_count:32000 loss: 0.000310961 acc: 1.000000000 
+epoch: 43, current_count: 128 labels_count:38400 loss: 0.000213746 acc: 1.000000000 
+epoch: 43, current_count: 128 labels_count:44800 loss: 0.000217097 acc: 1.000000000 
+epoch: 43, current_count: 128 labels_count:51200 loss: 0.000218103 acc: 1.000000000 
+epoch: 43, current_count: 128 labels_count:57600 loss: 0.000385881 acc: 0.999843750 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 43, current_count: 1280 current_correct: 1264 acc_batch: 0.987500000
+epoch: 43, current_count: 2560 current_correct: 2534 acc_batch: 0.992187500
+epoch: 43, current_count: 3840 current_correct: 3792 acc_batch: 0.982812500
+epoch: 43, current_count: 5120 current_correct: 5063 acc_batch: 0.992968750
+epoch: 43, current_count: 6400 current_correct: 6328 acc_batch: 0.988281250
+epoch: 43, current_count: 7680 current_correct: 7596 acc_batch: 0.990625000
+epoch: 43, current_count: 8960 current_correct: 8861 acc_batch: 0.988281250
+current_label_count:16 != batch_size:128
+val_loss:0.036449194 val_acc:0.989400000
+epoch=44
+epoch: 44, current_count: 128 labels_count:6400 loss: 0.000223604 acc: 1.000000000 
+epoch: 44, current_count: 128 labels_count:12800 loss: 0.000208558 acc: 1.000000000 
+epoch: 44, current_count: 128 labels_count:19200 loss: 0.000330655 acc: 1.000000000 
+epoch: 44, current_count: 128 labels_count:25600 loss: 0.000217453 acc: 1.000000000 
+epoch: 44, current_count: 128 labels_count:32000 loss: 0.000358520 acc: 1.000000000 
+epoch: 44, current_count: 128 labels_count:38400 loss: 0.000217976 acc: 1.000000000 
+epoch: 44, current_count: 128 labels_count:44800 loss: 0.000247694 acc: 1.000000000 
+epoch: 44, current_count: 128 labels_count:51200 loss: 0.000272691 acc: 1.000000000 
+epoch: 44, current_count: 128 labels_count:57600 loss: 0.000224300 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 44, current_count: 1280 current_correct: 1263 acc_batch: 0.986718750
+epoch: 44, current_count: 2560 current_correct: 2528 acc_batch: 0.988281250
+epoch: 44, current_count: 3840 current_correct: 3792 acc_batch: 0.987500000
+epoch: 44, current_count: 5120 current_correct: 5068 acc_batch: 0.996875000
+epoch: 44, current_count: 6400 current_correct: 6338 acc_batch: 0.992187500
+epoch: 44, current_count: 7680 current_correct: 7605 acc_batch: 0.989843750
+epoch: 44, current_count: 8960 current_correct: 8866 acc_batch: 0.985156250
+current_label_count:16 != batch_size:128
+val_loss:0.035150468 val_acc:0.989700000
+epoch=45
+epoch: 45, current_count: 128 labels_count:6400 loss: 0.000201134 acc: 1.000000000 
+epoch: 45, current_count: 128 labels_count:12800 loss: 0.000373697 acc: 0.999843750 
+epoch: 45, current_count: 128 labels_count:19200 loss: 0.000257730 acc: 1.000000000 
+epoch: 45, current_count: 128 labels_count:25600 loss: 0.000207503 acc: 1.000000000 
+epoch: 45, current_count: 128 labels_count:32000 loss: 0.000273947 acc: 1.000000000 
+epoch: 45, current_count: 128 labels_count:38400 loss: 0.000235175 acc: 1.000000000 
+epoch: 45, current_count: 128 labels_count:44800 loss: 0.000260882 acc: 1.000000000 
+epoch: 45, current_count: 128 labels_count:51200 loss: 0.000222720 acc: 1.000000000 
+epoch: 45, current_count: 128 labels_count:57600 loss: 0.000194525 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 45, current_count: 1280 current_correct: 1263 acc_batch: 0.986718750
+epoch: 45, current_count: 2560 current_correct: 2526 acc_batch: 0.986718750
+epoch: 45, current_count: 3840 current_correct: 3802 acc_batch: 0.996875000
+epoch: 45, current_count: 5120 current_correct: 5068 acc_batch: 0.989062500
+epoch: 45, current_count: 6400 current_correct: 6337 acc_batch: 0.991406250
+epoch: 45, current_count: 7680 current_correct: 7599 acc_batch: 0.985937500
+epoch: 45, current_count: 8960 current_correct: 8867 acc_batch: 0.990625000
+current_label_count:16 != batch_size:128
+val_loss:0.038745325 val_acc:0.990000000
+epoch=46
+epoch: 46, current_count: 128 labels_count:6400 loss: 0.000402975 acc: 1.000000000 
+epoch: 46, current_count: 128 labels_count:12800 loss: 0.000251693 acc: 1.000000000 
+epoch: 46, current_count: 128 labels_count:19200 loss: 0.000227705 acc: 1.000000000 
+epoch: 46, current_count: 128 labels_count:25600 loss: 0.000223188 acc: 1.000000000 
+epoch: 46, current_count: 128 labels_count:32000 loss: 0.000215733 acc: 1.000000000 
+epoch: 46, current_count: 128 labels_count:38400 loss: 0.000283517 acc: 1.000000000 
+epoch: 46, current_count: 128 labels_count:44800 loss: 0.000196944 acc: 1.000000000 
+epoch: 46, current_count: 128 labels_count:51200 loss: 0.000210139 acc: 1.000000000 
+epoch: 46, current_count: 128 labels_count:57600 loss: 0.000266572 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 46, current_count: 1280 current_correct: 1263 acc_batch: 0.986718750
+epoch: 46, current_count: 2560 current_correct: 2535 acc_batch: 0.993750000
+epoch: 46, current_count: 3840 current_correct: 3799 acc_batch: 0.987500000
+epoch: 46, current_count: 5120 current_correct: 5067 acc_batch: 0.990625000
+epoch: 46, current_count: 6400 current_correct: 6333 acc_batch: 0.989062500
+epoch: 46, current_count: 7680 current_correct: 7599 acc_batch: 0.989062500
+epoch: 46, current_count: 8960 current_correct: 8868 acc_batch: 0.991406250
+current_label_count:16 != batch_size:128
+val_loss:0.037864551 val_acc:0.989700000
+epoch=47
+epoch: 47, current_count: 128 labels_count:6400 loss: 0.000195499 acc: 1.000000000 
+epoch: 47, current_count: 128 labels_count:12800 loss: 0.000190584 acc: 1.000000000 
+epoch: 47, current_count: 128 labels_count:19200 loss: 0.000198908 acc: 1.000000000 
+epoch: 47, current_count: 128 labels_count:25600 loss: 0.000271146 acc: 1.000000000 
+epoch: 47, current_count: 128 labels_count:32000 loss: 0.000386118 acc: 0.999843750 
+epoch: 47, current_count: 128 labels_count:38400 loss: 0.000218385 acc: 1.000000000 
+epoch: 47, current_count: 128 labels_count:44800 loss: 0.000246153 acc: 1.000000000 
+epoch: 47, current_count: 128 labels_count:51200 loss: 0.000248328 acc: 1.000000000 
+epoch: 47, current_count: 128 labels_count:57600 loss: 0.000217085 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 47, current_count: 1280 current_correct: 1264 acc_batch: 0.987500000
+epoch: 47, current_count: 2560 current_correct: 2531 acc_batch: 0.989843750
+epoch: 47, current_count: 3840 current_correct: 3795 acc_batch: 0.987500000
+epoch: 47, current_count: 5120 current_correct: 5068 acc_batch: 0.994531250
+epoch: 47, current_count: 6400 current_correct: 6334 acc_batch: 0.989062500
+epoch: 47, current_count: 7680 current_correct: 7599 acc_batch: 0.988281250
+epoch: 47, current_count: 8960 current_correct: 8863 acc_batch: 0.987500000
+current_label_count:16 != batch_size:128
+val_loss:0.036111526 val_acc:0.989500000
+Epoch    25: reducing learning rate of group 0 to 3.2000e-04.
+epoch=48
+epoch: 48, current_count: 128 labels_count:6400 loss: 0.000274484 acc: 1.000000000 
+epoch: 48, current_count: 128 labels_count:12800 loss: 0.000357912 acc: 0.999843750 
+epoch: 48, current_count: 128 labels_count:19200 loss: 0.000209275 acc: 1.000000000 
+epoch: 48, current_count: 128 labels_count:25600 loss: 0.000169044 acc: 1.000000000 
+epoch: 48, current_count: 128 labels_count:32000 loss: 0.000312796 acc: 1.000000000 
+epoch: 48, current_count: 128 labels_count:38400 loss: 0.000205479 acc: 1.000000000 
+epoch: 48, current_count: 128 labels_count:44800 loss: 0.000173640 acc: 1.000000000 
+epoch: 48, current_count: 128 labels_count:51200 loss: 0.000240090 acc: 1.000000000 
+epoch: 48, current_count: 128 labels_count:57600 loss: 0.000265219 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 48, current_count: 1280 current_correct: 1274 acc_batch: 0.995312500
+epoch: 48, current_count: 2560 current_correct: 2536 acc_batch: 0.985937500
+epoch: 48, current_count: 3840 current_correct: 3803 acc_batch: 0.989843750
+epoch: 48, current_count: 5120 current_correct: 5066 acc_batch: 0.986718750
+epoch: 48, current_count: 6400 current_correct: 6333 acc_batch: 0.989843750
+epoch: 48, current_count: 7680 current_correct: 7602 acc_batch: 0.991406250
+epoch: 48, current_count: 8960 current_correct: 8871 acc_batch: 0.991406250
+current_label_count:16 != batch_size:128
+val_loss:0.033364434 val_acc:0.990300000
+epoch=49
+epoch: 49, current_count: 128 labels_count:6400 loss: 0.000233666 acc: 1.000000000 
+epoch: 49, current_count: 128 labels_count:12800 loss: 0.000228270 acc: 1.000000000 
+epoch: 49, current_count: 128 labels_count:19200 loss: 0.000241737 acc: 1.000000000 
+epoch: 49, current_count: 128 labels_count:25600 loss: 0.000233986 acc: 1.000000000 
+epoch: 49, current_count: 128 labels_count:32000 loss: 0.000238499 acc: 1.000000000 
+epoch: 49, current_count: 128 labels_count:38400 loss: 0.000182244 acc: 1.000000000 
+epoch: 49, current_count: 128 labels_count:44800 loss: 0.000282754 acc: 1.000000000 
+epoch: 49, current_count: 128 labels_count:51200 loss: 0.000333943 acc: 1.000000000 
+epoch: 49, current_count: 128 labels_count:57600 loss: 0.000275448 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 49, current_count: 1280 current_correct: 1267 acc_batch: 0.989843750
+epoch: 49, current_count: 2560 current_correct: 2536 acc_batch: 0.991406250
+epoch: 49, current_count: 3840 current_correct: 3794 acc_batch: 0.982812500
+epoch: 49, current_count: 5120 current_correct: 5065 acc_batch: 0.992968750
+epoch: 49, current_count: 6400 current_correct: 6340 acc_batch: 0.996093750
+epoch: 49, current_count: 7680 current_correct: 7608 acc_batch: 0.990625000
+epoch: 49, current_count: 8960 current_correct: 8869 acc_batch: 0.985156250
+current_label_count:16 != batch_size:128
+val_loss:0.033079624 val_acc:0.990400000
+epoch=50
+epoch: 50, current_count: 128 labels_count:6400 loss: 0.000171091 acc: 1.000000000 
+epoch: 50, current_count: 128 labels_count:12800 loss: 0.000162942 acc: 1.000000000 
+epoch: 50, current_count: 128 labels_count:19200 loss: 0.000238320 acc: 1.000000000 
+epoch: 50, current_count: 128 labels_count:25600 loss: 0.000427834 acc: 1.000000000 
+epoch: 50, current_count: 128 labels_count:32000 loss: 0.000233704 acc: 1.000000000 
+epoch: 50, current_count: 128 labels_count:38400 loss: 0.000222007 acc: 1.000000000 
+epoch: 50, current_count: 128 labels_count:44800 loss: 0.000239206 acc: 1.000000000 
+epoch: 50, current_count: 128 labels_count:51200 loss: 0.000219639 acc: 1.000000000 
+epoch: 50, current_count: 128 labels_count:57600 loss: 0.000241773 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 50, current_count: 1280 current_correct: 1270 acc_batch: 0.992187500
+epoch: 50, current_count: 2560 current_correct: 2536 acc_batch: 0.989062500
+epoch: 50, current_count: 3840 current_correct: 3805 acc_batch: 0.991406250
+epoch: 50, current_count: 5120 current_correct: 5072 acc_batch: 0.989843750
+epoch: 50, current_count: 6400 current_correct: 6340 acc_batch: 0.990625000
+epoch: 50, current_count: 7680 current_correct: 7602 acc_batch: 0.985937500
+epoch: 50, current_count: 8960 current_correct: 8865 acc_batch: 0.986718750
+current_label_count:16 != batch_size:128
+val_loss:0.035407513 val_acc:0.989900000
+epoch=51
+epoch: 51, current_count: 128 labels_count:6400 loss: 0.000260106 acc: 1.000000000 
+epoch: 51, current_count: 128 labels_count:12800 loss: 0.000193973 acc: 1.000000000 
+epoch: 51, current_count: 128 labels_count:19200 loss: 0.000182656 acc: 1.000000000 
+epoch: 51, current_count: 128 labels_count:25600 loss: 0.000185488 acc: 1.000000000 
+epoch: 51, current_count: 128 labels_count:32000 loss: 0.000235312 acc: 1.000000000 
+epoch: 51, current_count: 128 labels_count:38400 loss: 0.000218999 acc: 1.000000000 
+epoch: 51, current_count: 128 labels_count:44800 loss: 0.000192715 acc: 1.000000000 
+epoch: 51, current_count: 128 labels_count:51200 loss: 0.000501790 acc: 1.000000000 
+epoch: 51, current_count: 128 labels_count:57600 loss: 0.000245284 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 51, current_count: 1280 current_correct: 1265 acc_batch: 0.988281250
+epoch: 51, current_count: 2560 current_correct: 2530 acc_batch: 0.988281250
+epoch: 51, current_count: 3840 current_correct: 3798 acc_batch: 0.990625000
+epoch: 51, current_count: 5120 current_correct: 5069 acc_batch: 0.992968750
+epoch: 51, current_count: 6400 current_correct: 6334 acc_batch: 0.988281250
+epoch: 51, current_count: 7680 current_correct: 7603 acc_batch: 0.991406250
+epoch: 51, current_count: 8960 current_correct: 8868 acc_batch: 0.988281250
+current_label_count:16 != batch_size:128
+val_loss:0.036167033 val_acc:0.989700000
+epoch=52
+epoch: 52, current_count: 128 labels_count:6400 loss: 0.000155852 acc: 1.000000000 
+epoch: 52, current_count: 128 labels_count:12800 loss: 0.000211891 acc: 1.000000000 
+epoch: 52, current_count: 128 labels_count:19200 loss: 0.000264958 acc: 1.000000000 
+epoch: 52, current_count: 128 labels_count:25600 loss: 0.000346020 acc: 1.000000000 
+epoch: 52, current_count: 128 labels_count:32000 loss: 0.000202003 acc: 1.000000000 
+epoch: 52, current_count: 128 labels_count:38400 loss: 0.000229624 acc: 1.000000000 
+epoch: 52, current_count: 128 labels_count:44800 loss: 0.000208449 acc: 1.000000000 
+epoch: 52, current_count: 128 labels_count:51200 loss: 0.000220561 acc: 1.000000000 
+epoch: 52, current_count: 128 labels_count:57600 loss: 0.000248127 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 52, current_count: 1280 current_correct: 1265 acc_batch: 0.988281250
+epoch: 52, current_count: 2560 current_correct: 2530 acc_batch: 0.988281250
+epoch: 52, current_count: 3840 current_correct: 3795 acc_batch: 0.988281250
+epoch: 52, current_count: 5120 current_correct: 5064 acc_batch: 0.991406250
+epoch: 52, current_count: 6400 current_correct: 6333 acc_batch: 0.991406250
+epoch: 52, current_count: 7680 current_correct: 7601 acc_batch: 0.990625000
+epoch: 52, current_count: 8960 current_correct: 8867 acc_batch: 0.989062500
+current_label_count:16 != batch_size:128
+val_loss:0.035815325 val_acc:0.989700000
+Epoch    30: reducing learning rate of group 0 to 1.2800e-04.
+epoch=53
+epoch: 53, current_count: 128 labels_count:6400 loss: 0.000322919 acc: 1.000000000 
+epoch: 53, current_count: 128 labels_count:12800 loss: 0.000201949 acc: 1.000000000 
+epoch: 53, current_count: 128 labels_count:19200 loss: 0.000189414 acc: 1.000000000 
+epoch: 53, current_count: 128 labels_count:25600 loss: 0.000249127 acc: 1.000000000 
+epoch: 53, current_count: 128 labels_count:32000 loss: 0.000295315 acc: 1.000000000 
+epoch: 53, current_count: 128 labels_count:38400 loss: 0.000177051 acc: 1.000000000 
+epoch: 53, current_count: 128 labels_count:44800 loss: 0.000221385 acc: 1.000000000 
+epoch: 53, current_count: 128 labels_count:51200 loss: 0.000191940 acc: 1.000000000 
+epoch: 53, current_count: 128 labels_count:57600 loss: 0.000187458 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 53, current_count: 1280 current_correct: 1266 acc_batch: 0.989062500
+epoch: 53, current_count: 2560 current_correct: 2528 acc_batch: 0.985937500
+epoch: 53, current_count: 3840 current_correct: 3793 acc_batch: 0.988281250
+epoch: 53, current_count: 5120 current_correct: 5064 acc_batch: 0.992968750
+epoch: 53, current_count: 6400 current_correct: 6325 acc_batch: 0.985156250
+epoch: 53, current_count: 7680 current_correct: 7592 acc_batch: 0.989843750
+epoch: 53, current_count: 8960 current_correct: 8858 acc_batch: 0.989062500
+current_label_count:16 != batch_size:128
+val_loss:0.039033044 val_acc:0.989200000
+epoch=54
+epoch: 54, current_count: 128 labels_count:6400 loss: 0.000186752 acc: 1.000000000 
+epoch: 54, current_count: 128 labels_count:12800 loss: 0.000249735 acc: 1.000000000 
+epoch: 54, current_count: 128 labels_count:19200 loss: 0.000259788 acc: 1.000000000 
+epoch: 54, current_count: 128 labels_count:25600 loss: 0.000164328 acc: 1.000000000 
+epoch: 54, current_count: 128 labels_count:32000 loss: 0.000209674 acc: 1.000000000 
+epoch: 54, current_count: 128 labels_count:38400 loss: 0.000276411 acc: 1.000000000 
+epoch: 54, current_count: 128 labels_count:44800 loss: 0.000340741 acc: 1.000000000 
+epoch: 54, current_count: 128 labels_count:51200 loss: 0.000190081 acc: 1.000000000 
+epoch: 54, current_count: 128 labels_count:57600 loss: 0.000217014 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 54, current_count: 1280 current_correct: 1263 acc_batch: 0.986718750
+epoch: 54, current_count: 2560 current_correct: 2528 acc_batch: 0.988281250
+epoch: 54, current_count: 3840 current_correct: 3797 acc_batch: 0.991406250
+epoch: 54, current_count: 5120 current_correct: 5068 acc_batch: 0.992968750
+epoch: 54, current_count: 6400 current_correct: 6335 acc_batch: 0.989843750
+epoch: 54, current_count: 7680 current_correct: 7605 acc_batch: 0.992187500
+epoch: 54, current_count: 8960 current_correct: 8876 acc_batch: 0.992968750
+current_label_count:16 != batch_size:128
+val_loss:0.033182714 val_acc:0.990500000
+epoch=55
+epoch: 55, current_count: 128 labels_count:6400 loss: 0.000214815 acc: 1.000000000 
+epoch: 55, current_count: 128 labels_count:12800 loss: 0.000344600 acc: 1.000000000 
+epoch: 55, current_count: 128 labels_count:19200 loss: 0.000183066 acc: 1.000000000 
+epoch: 55, current_count: 128 labels_count:25600 loss: 0.000185105 acc: 1.000000000 
+epoch: 55, current_count: 128 labels_count:32000 loss: 0.000239543 acc: 1.000000000 
+epoch: 55, current_count: 128 labels_count:38400 loss: 0.000246780 acc: 1.000000000 
+epoch: 55, current_count: 128 labels_count:44800 loss: 0.000242776 acc: 1.000000000 
+epoch: 55, current_count: 128 labels_count:51200 loss: 0.000362067 acc: 0.999843750 
+epoch: 55, current_count: 128 labels_count:57600 loss: 0.000250305 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 55, current_count: 1280 current_correct: 1264 acc_batch: 0.987500000
+epoch: 55, current_count: 2560 current_correct: 2531 acc_batch: 0.989843750
+epoch: 55, current_count: 3840 current_correct: 3794 acc_batch: 0.986718750
+epoch: 55, current_count: 5120 current_correct: 5058 acc_batch: 0.987500000
+epoch: 55, current_count: 6400 current_correct: 6323 acc_batch: 0.988281250
+epoch: 55, current_count: 7680 current_correct: 7594 acc_batch: 0.992968750
+epoch: 55, current_count: 8960 current_correct: 8861 acc_batch: 0.989843750
+current_label_count:16 != batch_size:128
+val_loss:0.037033010 val_acc:0.989600000
+epoch=56
+epoch: 56, current_count: 128 labels_count:6400 loss: 0.000191143 acc: 1.000000000 
+epoch: 56, current_count: 128 labels_count:12800 loss: 0.000202361 acc: 1.000000000 
+epoch: 56, current_count: 128 labels_count:19200 loss: 0.000240213 acc: 1.000000000 
+epoch: 56, current_count: 128 labels_count:25600 loss: 0.000283075 acc: 1.000000000 
+epoch: 56, current_count: 128 labels_count:32000 loss: 0.000370687 acc: 1.000000000 
+epoch: 56, current_count: 128 labels_count:38400 loss: 0.000178583 acc: 1.000000000 
+epoch: 56, current_count: 128 labels_count:44800 loss: 0.000185562 acc: 1.000000000 
+epoch: 56, current_count: 128 labels_count:51200 loss: 0.000217240 acc: 1.000000000 
+epoch: 56, current_count: 128 labels_count:57600 loss: 0.000276064 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 56, current_count: 1280 current_correct: 1268 acc_batch: 0.990625000
+epoch: 56, current_count: 2560 current_correct: 2535 acc_batch: 0.989843750
+epoch: 56, current_count: 3840 current_correct: 3801 acc_batch: 0.989062500
+epoch: 56, current_count: 5120 current_correct: 5060 acc_batch: 0.983593750
+epoch: 56, current_count: 6400 current_correct: 6326 acc_batch: 0.989062500
+epoch: 56, current_count: 7680 current_correct: 7589 acc_batch: 0.986718750
+epoch: 56, current_count: 8960 current_correct: 8856 acc_batch: 0.989843750
+current_label_count:16 != batch_size:128
+val_loss:0.040234145 val_acc:0.988600000
+epoch=57
+epoch: 57, current_count: 128 labels_count:6400 loss: 0.000202319 acc: 1.000000000 
+epoch: 57, current_count: 128 labels_count:12800 loss: 0.000205816 acc: 1.000000000 
+epoch: 57, current_count: 128 labels_count:19200 loss: 0.000196714 acc: 1.000000000 
+epoch: 57, current_count: 128 labels_count:25600 loss: 0.000393440 acc: 1.000000000 
+epoch: 57, current_count: 128 labels_count:32000 loss: 0.000221213 acc: 1.000000000 
+epoch: 57, current_count: 128 labels_count:38400 loss: 0.000206695 acc: 1.000000000 
+epoch: 57, current_count: 128 labels_count:44800 loss: 0.000179719 acc: 1.000000000 
+epoch: 57, current_count: 128 labels_count:51200 loss: 0.000204221 acc: 1.000000000 
+epoch: 57, current_count: 128 labels_count:57600 loss: 0.000193171 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 57, current_count: 1280 current_correct: 1268 acc_batch: 0.990625000
+epoch: 57, current_count: 2560 current_correct: 2530 acc_batch: 0.985937500
+epoch: 57, current_count: 3840 current_correct: 3802 acc_batch: 0.993750000
+epoch: 57, current_count: 5120 current_correct: 5064 acc_batch: 0.985937500
+epoch: 57, current_count: 6400 current_correct: 6329 acc_batch: 0.988281250
+epoch: 57, current_count: 7680 current_correct: 7601 acc_batch: 0.993750000
+epoch: 57, current_count: 8960 current_correct: 8873 acc_batch: 0.993750000
+current_label_count:16 != batch_size:128
+val_loss:0.035359692 val_acc:0.990000000
+Epoch    35: reducing learning rate of group 0 to 5.1200e-05.
+epoch=58
+epoch: 58, current_count: 128 labels_count:6400 loss: 0.000231321 acc: 1.000000000 
+epoch: 58, current_count: 128 labels_count:12800 loss: 0.000270516 acc: 1.000000000 
+epoch: 58, current_count: 128 labels_count:19200 loss: 0.000196180 acc: 1.000000000 
+epoch: 58, current_count: 128 labels_count:25600 loss: 0.000240737 acc: 1.000000000 
+epoch: 58, current_count: 128 labels_count:32000 loss: 0.000215887 acc: 1.000000000 
+epoch: 58, current_count: 128 labels_count:38400 loss: 0.000215210 acc: 1.000000000 
+epoch: 58, current_count: 128 labels_count:44800 loss: 0.000220237 acc: 1.000000000 
+epoch: 58, current_count: 128 labels_count:51200 loss: 0.000315785 acc: 1.000000000 
+epoch: 58, current_count: 128 labels_count:57600 loss: 0.000188726 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 58, current_count: 1280 current_correct: 1271 acc_batch: 0.992968750
+epoch: 58, current_count: 2560 current_correct: 2536 acc_batch: 0.988281250
+epoch: 58, current_count: 3840 current_correct: 3799 acc_batch: 0.986718750
+epoch: 58, current_count: 5120 current_correct: 5063 acc_batch: 0.987500000
+epoch: 58, current_count: 6400 current_correct: 6334 acc_batch: 0.992968750
+epoch: 58, current_count: 7680 current_correct: 7601 acc_batch: 0.989843750
+epoch: 58, current_count: 8960 current_correct: 8874 acc_batch: 0.994531250
+current_label_count:16 != batch_size:128
+val_loss:0.033312015 val_acc:0.990300000
+epoch=59
+epoch: 59, current_count: 128 labels_count:6400 loss: 0.000262362 acc: 1.000000000 
+epoch: 59, current_count: 128 labels_count:12800 loss: 0.000266237 acc: 1.000000000 
+epoch: 59, current_count: 128 labels_count:19200 loss: 0.000312396 acc: 1.000000000 
+epoch: 59, current_count: 128 labels_count:25600 loss: 0.000367360 acc: 0.999843750 
+epoch: 59, current_count: 128 labels_count:32000 loss: 0.000250484 acc: 1.000000000 
+epoch: 59, current_count: 128 labels_count:38400 loss: 0.000219767 acc: 1.000000000 
+epoch: 59, current_count: 128 labels_count:44800 loss: 0.000176885 acc: 1.000000000 
+epoch: 59, current_count: 128 labels_count:51200 loss: 0.000235198 acc: 1.000000000 
+epoch: 59, current_count: 128 labels_count:57600 loss: 0.000170484 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 59, current_count: 1280 current_correct: 1263 acc_batch: 0.986718750
+epoch: 59, current_count: 2560 current_correct: 2525 acc_batch: 0.985937500
+epoch: 59, current_count: 3840 current_correct: 3795 acc_batch: 0.992187500
+epoch: 59, current_count: 5120 current_correct: 5060 acc_batch: 0.988281250
+epoch: 59, current_count: 6400 current_correct: 6332 acc_batch: 0.993750000
+epoch: 59, current_count: 7680 current_correct: 7601 acc_batch: 0.991406250
+epoch: 59, current_count: 8960 current_correct: 8864 acc_batch: 0.986718750
+current_label_count:16 != batch_size:128
+val_loss:0.035399649 val_acc:0.989600000
+epoch=60
+epoch: 60, current_count: 128 labels_count:6400 loss: 0.000191813 acc: 1.000000000 
+epoch: 60, current_count: 128 labels_count:12800 loss: 0.000233378 acc: 1.000000000 
+epoch: 60, current_count: 128 labels_count:19200 loss: 0.000334503 acc: 1.000000000 
+epoch: 60, current_count: 128 labels_count:25600 loss: 0.000258135 acc: 1.000000000 
+epoch: 60, current_count: 128 labels_count:32000 loss: 0.000187309 acc: 1.000000000 
+epoch: 60, current_count: 128 labels_count:38400 loss: 0.000185379 acc: 1.000000000 
+epoch: 60, current_count: 128 labels_count:44800 loss: 0.000200920 acc: 1.000000000 
+epoch: 60, current_count: 128 labels_count:51200 loss: 0.000202182 acc: 1.000000000 
+epoch: 60, current_count: 128 labels_count:57600 loss: 0.000247923 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 60, current_count: 1280 current_correct: 1260 acc_batch: 0.984375000
+epoch: 60, current_count: 2560 current_correct: 2526 acc_batch: 0.989062500
+epoch: 60, current_count: 3840 current_correct: 3791 acc_batch: 0.988281250
+epoch: 60, current_count: 5120 current_correct: 5062 acc_batch: 0.992968750
+epoch: 60, current_count: 6400 current_correct: 6333 acc_batch: 0.992968750
+epoch: 60, current_count: 7680 current_correct: 7600 acc_batch: 0.989843750
+epoch: 60, current_count: 8960 current_correct: 8869 acc_batch: 0.991406250
+current_label_count:16 != batch_size:128
+val_loss:0.036013957 val_acc:0.989800000
+epoch=61
+epoch: 61, current_count: 128 labels_count:6400 loss: 0.000193862 acc: 1.000000000 
+epoch: 61, current_count: 128 labels_count:12800 loss: 0.000243943 acc: 1.000000000 
+epoch: 61, current_count: 128 labels_count:19200 loss: 0.000321160 acc: 1.000000000 
+epoch: 61, current_count: 128 labels_count:25600 loss: 0.000193820 acc: 1.000000000 
+epoch: 61, current_count: 128 labels_count:32000 loss: 0.000170260 acc: 1.000000000 
+epoch: 61, current_count: 128 labels_count:38400 loss: 0.000204103 acc: 1.000000000 
+epoch: 61, current_count: 128 labels_count:44800 loss: 0.000232768 acc: 1.000000000 
+epoch: 61, current_count: 128 labels_count:51200 loss: 0.000210829 acc: 1.000000000 
+epoch: 61, current_count: 128 labels_count:57600 loss: 0.000215574 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 61, current_count: 1280 current_correct: 1268 acc_batch: 0.990625000
+epoch: 61, current_count: 2560 current_correct: 2530 acc_batch: 0.985937500
+epoch: 61, current_count: 3840 current_correct: 3798 acc_batch: 0.990625000
+epoch: 61, current_count: 5120 current_correct: 5065 acc_batch: 0.989843750
+epoch: 61, current_count: 6400 current_correct: 6331 acc_batch: 0.989062500
+epoch: 61, current_count: 7680 current_correct: 7599 acc_batch: 0.990625000
+epoch: 61, current_count: 8960 current_correct: 8865 acc_batch: 0.989062500
+current_label_count:16 != batch_size:128
+val_loss:0.035929184 val_acc:0.989800000
+epoch=62
+epoch: 62, current_count: 128 labels_count:6400 loss: 0.000254768 acc: 1.000000000 
+epoch: 62, current_count: 128 labels_count:12800 loss: 0.000205642 acc: 1.000000000 
+epoch: 62, current_count: 128 labels_count:19200 loss: 0.000191930 acc: 1.000000000 
+epoch: 62, current_count: 128 labels_count:25600 loss: 0.000213654 acc: 1.000000000 
+epoch: 62, current_count: 128 labels_count:32000 loss: 0.000334343 acc: 1.000000000 
+epoch: 62, current_count: 128 labels_count:38400 loss: 0.000198115 acc: 1.000000000 
+epoch: 62, current_count: 128 labels_count:44800 loss: 0.000190563 acc: 1.000000000 
+epoch: 62, current_count: 128 labels_count:51200 loss: 0.000256429 acc: 1.000000000 
+epoch: 62, current_count: 128 labels_count:57600 loss: 0.000218592 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 62, current_count: 1280 current_correct: 1268 acc_batch: 0.990625000
+epoch: 62, current_count: 2560 current_correct: 2535 acc_batch: 0.989843750
+epoch: 62, current_count: 3840 current_correct: 3806 acc_batch: 0.992968750
+epoch: 62, current_count: 5120 current_correct: 5074 acc_batch: 0.990625000
+epoch: 62, current_count: 6400 current_correct: 6341 acc_batch: 0.989843750
+epoch: 62, current_count: 7680 current_correct: 7600 acc_batch: 0.983593750
+epoch: 62, current_count: 8960 current_correct: 8871 acc_batch: 0.992968750
+current_label_count:16 != batch_size:128
+val_loss:0.034843173 val_acc:0.990200000
+Epoch    40: reducing learning rate of group 0 to 2.0480e-05.
+epoch=63
+epoch: 63, current_count: 128 labels_count:6400 loss: 0.000248416 acc: 1.000000000 
+epoch: 63, current_count: 128 labels_count:12800 loss: 0.000252296 acc: 1.000000000 
+epoch: 63, current_count: 128 labels_count:19200 loss: 0.000351772 acc: 0.999843750 
+epoch: 63, current_count: 128 labels_count:25600 loss: 0.000242308 acc: 1.000000000 
+epoch: 63, current_count: 128 labels_count:32000 loss: 0.000230407 acc: 1.000000000 
+epoch: 63, current_count: 128 labels_count:38400 loss: 0.000240063 acc: 1.000000000 
+epoch: 63, current_count: 128 labels_count:44800 loss: 0.000207833 acc: 1.000000000 
+epoch: 63, current_count: 128 labels_count:51200 loss: 0.000177120 acc: 1.000000000 
+epoch: 63, current_count: 128 labels_count:57600 loss: 0.000192709 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 63, current_count: 1280 current_correct: 1268 acc_batch: 0.990625000
+epoch: 63, current_count: 2560 current_correct: 2538 acc_batch: 0.992187500
+epoch: 63, current_count: 3840 current_correct: 3803 acc_batch: 0.988281250
+epoch: 63, current_count: 5120 current_correct: 5068 acc_batch: 0.988281250
+epoch: 63, current_count: 6400 current_correct: 6338 acc_batch: 0.992187500
+epoch: 63, current_count: 7680 current_correct: 7599 acc_batch: 0.985156250
+epoch: 63, current_count: 8960 current_correct: 8865 acc_batch: 0.989062500
+current_label_count:16 != batch_size:128
+val_loss:0.038047701 val_acc:0.989700000
+epoch=64
+epoch: 64, current_count: 128 labels_count:6400 loss: 0.000251286 acc: 1.000000000 
+epoch: 64, current_count: 128 labels_count:12800 loss: 0.000234011 acc: 1.000000000 
+epoch: 64, current_count: 128 labels_count:19200 loss: 0.000221180 acc: 1.000000000 
+epoch: 64, current_count: 128 labels_count:25600 loss: 0.000337108 acc: 0.999843750 
+epoch: 64, current_count: 128 labels_count:32000 loss: 0.000212322 acc: 1.000000000 
+epoch: 64, current_count: 128 labels_count:38400 loss: 0.000164104 acc: 1.000000000 
+epoch: 64, current_count: 128 labels_count:44800 loss: 0.000239360 acc: 1.000000000 
+epoch: 64, current_count: 128 labels_count:51200 loss: 0.000207799 acc: 1.000000000 
+epoch: 64, current_count: 128 labels_count:57600 loss: 0.000278465 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 64, current_count: 1280 current_correct: 1263 acc_batch: 0.986718750
+epoch: 64, current_count: 2560 current_correct: 2524 acc_batch: 0.985156250
+epoch: 64, current_count: 3840 current_correct: 3791 acc_batch: 0.989843750
+epoch: 64, current_count: 5120 current_correct: 5061 acc_batch: 0.992187500
+epoch: 64, current_count: 6400 current_correct: 6331 acc_batch: 0.992187500
+epoch: 64, current_count: 7680 current_correct: 7595 acc_batch: 0.987500000
+epoch: 64, current_count: 8960 current_correct: 8867 acc_batch: 0.993750000
+current_label_count:16 != batch_size:128
+val_loss:0.037610341 val_acc:0.989700000
+epoch=65
+epoch: 65, current_count: 128 labels_count:6400 loss: 0.000203765 acc: 1.000000000 
+epoch: 65, current_count: 128 labels_count:12800 loss: 0.000279960 acc: 1.000000000 
+epoch: 65, current_count: 128 labels_count:19200 loss: 0.000230534 acc: 1.000000000 
+epoch: 65, current_count: 128 labels_count:25600 loss: 0.000215233 acc: 1.000000000 
+epoch: 65, current_count: 128 labels_count:32000 loss: 0.000203300 acc: 1.000000000 
+epoch: 65, current_count: 128 labels_count:38400 loss: 0.000302505 acc: 1.000000000 
+epoch: 65, current_count: 128 labels_count:44800 loss: 0.000224862 acc: 1.000000000 
+epoch: 65, current_count: 128 labels_count:51200 loss: 0.000268545 acc: 1.000000000 
+epoch: 65, current_count: 128 labels_count:57600 loss: 0.000283592 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 65, current_count: 1280 current_correct: 1269 acc_batch: 0.991406250
+epoch: 65, current_count: 2560 current_correct: 2539 acc_batch: 0.992187500
+epoch: 65, current_count: 3840 current_correct: 3804 acc_batch: 0.988281250
+epoch: 65, current_count: 5120 current_correct: 5073 acc_batch: 0.991406250
+epoch: 65, current_count: 6400 current_correct: 6342 acc_batch: 0.991406250
+epoch: 65, current_count: 7680 current_correct: 7604 acc_batch: 0.985937500
+epoch: 65, current_count: 8960 current_correct: 8870 acc_batch: 0.989062500
+current_label_count:16 != batch_size:128
+val_loss:0.036094759 val_acc:0.989700000
+epoch=66
+epoch: 66, current_count: 128 labels_count:6400 loss: 0.000249344 acc: 1.000000000 
+epoch: 66, current_count: 128 labels_count:12800 loss: 0.000198119 acc: 1.000000000 
+epoch: 66, current_count: 128 labels_count:19200 loss: 0.000421709 acc: 0.999843750 
+epoch: 66, current_count: 128 labels_count:25600 loss: 0.000266541 acc: 1.000000000 
+epoch: 66, current_count: 128 labels_count:32000 loss: 0.000201017 acc: 1.000000000 
+epoch: 66, current_count: 128 labels_count:38400 loss: 0.000225343 acc: 1.000000000 
+epoch: 66, current_count: 128 labels_count:44800 loss: 0.000231158 acc: 1.000000000 
+epoch: 66, current_count: 128 labels_count:51200 loss: 0.000200189 acc: 1.000000000 
+epoch: 66, current_count: 128 labels_count:57600 loss: 0.000208230 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 66, current_count: 1280 current_correct: 1264 acc_batch: 0.987500000
+epoch: 66, current_count: 2560 current_correct: 2533 acc_batch: 0.991406250
+epoch: 66, current_count: 3840 current_correct: 3800 acc_batch: 0.989843750
+epoch: 66, current_count: 5120 current_correct: 5066 acc_batch: 0.989062500
+epoch: 66, current_count: 6400 current_correct: 6337 acc_batch: 0.992968750
+epoch: 66, current_count: 7680 current_correct: 7606 acc_batch: 0.991406250
+epoch: 66, current_count: 8960 current_correct: 8875 acc_batch: 0.991406250
+current_label_count:16 != batch_size:128
+val_loss:0.035647489 val_acc:0.990400000
+epoch=67
+epoch: 67, current_count: 128 labels_count:6400 loss: 0.000196673 acc: 1.000000000 
+epoch: 67, current_count: 128 labels_count:12800 loss: 0.000388645 acc: 1.000000000 
+epoch: 67, current_count: 128 labels_count:19200 loss: 0.000179207 acc: 1.000000000 
+epoch: 67, current_count: 128 labels_count:25600 loss: 0.000186918 acc: 1.000000000 
+epoch: 67, current_count: 128 labels_count:32000 loss: 0.000200930 acc: 1.000000000 
+epoch: 67, current_count: 128 labels_count:38400 loss: 0.000268340 acc: 1.000000000 
+epoch: 67, current_count: 128 labels_count:44800 loss: 0.000238891 acc: 1.000000000 
+epoch: 67, current_count: 128 labels_count:51200 loss: 0.000207209 acc: 1.000000000 
+epoch: 67, current_count: 128 labels_count:57600 loss: 0.000196116 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 67, current_count: 1280 current_correct: 1262 acc_batch: 0.985937500
+epoch: 67, current_count: 2560 current_correct: 2531 acc_batch: 0.991406250
+epoch: 67, current_count: 3840 current_correct: 3801 acc_batch: 0.992187500
+epoch: 67, current_count: 5120 current_correct: 5071 acc_batch: 0.992187500
+epoch: 67, current_count: 6400 current_correct: 6338 acc_batch: 0.989843750
+epoch: 67, current_count: 7680 current_correct: 7604 acc_batch: 0.989062500
+epoch: 67, current_count: 8960 current_correct: 8865 acc_batch: 0.985156250
+current_label_count:16 != batch_size:128
+val_loss:0.034216829 val_acc:0.990100000
+Epoch    45: reducing learning rate of group 0 to 8.1920e-06.
+epoch=68
+epoch: 68, current_count: 128 labels_count:6400 loss: 0.000216322 acc: 1.000000000 
+epoch: 68, current_count: 128 labels_count:12800 loss: 0.000231887 acc: 1.000000000 
+epoch: 68, current_count: 128 labels_count:19200 loss: 0.000230300 acc: 1.000000000 
+epoch: 68, current_count: 128 labels_count:25600 loss: 0.000361334 acc: 1.000000000 
+epoch: 68, current_count: 128 labels_count:32000 loss: 0.000174054 acc: 1.000000000 
+epoch: 68, current_count: 128 labels_count:38400 loss: 0.000187092 acc: 1.000000000 
+epoch: 68, current_count: 128 labels_count:44800 loss: 0.000223683 acc: 1.000000000 
+epoch: 68, current_count: 128 labels_count:51200 loss: 0.000234068 acc: 1.000000000 
+epoch: 68, current_count: 128 labels_count:57600 loss: 0.000170599 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 68, current_count: 1280 current_correct: 1272 acc_batch: 0.993750000
+epoch: 68, current_count: 2560 current_correct: 2538 acc_batch: 0.989062500
+epoch: 68, current_count: 3840 current_correct: 3800 acc_batch: 0.985937500
+epoch: 68, current_count: 5120 current_correct: 5065 acc_batch: 0.988281250
+epoch: 68, current_count: 6400 current_correct: 6335 acc_batch: 0.992187500
+epoch: 68, current_count: 7680 current_correct: 7602 acc_batch: 0.989843750
+epoch: 68, current_count: 8960 current_correct: 8869 acc_batch: 0.989843750
+current_label_count:16 != batch_size:128
+val_loss:0.035132959 val_acc:0.989900000
+epoch=69
+epoch: 69, current_count: 128 labels_count:6400 loss: 0.000206654 acc: 1.000000000 
+epoch: 69, current_count: 128 labels_count:12800 loss: 0.000258328 acc: 1.000000000 
+epoch: 69, current_count: 128 labels_count:19200 loss: 0.000230561 acc: 1.000000000 
+epoch: 69, current_count: 128 labels_count:25600 loss: 0.000208942 acc: 1.000000000 
+epoch: 69, current_count: 128 labels_count:32000 loss: 0.000382810 acc: 1.000000000 
+epoch: 69, current_count: 128 labels_count:38400 loss: 0.000185191 acc: 1.000000000 
+epoch: 69, current_count: 128 labels_count:44800 loss: 0.000254417 acc: 1.000000000 
+epoch: 69, current_count: 128 labels_count:51200 loss: 0.000215282 acc: 1.000000000 
+epoch: 69, current_count: 128 labels_count:57600 loss: 0.000306944 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 69, current_count: 1280 current_correct: 1262 acc_batch: 0.985937500
+epoch: 69, current_count: 2560 current_correct: 2529 acc_batch: 0.989843750
+epoch: 69, current_count: 3840 current_correct: 3793 acc_batch: 0.987500000
+epoch: 69, current_count: 5120 current_correct: 5057 acc_batch: 0.987500000
+epoch: 69, current_count: 6400 current_correct: 6324 acc_batch: 0.989843750
+epoch: 69, current_count: 7680 current_correct: 7596 acc_batch: 0.993750000
+epoch: 69, current_count: 8960 current_correct: 8869 acc_batch: 0.994531250
+current_label_count:16 != batch_size:128
+val_loss:0.034775637 val_acc:0.989900000
+epoch=70
+epoch: 70, current_count: 128 labels_count:6400 loss: 0.000222785 acc: 1.000000000 
+epoch: 70, current_count: 128 labels_count:12800 loss: 0.000207352 acc: 1.000000000 
+epoch: 70, current_count: 128 labels_count:19200 loss: 0.000186632 acc: 1.000000000 
+epoch: 70, current_count: 128 labels_count:25600 loss: 0.000235539 acc: 1.000000000 
+epoch: 70, current_count: 128 labels_count:32000 loss: 0.000234328 acc: 1.000000000 
+epoch: 70, current_count: 128 labels_count:38400 loss: 0.000437969 acc: 0.999843750 
+epoch: 70, current_count: 128 labels_count:44800 loss: 0.000281157 acc: 1.000000000 
+epoch: 70, current_count: 128 labels_count:51200 loss: 0.000250170 acc: 1.000000000 
+epoch: 70, current_count: 128 labels_count:57600 loss: 0.000182159 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 70, current_count: 1280 current_correct: 1263 acc_batch: 0.986718750
+epoch: 70, current_count: 2560 current_correct: 2534 acc_batch: 0.992968750
+epoch: 70, current_count: 3840 current_correct: 3805 acc_batch: 0.992968750
+epoch: 70, current_count: 5120 current_correct: 5071 acc_batch: 0.989062500
+epoch: 70, current_count: 6400 current_correct: 6339 acc_batch: 0.990625000
+epoch: 70, current_count: 7680 current_correct: 7607 acc_batch: 0.990625000
+epoch: 70, current_count: 8960 current_correct: 8875 acc_batch: 0.990625000
+current_label_count:16 != batch_size:128
+val_loss:0.034771979 val_acc:0.990200000
+epoch=71
+epoch: 71, current_count: 128 labels_count:6400 loss: 0.000176492 acc: 1.000000000 
+epoch: 71, current_count: 128 labels_count:12800 loss: 0.000278591 acc: 1.000000000 
+epoch: 71, current_count: 128 labels_count:19200 loss: 0.000207620 acc: 1.000000000 
+epoch: 71, current_count: 128 labels_count:25600 loss: 0.000212475 acc: 1.000000000 
+epoch: 71, current_count: 128 labels_count:32000 loss: 0.000361703 acc: 1.000000000 
+epoch: 71, current_count: 128 labels_count:38400 loss: 0.000234315 acc: 1.000000000 
+epoch: 71, current_count: 128 labels_count:44800 loss: 0.000222548 acc: 1.000000000 
+epoch: 71, current_count: 128 labels_count:51200 loss: 0.000202768 acc: 1.000000000 
+epoch: 71, current_count: 128 labels_count:57600 loss: 0.000196669 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 71, current_count: 1280 current_correct: 1268 acc_batch: 0.990625000
+epoch: 71, current_count: 2560 current_correct: 2536 acc_batch: 0.990625000
+epoch: 71, current_count: 3840 current_correct: 3800 acc_batch: 0.987500000
+epoch: 71, current_count: 5120 current_correct: 5067 acc_batch: 0.989843750
+epoch: 71, current_count: 6400 current_correct: 6335 acc_batch: 0.990625000
+epoch: 71, current_count: 7680 current_correct: 7598 acc_batch: 0.986718750
+epoch: 71, current_count: 8960 current_correct: 8860 acc_batch: 0.985937500
+current_label_count:16 != batch_size:128
+val_loss:0.038916226 val_acc:0.989100000
+epoch=72
+epoch: 72, current_count: 128 labels_count:6400 loss: 0.000261719 acc: 1.000000000 
+epoch: 72, current_count: 128 labels_count:12800 loss: 0.000406458 acc: 1.000000000 
+epoch: 72, current_count: 128 labels_count:19200 loss: 0.000230898 acc: 1.000000000 
+epoch: 72, current_count: 128 labels_count:25600 loss: 0.000165945 acc: 1.000000000 
+epoch: 72, current_count: 128 labels_count:32000 loss: 0.000206913 acc: 1.000000000 
+epoch: 72, current_count: 128 labels_count:38400 loss: 0.000212966 acc: 1.000000000 
+epoch: 72, current_count: 128 labels_count:44800 loss: 0.000299788 acc: 1.000000000 
+epoch: 72, current_count: 128 labels_count:51200 loss: 0.000188081 acc: 1.000000000 
+epoch: 72, current_count: 128 labels_count:57600 loss: 0.000210951 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 72, current_count: 1280 current_correct: 1272 acc_batch: 0.993750000
+epoch: 72, current_count: 2560 current_correct: 2541 acc_batch: 0.991406250
+epoch: 72, current_count: 3840 current_correct: 3809 acc_batch: 0.990625000
+epoch: 72, current_count: 5120 current_correct: 5076 acc_batch: 0.989843750
+epoch: 72, current_count: 6400 current_correct: 6343 acc_batch: 0.989843750
+epoch: 72, current_count: 7680 current_correct: 7603 acc_batch: 0.984375000
+epoch: 72, current_count: 8960 current_correct: 8871 acc_batch: 0.990625000
+current_label_count:16 != batch_size:128
+val_loss:0.035318881 val_acc:0.989800000
+Epoch    50: reducing learning rate of group 0 to 3.2768e-06.
+epoch=73
+epoch: 73, current_count: 128 labels_count:6400 loss: 0.000256104 acc: 1.000000000 
+epoch: 73, current_count: 128 labels_count:12800 loss: 0.000201052 acc: 1.000000000 
+epoch: 73, current_count: 128 labels_count:19200 loss: 0.000241235 acc: 1.000000000 
+epoch: 73, current_count: 128 labels_count:25600 loss: 0.000267907 acc: 1.000000000 
+epoch: 73, current_count: 128 labels_count:32000 loss: 0.000263158 acc: 1.000000000 
+epoch: 73, current_count: 128 labels_count:38400 loss: 0.000345182 acc: 1.000000000 
+epoch: 73, current_count: 128 labels_count:44800 loss: 0.000221872 acc: 1.000000000 
+epoch: 73, current_count: 128 labels_count:51200 loss: 0.000230396 acc: 1.000000000 
+epoch: 73, current_count: 128 labels_count:57600 loss: 0.000159293 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 73, current_count: 1280 current_correct: 1268 acc_batch: 0.990625000
+epoch: 73, current_count: 2560 current_correct: 2531 acc_batch: 0.986718750
+epoch: 73, current_count: 3840 current_correct: 3800 acc_batch: 0.991406250
+epoch: 73, current_count: 5120 current_correct: 5068 acc_batch: 0.990625000
+epoch: 73, current_count: 6400 current_correct: 6333 acc_batch: 0.988281250
+epoch: 73, current_count: 7680 current_correct: 7597 acc_batch: 0.987500000
+epoch: 73, current_count: 8960 current_correct: 8864 acc_batch: 0.989843750
+current_label_count:16 != batch_size:128
+val_loss:0.037316035 val_acc:0.989600000
+epoch=74
+epoch: 74, current_count: 128 labels_count:6400 loss: 0.000173571 acc: 1.000000000 
+epoch: 74, current_count: 128 labels_count:12800 loss: 0.000243186 acc: 1.000000000 
+epoch: 74, current_count: 128 labels_count:19200 loss: 0.000229609 acc: 1.000000000 
+epoch: 74, current_count: 128 labels_count:25600 loss: 0.000387091 acc: 0.999843750 
+epoch: 74, current_count: 128 labels_count:32000 loss: 0.000239111 acc: 1.000000000 
+epoch: 74, current_count: 128 labels_count:38400 loss: 0.000235563 acc: 1.000000000 
+epoch: 74, current_count: 128 labels_count:44800 loss: 0.000160033 acc: 1.000000000 
+epoch: 74, current_count: 128 labels_count:51200 loss: 0.000198801 acc: 1.000000000 
+epoch: 74, current_count: 128 labels_count:57600 loss: 0.000249714 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 74, current_count: 1280 current_correct: 1264 acc_batch: 0.987500000
+epoch: 74, current_count: 2560 current_correct: 2534 acc_batch: 0.992187500
+epoch: 74, current_count: 3840 current_correct: 3805 acc_batch: 0.992968750
+epoch: 74, current_count: 5120 current_correct: 5070 acc_batch: 0.988281250
+epoch: 74, current_count: 6400 current_correct: 6342 acc_batch: 0.993750000
+epoch: 74, current_count: 7680 current_correct: 7606 acc_batch: 0.987500000
+epoch: 74, current_count: 8960 current_correct: 8870 acc_batch: 0.987500000
+current_label_count:16 != batch_size:128
+val_loss:0.035161413 val_acc:0.989900000
+epoch=75
+epoch: 75, current_count: 128 labels_count:6400 loss: 0.000220664 acc: 1.000000000 
+epoch: 75, current_count: 128 labels_count:12800 loss: 0.000204832 acc: 1.000000000 
+epoch: 75, current_count: 128 labels_count:19200 loss: 0.000240218 acc: 1.000000000 
+epoch: 75, current_count: 128 labels_count:25600 loss: 0.000166532 acc: 1.000000000 
+epoch: 75, current_count: 128 labels_count:32000 loss: 0.000209012 acc: 1.000000000 
+epoch: 75, current_count: 128 labels_count:38400 loss: 0.000221581 acc: 1.000000000 
+epoch: 75, current_count: 128 labels_count:44800 loss: 0.000204880 acc: 1.000000000 
+epoch: 75, current_count: 128 labels_count:51200 loss: 0.000254879 acc: 1.000000000 
+epoch: 75, current_count: 128 labels_count:57600 loss: 0.000369210 acc: 0.999843750 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 75, current_count: 1280 current_correct: 1268 acc_batch: 0.990625000
+epoch: 75, current_count: 2560 current_correct: 2536 acc_batch: 0.990625000
+epoch: 75, current_count: 3840 current_correct: 3796 acc_batch: 0.984375000
+epoch: 75, current_count: 5120 current_correct: 5060 acc_batch: 0.987500000
+epoch: 75, current_count: 6400 current_correct: 6329 acc_batch: 0.991406250
+epoch: 75, current_count: 7680 current_correct: 7588 acc_batch: 0.983593750
+epoch: 75, current_count: 8960 current_correct: 8853 acc_batch: 0.988281250
+current_label_count:16 != batch_size:128
+val_loss:0.040152062 val_acc:0.988700000
+epoch=76
+epoch: 76, current_count: 128 labels_count:6400 loss: 0.000194744 acc: 1.000000000 
+epoch: 76, current_count: 128 labels_count:12800 loss: 0.000310241 acc: 1.000000000 
+epoch: 76, current_count: 128 labels_count:19200 loss: 0.000197305 acc: 1.000000000 
+epoch: 76, current_count: 128 labels_count:25600 loss: 0.000222644 acc: 1.000000000 
+epoch: 76, current_count: 128 labels_count:32000 loss: 0.000182110 acc: 1.000000000 
+epoch: 76, current_count: 128 labels_count:38400 loss: 0.000203433 acc: 1.000000000 
+epoch: 76, current_count: 128 labels_count:44800 loss: 0.000191609 acc: 1.000000000 
+epoch: 76, current_count: 128 labels_count:51200 loss: 0.000311373 acc: 1.000000000 
+epoch: 76, current_count: 128 labels_count:57600 loss: 0.000174206 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 76, current_count: 1280 current_correct: 1266 acc_batch: 0.989062500
+epoch: 76, current_count: 2560 current_correct: 2538 acc_batch: 0.993750000
+epoch: 76, current_count: 3840 current_correct: 3803 acc_batch: 0.988281250
+epoch: 76, current_count: 5120 current_correct: 5064 acc_batch: 0.985156250
+epoch: 76, current_count: 6400 current_correct: 6332 acc_batch: 0.990625000
+epoch: 76, current_count: 7680 current_correct: 7601 acc_batch: 0.991406250
+epoch: 76, current_count: 8960 current_correct: 8870 acc_batch: 0.991406250
+current_label_count:16 != batch_size:128
+val_loss:0.035127085 val_acc:0.990000000
+epoch=77
+epoch: 77, current_count: 128 labels_count:6400 loss: 0.000234096 acc: 1.000000000 
+epoch: 77, current_count: 128 labels_count:12800 loss: 0.000222880 acc: 1.000000000 
+epoch: 77, current_count: 128 labels_count:19200 loss: 0.000224887 acc: 1.000000000 
+epoch: 77, current_count: 128 labels_count:25600 loss: 0.000251871 acc: 1.000000000 
+epoch: 77, current_count: 128 labels_count:32000 loss: 0.000199015 acc: 1.000000000 
+epoch: 77, current_count: 128 labels_count:38400 loss: 0.000266390 acc: 1.000000000 
+epoch: 77, current_count: 128 labels_count:44800 loss: 0.000174827 acc: 1.000000000 
+epoch: 77, current_count: 128 labels_count:51200 loss: 0.000335093 acc: 1.000000000 
+epoch: 77, current_count: 128 labels_count:57600 loss: 0.000213007 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 77, current_count: 1280 current_correct: 1270 acc_batch: 0.992187500
+epoch: 77, current_count: 2560 current_correct: 2542 acc_batch: 0.993750000
+epoch: 77, current_count: 3840 current_correct: 3807 acc_batch: 0.988281250
+epoch: 77, current_count: 5120 current_correct: 5076 acc_batch: 0.991406250
+epoch: 77, current_count: 6400 current_correct: 6341 acc_batch: 0.988281250
+epoch: 77, current_count: 7680 current_correct: 7608 acc_batch: 0.989843750
+epoch: 77, current_count: 8960 current_correct: 8873 acc_batch: 0.988281250
+current_label_count:16 != batch_size:128
+val_loss:0.037240248 val_acc:0.990000000
+Epoch    55: reducing learning rate of group 0 to 1.3107e-06.
+epoch=78
+epoch: 78, current_count: 128 labels_count:6400 loss: 0.000212042 acc: 1.000000000 
+epoch: 78, current_count: 128 labels_count:12800 loss: 0.000291651 acc: 1.000000000 
+epoch: 78, current_count: 128 labels_count:19200 loss: 0.000380963 acc: 0.999843750 
+epoch: 78, current_count: 128 labels_count:25600 loss: 0.000241069 acc: 1.000000000 
+epoch: 78, current_count: 128 labels_count:32000 loss: 0.000223564 acc: 1.000000000 
+epoch: 78, current_count: 128 labels_count:38400 loss: 0.000200108 acc: 1.000000000 
+epoch: 78, current_count: 128 labels_count:44800 loss: 0.000246325 acc: 1.000000000 
+epoch: 78, current_count: 128 labels_count:51200 loss: 0.000219076 acc: 1.000000000 
+epoch: 78, current_count: 128 labels_count:57600 loss: 0.000205894 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 78, current_count: 1280 current_correct: 1266 acc_batch: 0.989062500
+epoch: 78, current_count: 2560 current_correct: 2529 acc_batch: 0.986718750
+epoch: 78, current_count: 3840 current_correct: 3797 acc_batch: 0.990625000
+epoch: 78, current_count: 5120 current_correct: 5069 acc_batch: 0.993750000
+epoch: 78, current_count: 6400 current_correct: 6336 acc_batch: 0.989843750
+epoch: 78, current_count: 7680 current_correct: 7599 acc_batch: 0.986718750
+epoch: 78, current_count: 8960 current_correct: 8866 acc_batch: 0.989843750
+current_label_count:16 != batch_size:128
+val_loss:0.036637377 val_acc:0.989800000
+epoch=79
+epoch: 79, current_count: 128 labels_count:6400 loss: 0.000282582 acc: 1.000000000 
+epoch: 79, current_count: 128 labels_count:12800 loss: 0.000223697 acc: 1.000000000 
+epoch: 79, current_count: 128 labels_count:19200 loss: 0.000223534 acc: 1.000000000 
+epoch: 79, current_count: 128 labels_count:25600 loss: 0.000198909 acc: 1.000000000 
+epoch: 79, current_count: 128 labels_count:32000 loss: 0.000223973 acc: 1.000000000 
+epoch: 79, current_count: 128 labels_count:38400 loss: 0.000192348 acc: 1.000000000 
+epoch: 79, current_count: 128 labels_count:44800 loss: 0.000207991 acc: 1.000000000 
+epoch: 79, current_count: 128 labels_count:51200 loss: 0.000317651 acc: 0.999843750 
+epoch: 79, current_count: 128 labels_count:57600 loss: 0.000286807 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 79, current_count: 1280 current_correct: 1263 acc_batch: 0.986718750
+epoch: 79, current_count: 2560 current_correct: 2525 acc_batch: 0.985937500
+epoch: 79, current_count: 3840 current_correct: 3793 acc_batch: 0.990625000
+epoch: 79, current_count: 5120 current_correct: 5061 acc_batch: 0.990625000
+epoch: 79, current_count: 6400 current_correct: 6329 acc_batch: 0.990625000
+epoch: 79, current_count: 7680 current_correct: 7590 acc_batch: 0.985156250
+epoch: 79, current_count: 8960 current_correct: 8861 acc_batch: 0.992968750
+current_label_count:16 != batch_size:128
+val_loss:0.037108898 val_acc:0.989600000
+epoch=80
+epoch: 80, current_count: 128 labels_count:6400 loss: 0.000218596 acc: 1.000000000 
+epoch: 80, current_count: 128 labels_count:12800 loss: 0.000198292 acc: 1.000000000 
+epoch: 80, current_count: 128 labels_count:19200 loss: 0.000257571 acc: 1.000000000 
+epoch: 80, current_count: 128 labels_count:25600 loss: 0.000235342 acc: 1.000000000 
+epoch: 80, current_count: 128 labels_count:32000 loss: 0.000204958 acc: 1.000000000 
+epoch: 80, current_count: 128 labels_count:38400 loss: 0.000360514 acc: 1.000000000 
+epoch: 80, current_count: 128 labels_count:44800 loss: 0.000182733 acc: 1.000000000 
+epoch: 80, current_count: 128 labels_count:51200 loss: 0.000208392 acc: 1.000000000 
+epoch: 80, current_count: 128 labels_count:57600 loss: 0.000294466 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 80, current_count: 1280 current_correct: 1258 acc_batch: 0.982812500
+epoch: 80, current_count: 2560 current_correct: 2531 acc_batch: 0.994531250
+epoch: 80, current_count: 3840 current_correct: 3797 acc_batch: 0.989062500
+epoch: 80, current_count: 5120 current_correct: 5063 acc_batch: 0.989062500
+epoch: 80, current_count: 6400 current_correct: 6330 acc_batch: 0.989843750
+epoch: 80, current_count: 7680 current_correct: 7597 acc_batch: 0.989843750
+epoch: 80, current_count: 8960 current_correct: 8866 acc_batch: 0.991406250
+current_label_count:16 != batch_size:128
+val_loss:0.038339186 val_acc:0.989200000
+epoch=81
+epoch: 81, current_count: 128 labels_count:6400 loss: 0.000280912 acc: 1.000000000 
+epoch: 81, current_count: 128 labels_count:12800 loss: 0.000214360 acc: 1.000000000 
+epoch: 81, current_count: 128 labels_count:19200 loss: 0.000173416 acc: 1.000000000 
+epoch: 81, current_count: 128 labels_count:25600 loss: 0.000222941 acc: 1.000000000 
+epoch: 81, current_count: 128 labels_count:32000 loss: 0.000225875 acc: 1.000000000 
+epoch: 81, current_count: 128 labels_count:38400 loss: 0.000223273 acc: 1.000000000 
+epoch: 81, current_count: 128 labels_count:44800 loss: 0.000198657 acc: 1.000000000 
+epoch: 81, current_count: 128 labels_count:51200 loss: 0.000438731 acc: 0.999843750 
+epoch: 81, current_count: 128 labels_count:57600 loss: 0.000192960 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 81, current_count: 1280 current_correct: 1262 acc_batch: 0.985937500
+epoch: 81, current_count: 2560 current_correct: 2529 acc_batch: 0.989843750
+epoch: 81, current_count: 3840 current_correct: 3796 acc_batch: 0.989843750
+epoch: 81, current_count: 5120 current_correct: 5064 acc_batch: 0.990625000
+epoch: 81, current_count: 6400 current_correct: 6328 acc_batch: 0.987500000
+epoch: 81, current_count: 7680 current_correct: 7598 acc_batch: 0.992187500
+epoch: 81, current_count: 8960 current_correct: 8868 acc_batch: 0.992187500
+current_label_count:16 != batch_size:128
+val_loss:0.034867723 val_acc:0.989800000
+epoch=82
+epoch: 82, current_count: 128 labels_count:6400 loss: 0.000214453 acc: 1.000000000 
+epoch: 82, current_count: 128 labels_count:12800 loss: 0.000198185 acc: 1.000000000 
+epoch: 82, current_count: 128 labels_count:19200 loss: 0.000345989 acc: 0.999843750 
+epoch: 82, current_count: 128 labels_count:25600 loss: 0.000230741 acc: 1.000000000 
+epoch: 82, current_count: 128 labels_count:32000 loss: 0.000208175 acc: 1.000000000 
+epoch: 82, current_count: 128 labels_count:38400 loss: 0.000165109 acc: 1.000000000 
+epoch: 82, current_count: 128 labels_count:44800 loss: 0.000209520 acc: 1.000000000 
+epoch: 82, current_count: 128 labels_count:51200 loss: 0.000267967 acc: 1.000000000 
+epoch: 82, current_count: 128 labels_count:57600 loss: 0.000233067 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 82, current_count: 1280 current_correct: 1265 acc_batch: 0.988281250
+epoch: 82, current_count: 2560 current_correct: 2533 acc_batch: 0.990625000
+epoch: 82, current_count: 3840 current_correct: 3806 acc_batch: 0.994531250
+epoch: 82, current_count: 5120 current_correct: 5076 acc_batch: 0.992187500
+epoch: 82, current_count: 6400 current_correct: 6335 acc_batch: 0.983593750
+epoch: 82, current_count: 7680 current_correct: 7601 acc_batch: 0.989062500
+epoch: 82, current_count: 8960 current_correct: 8865 acc_batch: 0.987500000
+current_label_count:16 != batch_size:128
+val_loss:0.035778362 val_acc:0.989700000
+Epoch    60: reducing learning rate of group 0 to 5.2429e-07.
+epoch=83
+epoch: 83, current_count: 128 labels_count:6400 loss: 0.000200495 acc: 1.000000000 
+epoch: 83, current_count: 128 labels_count:12800 loss: 0.000160428 acc: 1.000000000 
+epoch: 83, current_count: 128 labels_count:19200 loss: 0.000170576 acc: 1.000000000 
+epoch: 83, current_count: 128 labels_count:25600 loss: 0.000239703 acc: 1.000000000 
+epoch: 83, current_count: 128 labels_count:32000 loss: 0.000220166 acc: 1.000000000 
+epoch: 83, current_count: 128 labels_count:38400 loss: 0.000166164 acc: 1.000000000 
+epoch: 83, current_count: 128 labels_count:44800 loss: 0.000267612 acc: 1.000000000 
+epoch: 83, current_count: 128 labels_count:51200 loss: 0.000187116 acc: 1.000000000 
+epoch: 83, current_count: 128 labels_count:57600 loss: 0.000187971 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 83, current_count: 1280 current_correct: 1270 acc_batch: 0.992187500
+epoch: 83, current_count: 2560 current_correct: 2535 acc_batch: 0.988281250
+epoch: 83, current_count: 3840 current_correct: 3803 acc_batch: 0.990625000
+epoch: 83, current_count: 5120 current_correct: 5067 acc_batch: 0.987500000
+epoch: 83, current_count: 6400 current_correct: 6341 acc_batch: 0.995312500
+epoch: 83, current_count: 7680 current_correct: 7607 acc_batch: 0.989062500
+epoch: 83, current_count: 8960 current_correct: 8877 acc_batch: 0.992187500
+current_label_count:16 != batch_size:128
+val_loss:0.033166774 val_acc:0.990500000
+epoch=84
+epoch: 84, current_count: 128 labels_count:6400 loss: 0.000258709 acc: 1.000000000 
+epoch: 84, current_count: 128 labels_count:12800 loss: 0.000221373 acc: 1.000000000 
+epoch: 84, current_count: 128 labels_count:19200 loss: 0.000225858 acc: 1.000000000 
+epoch: 84, current_count: 128 labels_count:25600 loss: 0.000221860 acc: 1.000000000 
+epoch: 84, current_count: 128 labels_count:32000 loss: 0.000183841 acc: 1.000000000 
+epoch: 84, current_count: 128 labels_count:38400 loss: 0.000236442 acc: 1.000000000 
+epoch: 84, current_count: 128 labels_count:44800 loss: 0.000278808 acc: 1.000000000 
+epoch: 84, current_count: 128 labels_count:51200 loss: 0.000191199 acc: 1.000000000 
+epoch: 84, current_count: 128 labels_count:57600 loss: 0.000343815 acc: 0.999843750 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 84, current_count: 1280 current_correct: 1267 acc_batch: 0.989843750
+epoch: 84, current_count: 2560 current_correct: 2532 acc_batch: 0.988281250
+epoch: 84, current_count: 3840 current_correct: 3802 acc_batch: 0.992187500
+epoch: 84, current_count: 5120 current_correct: 5066 acc_batch: 0.987500000
+epoch: 84, current_count: 6400 current_correct: 6333 acc_batch: 0.989843750
+epoch: 84, current_count: 7680 current_correct: 7598 acc_batch: 0.988281250
+epoch: 84, current_count: 8960 current_correct: 8869 acc_batch: 0.992968750
+current_label_count:16 != batch_size:128
+val_loss:0.037202127 val_acc:0.989700000
+epoch=85
+epoch: 85, current_count: 128 labels_count:6400 loss: 0.000261575 acc: 1.000000000 
+epoch: 85, current_count: 128 labels_count:12800 loss: 0.000225303 acc: 1.000000000 
+epoch: 85, current_count: 128 labels_count:19200 loss: 0.000201170 acc: 1.000000000 
+epoch: 85, current_count: 128 labels_count:25600 loss: 0.000199024 acc: 1.000000000 
+epoch: 85, current_count: 128 labels_count:32000 loss: 0.000218976 acc: 1.000000000 
+epoch: 85, current_count: 128 labels_count:38400 loss: 0.000243743 acc: 1.000000000 
+epoch: 85, current_count: 128 labels_count:44800 loss: 0.000349762 acc: 1.000000000 
+epoch: 85, current_count: 128 labels_count:51200 loss: 0.000267658 acc: 1.000000000 
+epoch: 85, current_count: 128 labels_count:57600 loss: 0.000200122 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 85, current_count: 1280 current_correct: 1265 acc_batch: 0.988281250
+epoch: 85, current_count: 2560 current_correct: 2536 acc_batch: 0.992968750
+epoch: 85, current_count: 3840 current_correct: 3804 acc_batch: 0.990625000
+epoch: 85, current_count: 5120 current_correct: 5067 acc_batch: 0.986718750
+epoch: 85, current_count: 6400 current_correct: 6334 acc_batch: 0.989843750
+epoch: 85, current_count: 7680 current_correct: 7603 acc_batch: 0.991406250
+epoch: 85, current_count: 8960 current_correct: 8868 acc_batch: 0.988281250
+current_label_count:16 != batch_size:128
+val_loss:0.034521356 val_acc:0.989900000
+epoch=86
+epoch: 86, current_count: 128 labels_count:6400 loss: 0.000236835 acc: 1.000000000 
+epoch: 86, current_count: 128 labels_count:12800 loss: 0.000205570 acc: 1.000000000 
+epoch: 86, current_count: 128 labels_count:19200 loss: 0.000197042 acc: 1.000000000 
+epoch: 86, current_count: 128 labels_count:25600 loss: 0.000281169 acc: 1.000000000 
+epoch: 86, current_count: 128 labels_count:32000 loss: 0.000239132 acc: 1.000000000 
+epoch: 86, current_count: 128 labels_count:38400 loss: 0.000237848 acc: 1.000000000 
+epoch: 86, current_count: 128 labels_count:44800 loss: 0.000175659 acc: 1.000000000 
+epoch: 86, current_count: 128 labels_count:51200 loss: 0.000237281 acc: 1.000000000 
+epoch: 86, current_count: 128 labels_count:57600 loss: 0.000281885 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 86, current_count: 1280 current_correct: 1260 acc_batch: 0.984375000
+epoch: 86, current_count: 2560 current_correct: 2530 acc_batch: 0.992187500
+epoch: 86, current_count: 3840 current_correct: 3799 acc_batch: 0.991406250
+epoch: 86, current_count: 5120 current_correct: 5071 acc_batch: 0.993750000
+epoch: 86, current_count: 6400 current_correct: 6337 acc_batch: 0.989062500
+epoch: 86, current_count: 7680 current_correct: 7600 acc_batch: 0.986718750
+epoch: 86, current_count: 8960 current_correct: 8867 acc_batch: 0.989843750
+current_label_count:16 != batch_size:128
+val_loss:0.035933904 val_acc:0.989700000
+epoch=87
+epoch: 87, current_count: 128 labels_count:6400 loss: 0.000176095 acc: 1.000000000 
+epoch: 87, current_count: 128 labels_count:12800 loss: 0.000260739 acc: 1.000000000 
+epoch: 87, current_count: 128 labels_count:19200 loss: 0.000212927 acc: 1.000000000 
+epoch: 87, current_count: 128 labels_count:25600 loss: 0.000218864 acc: 1.000000000 
+epoch: 87, current_count: 128 labels_count:32000 loss: 0.000247108 acc: 1.000000000 
+epoch: 87, current_count: 128 labels_count:38400 loss: 0.000223257 acc: 1.000000000 
+epoch: 87, current_count: 128 labels_count:44800 loss: 0.000214384 acc: 1.000000000 
+epoch: 87, current_count: 128 labels_count:51200 loss: 0.000245673 acc: 1.000000000 
+epoch: 87, current_count: 128 labels_count:57600 loss: 0.000378042 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 87, current_count: 1280 current_correct: 1264 acc_batch: 0.987500000
+epoch: 87, current_count: 2560 current_correct: 2531 acc_batch: 0.989843750
+epoch: 87, current_count: 3840 current_correct: 3798 acc_batch: 0.989843750
+epoch: 87, current_count: 5120 current_correct: 5070 acc_batch: 0.993750000
+epoch: 87, current_count: 6400 current_correct: 6338 acc_batch: 0.990625000
+epoch: 87, current_count: 7680 current_correct: 7608 acc_batch: 0.992187500
+epoch: 87, current_count: 8960 current_correct: 8874 acc_batch: 0.989062500
+current_label_count:16 != batch_size:128
+val_loss:0.036491361 val_acc:0.989900000
+Epoch    65: reducing learning rate of group 0 to 2.0972e-07.
+epoch=88
+epoch: 88, current_count: 128 labels_count:6400 loss: 0.000194904 acc: 1.000000000 
+epoch: 88, current_count: 128 labels_count:12800 loss: 0.000233554 acc: 1.000000000 
+epoch: 88, current_count: 128 labels_count:19200 loss: 0.000161723 acc: 1.000000000 
+epoch: 88, current_count: 128 labels_count:25600 loss: 0.000213405 acc: 1.000000000 
+epoch: 88, current_count: 128 labels_count:32000 loss: 0.000320467 acc: 1.000000000 
+epoch: 88, current_count: 128 labels_count:38400 loss: 0.000182408 acc: 1.000000000 
+epoch: 88, current_count: 128 labels_count:44800 loss: 0.000190725 acc: 1.000000000 
+epoch: 88, current_count: 128 labels_count:51200 loss: 0.000171928 acc: 1.000000000 
+epoch: 88, current_count: 128 labels_count:57600 loss: 0.000374555 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 88, current_count: 1280 current_correct: 1268 acc_batch: 0.990625000
+epoch: 88, current_count: 2560 current_correct: 2536 acc_batch: 0.990625000
+epoch: 88, current_count: 3840 current_correct: 3804 acc_batch: 0.990625000
+epoch: 88, current_count: 5120 current_correct: 5068 acc_batch: 0.987500000
+epoch: 88, current_count: 6400 current_correct: 6332 acc_batch: 0.987500000
+epoch: 88, current_count: 7680 current_correct: 7601 acc_batch: 0.991406250
+epoch: 88, current_count: 8960 current_correct: 8874 acc_batch: 0.994531250
+current_label_count:16 != batch_size:128
+val_loss:0.033718027 val_acc:0.990200000
+epoch=89
+epoch: 89, current_count: 128 labels_count:6400 loss: 0.000292226 acc: 1.000000000 
+epoch: 89, current_count: 128 labels_count:12800 loss: 0.000223380 acc: 1.000000000 
+epoch: 89, current_count: 128 labels_count:19200 loss: 0.000209116 acc: 1.000000000 
+epoch: 89, current_count: 128 labels_count:25600 loss: 0.000229201 acc: 1.000000000 
+epoch: 89, current_count: 128 labels_count:32000 loss: 0.000389508 acc: 0.999843750 
+epoch: 89, current_count: 128 labels_count:38400 loss: 0.000190000 acc: 1.000000000 
+epoch: 89, current_count: 128 labels_count:44800 loss: 0.000205500 acc: 1.000000000 
+epoch: 89, current_count: 128 labels_count:51200 loss: 0.000245752 acc: 1.000000000 
+epoch: 89, current_count: 128 labels_count:57600 loss: 0.000212429 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:59999 total_acc:0.999983333
+Module Saved
+validating
+epoch: 89, current_count: 1280 current_correct: 1263 acc_batch: 0.986718750
+epoch: 89, current_count: 2560 current_correct: 2530 acc_batch: 0.989843750
+epoch: 89, current_count: 3840 current_correct: 3791 acc_batch: 0.985156250
+epoch: 89, current_count: 5120 current_correct: 5061 acc_batch: 0.992187500
+epoch: 89, current_count: 6400 current_correct: 6331 acc_batch: 0.992187500
+epoch: 89, current_count: 7680 current_correct: 7597 acc_batch: 0.989062500
+epoch: 89, current_count: 8960 current_correct: 8871 acc_batch: 0.995312500
+current_label_count:16 != batch_size:128
+val_loss:0.033751454 val_acc:0.989900000
+epoch=90
+epoch: 90, current_count: 128 labels_count:6400 loss: 0.000233258 acc: 1.000000000 
+epoch: 90, current_count: 128 labels_count:12800 loss: 0.000314609 acc: 1.000000000 
+epoch: 90, current_count: 128 labels_count:19200 loss: 0.000236931 acc: 1.000000000 
+epoch: 90, current_count: 128 labels_count:25600 loss: 0.000221025 acc: 1.000000000 
+epoch: 90, current_count: 128 labels_count:32000 loss: 0.000214627 acc: 1.000000000 
+epoch: 90, current_count: 128 labels_count:38400 loss: 0.000244841 acc: 1.000000000 
+epoch: 90, current_count: 128 labels_count:44800 loss: 0.000220243 acc: 1.000000000 
+epoch: 90, current_count: 128 labels_count:51200 loss: 0.000187987 acc: 1.000000000 
+epoch: 90, current_count: 128 labels_count:57600 loss: 0.000275738 acc: 1.000000000 
+current_labels_count:96 != batch_size:128
+epoch finished. total_labels:60000 total_correct:60000 total_acc:1.000000000
+Module Saved
+validating
+epoch: 90, current_count: 1280 current_correct: 1263 acc_batch: 0.986718750
+epoch: 90, current_count: 2560 current_correct: 2529 acc_batch: 0.989062500
+epoch: 90, current_count: 3840 current_correct: 3801 acc_batch: 0.993750000
+epoch: 90, current_count: 5120 current_correct: 5070 acc_batch: 0.991406250
+epoch: 90, current_count: 6400 current_correct: 6338 acc_batch: 0.990625000
+epoch: 90, current_count: 7680 current_correct: 7602 acc_batch: 0.987500000
+epoch: 90, current_count: 8960 current_correct: 8866 acc_batch: 0.987500000
+current_label_count:16 != batch_size:128
+val_loss:0.037907518 val_acc:0.989400000
+epoch=91
+epoch: 91, current_count: 128 labels_count:6400 loss: 0.000232638 acc: 1.000000000 
+epoch: 91, current_count: 128 labels_count:12800 loss: 0.000215862 acc: 1.000000000 
+epoch: 91, current_count: 128 labels_count:19200 loss: 0.000195889 acc: 1.000000000 
+epoch: 91, current_count: 128 labels_count:25600 loss: 0.000271395 acc: 1.000000000 
+epoch: 91, current_count: 128 labels_count:32000 loss: 0.000244836 acc: 1.000000000 
+epoch: 91, current_count: 128 labels_count:38400 loss: 0.000167613 acc: 1.000000000 
