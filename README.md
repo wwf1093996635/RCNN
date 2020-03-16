@@ -16,7 +16,7 @@ The following are experiment results of RCNN using BN. The No. of parameter is f
 | RCNN-128 |      1.19 M       |       6.50        |
 | RCNN-160 |      1.86 M       |       6.65        |
 
-[comment]:![train_curve_96](./Data/RCNN-CIFAR10/RCNN-BN-D/96.png)
+[comment]:![train_curve_96](./Data/RCNN-CIFAR10/RCNN-BN-D/96.jpg)
 <div align="center">
     <img src="./Data/RCNN-CIFAR10/RCNN-BN-D/96.jpg" width=500>
     <br>
