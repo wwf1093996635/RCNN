@@ -1,7 +1,7 @@
 #  Implementation of "Recurrent Convolution Neural Network for Object Recognition" (CVPR, 2015)
 I selectively reproduced some of the results in [Recurrent Convolutional Neural Network for Object Recognition](http://xlhu.cn/papers/Liang15-cvpr.pdf) based on pytorch. I referred to [TsukamotoShuchi's implementation](https://github.com/TsukamotoShuchi/RCNN) in augmentation methods and details of structure of the RCNN block.
 
-I designed, tested, and modified RCNN block for classification task on MNIST and CIFAR10 respectively. The normalization method used in the paper is LRU(local response unit). My main focus is on trying different normalization methods to further improve performance. The methods I used include LRN, BN(batch normalization), LN(layer normalization).
+I designed, tested, and modified RCNN block for classification task on MNIST and CIFAR10 respectively. The normalization method used in the paper is LRU(local response unit). My main focus is on trying different normalization methods to further improve performance. The methods I tried include LRN, BN(batch normalization), LN(layer normalization).
 
 It turns out that a lot of details, such as setting of dropout layers, affect network performance, and Batch Normalization beats all other methods I tried and successfully improve test accurary rate.
 
@@ -12,9 +12,9 @@ One important technique when using BN instead of LRN is that for each iteration,
 The following are experiment results of RCNN using BN.
 | Network  | No. of Parameters | Testing Error (%) |
 | :------: | :---------------: | :---------------: |
-| RCNN_BN-96  |      0.67 M       |       6.84        |
-| RCNN_BN-128 |      1.19 M       |       6.50        |
-| RCNN_BN-160 |      1.86 M       |       6.65        |
+| RCNN-96  |      0.67 M       |       6.84        |
+| RCNN-128 |      1.19 M       |       6.50        |
+| RCNN-160 |      1.86 M       |       6.65        |
 
 [comment]:![train_curve_96](./Data/RCNN-CIFAR10/RCNN-BN-D/96.png)
 <div align="center">
